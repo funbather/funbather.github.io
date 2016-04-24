@@ -1,11 +1,182 @@
-<html>
-	<head>
-		<meta charset= "UTF-8">
-		<title></title>
-	</head>
-	
-	<body>
-		"If a man does not have sauce then he is lost.<br>
-		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;But that same man can be lost in the sauce..."<br><br>
-	</body>
+<!DOCTYPE html>
+<html lang="en">
+
+  <head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <title>
+    
+      Ben Roche &middot; Developer For Hire
+    
+  </title>
+
+  <link rel="stylesheet" href="/styles.css">
+  
+  <link rel="shortcut icon" href="/public/favicon.ico">
+
+  <link href='https://fonts.googleapis.com/css?family=PT+Serif:400,700,400italic' rel='stylesheet' type='text/css'>
+</head>
+
+
+  <body>
+
+    <div class="container content"> 
+      
+
+
+      <main>
+        <div class="home">
+
+  <div class="mini-intro">
+    <img class="avatar" src="img/profile-pic.jpg" alt="your-photo">
+    
+    
+<h1 id="hi-im-ben"><a href="/">Hi, I’m Ben.</a></h1>
+
+<p>I’m a software engineer and amateur game developer.</p>
+
+<p>I love learning new technologies, web/mobile development, game design, my cat, and a nice cold beer on Friday nights.</p>
+
+<p>If you need to get in contact with me, please email me at <a href="&#109;&#097;&#105;&#108;&#116;&#111;:&#098;&#114;&#048;&#057;&#102;&#064;&#109;&#121;&#046;&#102;&#115;&#117;&#046;&#101;&#100;&#117;">&#098;&#114;&#048;&#057;&#102;&#064;&#109;&#121;&#046;&#102;&#115;&#117;&#046;&#101;&#100;&#117;</a> or use the Contact form below.</p>
+
+
+  </div>
+
+  <ul class="accordion-tabs">
+    <li class="tab-header-and-content">
+      <div class="tab-aside-content">
+      <!-- no tab content, filler div for initial borders --> 
+      </div>
+    </li>
+
+    <li class="tab-header-and-content">
+      <a href="#" class="tab-link">Projects</a>
+      <div class="tab-content featured-projects"> 
+        
+        
+<h1 id="heres-what-ive-been-working-on">Here’s what I’ve been working on</h1>
+
+<ul>
+  <li>
+    <h3 id="all-dogs-go-to-heaven">All Dogs Go To Heaven</h3>
+    <p><img src="http://funbather.github.io/img/adgth1.png" alt="ADGTH Screenshot 1" />
+  <img src="http://funbather.github.io/img/adgth2.png" alt="ADGTH Screenshot 2" /></p>
+
+    <ul>
+      <li>In-development cooperative action RPG.</li>
+      <li>Based on <a href="https://github.com/rathena/rathena">rAthena</a> and <a href="https://github.com/vthibault/roBrowser/">roBrowser</a>.</li>
+      <li>Maintained on GitHub: <a href="https://github.com/funbather/adgthClient">Client</a> / <a href="https://github.com/funbather/adgthServ">Server</a> / <a href="https://github.com/funbather/adgthData">Additional Data</a></li>
+      <li>Demo server currently offline.</li>
+    </ul>
+  </li>
+  <li>
+    <h3 id="gone-to-the-dogs">Gone To The Dogs</h3>
+    <p><img src="http://funbather.github.io/img/gttd1.png" alt="GTTD Screenshot 1" />
+  <img src="http://funbather.github.io/img/gttd2.png" alt="GTTD Screenshot 2" /></p>
+
+    <ul>
+      <li>In-development platformer, inspired by the Metroid and Momodora series.</li>
+      <li>Extremely pre-alpha demo playable <a href="http://aws.unicornfan.com/gttd/">here</a>.</li>
+    </ul>
+  </li>
+  <li>
+    <h3 id="quickrpg">QuickRPG</h3>
+    <ul>
+      <li>Twitter bot that, upon request, generates a random RPG character and simulates their trials and tribulations.</li>
+      <li>Includes a robust battle system.</li>
+      <li>Source available <a href="http://aws.unicornfan.com/quickrpg/quickrpg.py">here</a>.</li>
+      <li>Bot available <a href="http://www.twitter.com/quickrpg">here</a> (Currently offline!)</li>
+    </ul>
+  </li>
+  <li>
+    <h3 id="reminder-reminder">Reminder Reminder</h3>
+    <ul>
+      <li>Android application that lets you send a delayed notification to yourself.</li>
+      <li>Camera integration to capture important notes quickly.</li>
+    </ul>
+  </li>
+</ul>
+
+
+      </div>
+    </li>
+
+    <li class="tab-header-and-content">
+      <a href="#" class="tab-link">Resume</a>
+      <div class="tab-content">
+        <h2>Click <a href="/resume.pdf">-Here-</a> to download.</h2> <br>
+<iframe src="https://docs.google.com/file/d/0ByLvHYN1b30-cTFiMU1ybEl1QUE/preview" width="100%" height="800"></iframe>
+
+      </div>
+    </li>
+
+    <li class="tab-header-and-content">
+      <a href="#" class="tab-link">Contact</a>
+      <div class="tab-content">
+        <!-- formspree contact form --> 
+<h2> Talk to me. </h2>
+<form class="contact-form" id="contact-form" method="POST">
+    <input type="text" name="name" 
+    placeholder="I am..." required> 
+
+    <input type="email" name="_replyto" 
+    placeholder="My email is..." required>
+
+    <!-- so that you know where email came from --> 
+    <input type="hidden" name="_subject" value="blog contact" /> 
+
+    <textarea name="message" placeholder="Here's what's on my mind..."
+     class="expanding" required></textarea>
+
+     <!-- return to page after sending form -->
+    <input type="hidden" name="_next" value="http://funbather.github.io" />
+    <!-- honeypot field, to avoid spam --> 
+    <input type="text" name="_gotcha" style="display:none" />
+
+    <input class="send-button" type="submit" value="Send"> 
+</form>
+
+<!-- wrap email attribute in JS for extra security -->
+<script>
+    var contactform =  document.getElementById('contact-form');
+    contactform.setAttribute('action', '//formspree.io/' + 'br09f@my.fsu.edu');
+</script>
+
+
+      </div>
+    </li>
+  </ul>
+
+</div>
+
+
+
+
+
+
+
+      </main>
+    
+      
+
+    </div>
+
+    
+
+    <script src="/js/jquery.min.js"></script>
+<script src="/js/site-form-triggers.js"></script>
+
+
+<script src="/js/home-accordion-tabs.js"></script>
+
+
+
+
+
+
+
+
+  </body>
+
 </html>
