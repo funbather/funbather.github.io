@@ -1,0 +1,1281 @@
+import random
+import time
+import sys
+
+start_time = time.time()
+
+DBCLASSES = ["--", 
+             "Berserker", 
+             "Knight", 
+             "Cavalier", 
+             "Peltast", 
+             "Omniknight", 
+             "Fencer", 
+             "Monk", 
+             "Dragoon",
+             "Samurai", 
+             "Paladin", 
+             "Templar", 
+             "Blacksmith", 
+             "Spellsword", 
+             "Marksman", 
+             "Sniper", 
+             "Brave",
+             "Venomancer", 
+             "Sorcerer", 
+             "Seer", 
+             "Rogue", 
+             "Assassin", 
+             "Adventurer", 
+             "Devout", 
+             "Stalker",
+             "Tactician", 
+             "Freelancer"] #1-26
+
+             
+DBSKILLS =  ["--", 
+             "Heavy Blow", 
+             "Valor", 
+             "Take The Initiative", 
+             "Aegis", 
+             "Combat Expertise", 
+             "Heartseeker", 
+             "Equilibrium", 
+             "Dragon's Blood",
+             "Shirahadori", 
+             "Lay On Hands", 
+             "Hallowed Strike", 
+             "Renowned Artisan", 
+             "Mahouha", 
+             "Bullseye", 
+             "Eagle Eyes", 
+             "Resolute Strike",
+             "Miasma", 
+             "Arcane Bolt", 
+             "Foresight", 
+             "Mug", 
+             "Mercy Stroke", 
+             "Treasure Hunter", 
+             "Righteous Fury", 
+             "Ambush",
+             "Superior Strategy", 
+             "Aptitude"] #1-26
+
+DBLIKES = [0x0,
+           0x800,
+           0x40,
+           0x400,
+           0x8000,
+           0x10,
+           0x100,
+           0x0,
+           0x400,
+           0x100,
+           0x10000,
+           0x100 | 0x2000,
+           0x800,
+           0x100,
+           0x200 | 0x1000,
+           0x1000,
+           0x100,
+           0x2000 | 0x4000,
+           0x2000,
+           0x4,
+           0x200,
+           0x200,
+           0x200 | 0x1000,
+           0x4000,
+           0x200,
+           0x400 | 0x2000,
+           0x0]
+           
+DBDISLIKES = [0x0,
+              0x20,
+              0x80,
+              0x200,
+              0x20,
+              0x20,
+              0x800,
+              0x0,
+              0x100,
+              0x200,
+              0x20000,
+              0x4000,
+              0x100,
+              0x2 | 0x8 | 0x20 | 0x200 | 0x400 | 0x800 | 0x1000 | 0x2000 | 0x4000 | 0x8000,
+              0x800,
+              0x2 | 0x8 | 0x20 | 0x100 | 0x200 | 0x400 | 0x800 | 0x2000 | 0x4000 | 0x8000,
+              0x400,
+              0x10000,
+              0x10,
+              0x8,
+              0x400,
+              0x800,
+              0x2,
+              0x2000,
+              0x40,
+              0x800,
+              0x0]
+                        
+DBSKDESC =  ["--", 
+             "(ACT) Deal x1.5 ATK Phys DMG", 
+             "(SUP) x1.1 ATK, -10% DMG taken", 
+             "(SUP) First attack deals x1.5 DMG, Ignores AVO", 
+             "(SUP) Greatly increased chance to block", 
+             "(SUP) x2.0 Weapon Power", 
+             "(ACT) Ignores DEF, x1.33 CRI", 
+             "(SUP) All stats equal to your highest", 
+             "(RCT) -50% Arcane DMG taken",
+             "(RCT) Ignore Phys DMG and counterattack", 
+             "(ACT) Heal +MAG HP after attacking", 
+             "(ACT) Deal ATK+MAG+LVL Phys DMG", 
+             "(SUP) Can refine equipment past their limits", 
+             "(SUP) ATK increased by MAG", 
+             "(SUP) x1.2 CRI", 
+             "(SUP) Ignore AVO", 
+             "(ACT) Deal x1.2 ATK Phys DMG, Ignores AVO",
+             "(SUP) Enemies lose 1/8 HP per turn", 
+             "(ACT) Deal x1.75 MAG Arcane DMG", 
+             "(SUP) x1.1 AVO, counterattack after dodging", 
+             "(ACT) x1.2 DMG, Gain some Gold", 
+             "(ACT) x2.0 DMG if DMG would be lethal", 
+             "(SUP) Find more items and Gold", 
+             "(SUP) x1.35 DMG vs. Undead", 
+             "(SUP) First attack is always a critical strike",
+             "(SUP) Deal 15% more DMG every turn", 
+             "(SUP) Exceptional stat growth, no secondary class"] #1-26
+             
+DBCID     = {"--":0, 
+             "BRS":1, 
+             "KNT":2, 
+             "CAV":3, 
+             "PLT":4, 
+             "OMN":5, 
+             "FEN":6, 
+             "MNK":7, 
+             "DRG":8,
+             "SAM":9, 
+             "PAL":10, 
+             "TMP":11, 
+             "BLK":12, 
+             "SPS":13, 
+             "MRK":14, 
+             "SNP":15, 
+             "BRV":16,
+             "VNM":17, 
+             "SRC":18, 
+             "SEE":19, 
+             "ROG":20, 
+             "ASN":21, 
+             "ADV":22, 
+             "DVT":23, 
+             "STK":24,
+             "TAC":25, 
+             "FRE":26}
+             
+DBGROWTHS = [[0 ,0 ,0 ,0 ,0 ], #--
+             [65,30,40,0 ,30], #BRS
+             [40,25,50,10,40], #KNT
+             [50,50,40,0 ,25], #CAV
+             [40,10,80,0 ,35], #PLT
+             [45,35,45,0 ,40], #OMN
+             [35,70,20,0 ,40], #FEN
+             [35,35,35,35,35], #MNK
+             [40,65,30,0 ,35], #DRG
+             [50,40,50,0 ,25], #SAM
+             [45,10,50,30,30], #PAL
+             [45,20,35,35,30], #TMP
+             [50,20,30,10,55], #BLK
+             [10,20,20,70,45], #SPS
+             [50,45,10,10,50], #MRK
+             [80,25,20,0 ,40], #SNP
+             [55,30,35,0 ,45], #BRV
+             [20,20,20,70,35], #VNM
+             [10,30,10,80,35], #SRC
+             [25,40,25,50,25], #SEE
+             [40,50,15,30,30], #ROG
+             [40,55,15,25,35], #ASN
+             [40,50,15,30,30], #ADV
+             [30,35,35,55,10], #DVT
+             [35,55,20,20,35], #STK
+             [40,25,25,40,35], #TAC
+             [70,55,55,70,60]] #FRE
+
+DBGROWTHS2 = [[0 ,0 ,0 ,0 ,0 ], #--
+             [25,0 ,10,0 ,0 ], #BRS
+             [10,0 ,15,0 ,10], #KNT
+             [10,15,10,0 ,0 ], #CAV
+             [10,0 ,25,0 ,0 ], #PLT
+             [10,10,10,0 ,10], #OMN
+             [5 ,35,0 ,0 ,0 ], #FEN
+             [10,10,10,10,10], #MNK
+             [10,20,5 ,0 ,0 ], #DRG
+             [10,10,15,0 ,0 ], #SAM
+             [10,0 ,20,10,0 ], #PAL
+             [15,0 ,10,15,0 ], #TMP
+             [15,0 ,0 ,0 ,25], #BLK
+             [10,0 ,0 ,25,0 ], #SPS
+             [5 ,5 ,0 ,0 ,25], #MRK
+             [35,0 ,0 ,0 ,0 ], #SNP
+             [10,5 ,10,0 ,15], #BRV
+             [0 ,0 ,0 ,25,10], #VNM
+             [0 ,0 ,0 ,40,0 ], #SRC
+             [10,10,10,10,10], #SEE
+             [10,15,0 ,10,0 ], #ROG
+             [5 ,25,0 ,5 ,0 ], #ASN
+             [15,20,0 ,0 ,0 ], #ADV
+             [10,0 ,15,15,0 ], #DVT
+             [10,15,5 ,5 ,5 ], #STK
+             [20,0 ,0 ,20,0 ], #TAC
+             [0 ,0 ,0 ,0 ,0 ]] #FRE
+             
+DBBOONS = [[0 ,0 ,0 ,0 ,0 ,"--"],
+           [30,0 ,0 ,0 ,0 ,"Powerful"],
+           [0 ,30,0 ,0 ,0 ,"Nimble"],
+           [0 ,0 ,30,0 ,0 ,"Stalwart"],
+           [0 ,0 ,0 ,30,0 ,"Brilliant"],
+           [0 ,0 ,0 ,0 ,30,"Precise"],
+           [15,15,0 ,0 ,0 ,"Athletic"],
+           [15,0 ,15,0 ,0 ,"Tenacious"],
+           [15,0 ,0 ,15,0 ,"Adaptable"],
+           [15,0 ,0 ,0 ,15,"Dependable"],
+           [0 ,15,15,0 ,0 ,"Tough"],
+           [0 ,15,0 ,15,0 ,"Erudite"],
+           [0 ,15,0 ,0 ,15,"Swift"],
+           [0 ,0 ,15,15,0 ,"Scholarly"],
+           [0 ,0 ,15,0 ,15,"Valiant"],
+           [0 ,0 ,0 ,15,15,"Wise"],
+           [10,10,10,10,10,"Experienced"]]
+             
+DBFLAWS = [[0 ,0 ,0 ,0 ,0 ,"--"],
+           [20,0 ,0 ,0 ,0 ,"Weak"],
+           [0 ,20,0 ,0 ,0 ,"Awkward"],
+           [0 ,0 ,20,0 ,0 ,"Sickly"],
+           [0 ,0 ,0 ,20,0 ,"Dense"],
+           [0 ,0 ,0 ,0 ,20,"Clumsy"],
+           [10,10,0 ,0 ,0 ,"Feeble"],
+           [10,0 ,10,0 ,0 ,"Frail"],
+           [10,0 ,0 ,10,0 ,"Timid"],
+           [10,0 ,0 ,0 ,10,"Oafish"],
+           [0 ,10,10,0 ,0 ,"Helpless"],
+           [0 ,10,0 ,10,0 ,"Dimwitted"],
+           [0 ,10,0 ,0 ,10,"Uncoordinated"],
+           [0 ,0 ,10,10,0 ,"Inept"],
+           [0 ,0 ,10,0 ,10,"Inelegant"],
+           [0 ,0 ,0 ,10,10,"Graceless"],
+           [5 ,5 ,5 ,5 ,5 ,"Lazy"]]
+           
+DBDISPOSITION = [[0 ,0 ,100,"--"],
+                 [200,5 ,50,"Born Lucky"],
+                 [60,10,120,"Hard Worker"],
+                 [25,-10,300,"Naturally Talented"],
+                 [125,0 ,110,"Blessed In Life"],
+                 [-20,15,150,"Hapless, But Hopeful"],
+                 [25,0 ,150,"Indifferent"],
+                 [-25,10,160,"Seen Better Days"],
+                 [-50,25,50,"Down On Their Luck"],
+                 [25,10,100,"Always Looking Forward"],
+                 [50,5 ,125,"Optimistic"]]
+
+
+'''
+MOB FLAGS
+1 - Undead
+2 - Uses MAG instead of ATK
+4 - Has skill
+8 - Boss
+'''                 
+DBMOB = [[0 ,0 ,0 ,0 ,0 ,"--"],
+         [35,10,35,0 ,0 ,0,"Slime"], #
+         [55,10,15,0 ,15,1,"Skeletal Warrior"], #
+         [0 ,10,5 ,35,20,3,"Skeletal Mage"], #
+         [25,35,10,0 ,25,1,"Skeletal Archer"], #
+         [75,5 ,25,0 ,0 ,1,"Returned"], #
+         [25,0 ,60,0 ,0 ,0,"Ooze"], #
+         [0 ,55,25,35,0 ,2,"Shrieker"], #
+         [35,25,25,0 ,30,4,"Beholder"], # 1-8
+         [45,0 ,70,0 ,20,4,"Rune Golem"], ##
+         [35,20,70,0 ,0 ,4,"Clay Golem"], ##
+         [65,35,15,0 ,0 ,5,"Ghast"], ##
+         [0 ,55,15,55,0 ,7,"Revenant"], ##
+         [35,75,30,0 ,0 ,0,"Cryptskulker"], ##
+         [50,20,50,0 ,30,0,"Depthdweller"], ## 9-14
+         [0 ,20,25,35,0 ,6,"Hexmage"], ###
+         [55,75,5 ,0 ,0 ,5,"Apoplexy"], ###
+         [45,35,60,0 ,20,5,"Aberration"], ###
+         [0 ,50,35,45,35,7,"Banshee"], ### 15-18
+         [75,10,85,0 ,30,13,"Skeletal King"], # LV 10
+         [55,85,30,0 ,30,12,"Gigant Spider"], # LV 20
+         [0 ,35,65,25,99,14,"Astigmatism"], # LV 30
+         [85,15,85,0 ,0 ,13,"Shambling Dragon"], # LV 40
+         [0 ,55,55,75,55,15,"Lich Lord"]] # LV 50
+    
+DBDEATH = ["--",
+           "was slowly digested by a Slime",
+           "was bested in battle by a Skeletal Warrior",
+           "was incinerated by a Skeletal Mage",
+           "was turned into a pincushion by a Skeletal Archer",
+           "was eaten alive by a Returned",
+           "was suffocated by an Ooze",
+           "was driven insane by a Shrieker",
+           "was turned to stone by a Beholder",
+           "was crushed by a Rune Golem",
+           "was smushed by a Clay Golem",
+           "had their soul stolen by a Ghast",
+           "was spooked to death by a Revenant",
+           "was ripped to shreds by a Cryptskulker",
+           "lost a fight to a Depthdweller",
+           "was eternally spellbound by a Hexmage",
+           "suffered organ failure from an Apoplexy",
+           "was torn apart by an Aberration",
+           "lost their mind to a Banshee",
+           "was ground to dust by the Skeletal King",
+           "had their life sucked out of their body by the Gigant Spider",
+           "had their death fortold by the Astigmatism",
+           "was overwhelmed by the Shambling Dragon",
+           "was obliterated by the Lich Lord"]
+
+'''
+ITEMS - ID, Name, F1, F2, S1, S2
+
+FLAG1 Attributes
+0x1     - Equippable
+0x2     - Consumable
+0x4     - Weapon
+0x8     - Armor
+0x10    - Physical Weapon
+0x20    - Magical Weapon
+0x40    - Heavy Armor
+0x80    - Light Armor
+0x100   - Sword
+0x200   - Dagger
+0x400   - Spear
+0x800   - Axe
+0x1000  - Bow
+0x2000  - Spellbook
+0x4000  - Staff
+0x8000  - Shield
+0x10000 - Holy Item
+0x20000 - Arcane Item
+
+FLAG2 Equip Location
+0x1  - Head
+0x2  - R Hand
+0x4  - L Hand
+0x8  - Body
+0x10 - Acc
+
+STAT1 - Weapon Power, +INT, +HP, Block Phys, Heal Amount
+STAT2 - +MAG, Block Mag, Consumable takes entire turn (0/1)
+
+Other effects calculated later
+'''
+DBITEM = [[0,"--",0x0,0x0,0,0],
+          [1,"Estoc",0x115,0x2,9,0],
+          [2,"Arming Sword",0x115,0x2,14,0],
+          [3,"Hallowed Sabre",0x10115,0x2,10,0],
+          [4,"Stiletto",0x215,0x2,8,0],
+          [5,"Rondel",0x215,0x2,9,0],
+          [6,"Lance",0x415,0x2,13,0],
+          [7,"Naginata",0x415,0x2,11,0],
+          [8,"Battleaxe",0x815,0x2,23,0],
+          [9,"Sabbath",0x10815,0x2,16,0],
+          [10,"Warhammer",0x815,0x2,19,0],
+          [11,"Longbow",0x1015,0x2,16,0],
+          [12,"Composite Bow",0x1015,0x2,13,0],
+          [13,"Arcane Tome",0x22025,0x2,10,115],
+          [14,"Sage's Diary",0x2025,0x2,12,125],
+          [15,"Oak Staff",0x4025,0x2,35,100],
+          [16,"Jewelled Cane",0x24025,0x2,25,105],
+          [17,"Steel Helm",0x49,0x1,0,0],
+          [18,"Hachimaki",0x9,0x1,0,0],
+          [19,"Circlet",0x9,0x1,0,0],
+          [20,"Goggles",0x9,0x1,0,0],
+          [21,"Bandanna",0x9,0x1,0,0],
+          [22,"Platemail",0x49,0x8,20,0],
+          [23,"Brigandine",0x49,0x8,12,0],
+          [24,"Magus Robe",0x20089,0x8,5,0],
+          [25,"Leather Tunic",0x89,0x8,7,0],
+          [26,"Tower Shield",0x8049,0x4,25,0],
+          [27,"Rune Buckler",0x8049,0x4,15,15],
+          [28,"Forcefield",0x8089,0x4,0,0],
+          [29,"Rosary",0x10009,0x10,0,0],
+          [30,"Cursed Locket",0x20009,0x10,0,0],
+          [31,"Gauntlets",0x9,0x10,0,0],
+          [32,"Steel Bracer",0x9,0x10,0,0],
+          [33,"Feathered Cape",0x9,0x10,0,0],
+          [34,"Salve",0x2,0x0,25,0],
+          [35,"Bandages",0x2,0x0,100,1],
+          [36,"Elixir",0x2,0x0,65,0]]
+
+def calcGrowth(stat, class1, class2, boon, flaw, disposition):
+	return max(10,DBGROWTHS[class1][stat] + DBGROWTHS2[class2][stat] + DBBOONS[boon][stat] + DBDISPOSITION[disposition][1] - DBFLAWS[flaw][stat])
+	
+def calcGrowthMob(stat, id):
+	return max(5,5 + DBMOB[id][stat])
+	
+def generatePlayer(name, seed):
+	random.seed(seed)
+	boon = random.randint(1,16)
+	flaw = random.randint(1,16)
+	
+	while boon == flaw:
+		flaw = random.randint(1,16)
+		
+	disposition = random.randint(1,10)
+	
+	class1 = random.randint(1,26)
+	class2 = random.randint(1,26)
+	
+	if class1 == 26:
+		class2 = 0
+	
+	while class1 == class2 or class2 == 26: # Freelancer can't have a secondary
+		class2 = random.randint(1,26)
+		
+	str_ = 10
+	agi = 10
+	vit = 10
+	int_ = 10
+	dex = 10
+	
+	for i in range(0, 15):
+		if random.randint(1,100) <= calcGrowth(0, class1, class2, boon, flaw, disposition):
+			str_ += 1
+			
+		if random.randint(1,100) <= calcGrowth(1, class1, class2, boon, flaw, disposition):
+			agi += 1
+			
+		if random.randint(1,100) <= calcGrowth(2, class1, class2, boon, flaw, disposition):
+			vit += 1
+			
+		if random.randint(1,100) <= calcGrowth(3, class1, class2, boon, flaw, disposition):
+			int_ += 1
+			
+		if random.randint(1,100) <= calcGrowth(4, class1, class2, boon, flaw, disposition):
+			dex += 1
+	
+	str_ = max(5, (str_ * DBDISPOSITION[disposition][2]) // 100)
+	agi = max(5, (agi * DBDISPOSITION[disposition][2]) // 100)
+	vit = max(5, (vit * DBDISPOSITION[disposition][2]) // 100)
+	int_ = max(5, (int_ * DBDISPOSITION[disposition][2]) // 100)
+	dex = max(5, (dex * DBDISPOSITION[disposition][2]) // 100)
+	
+	#Flag of 0x100 denotes Player Character
+	return Unit(name,1,str_,agi,vit,int_,dex,DBDISPOSITION[disposition][0],boon,flaw,disposition,class1,class2,0x100,[],[[0,1,0],[2,1,0],[0,1,0],[25,1,0],[0,1,0]])
+	
+def generateMob(plvl):
+	
+	if plvl < 15:
+		mob = random.randint(1,8)
+	elif plvl < 30:
+		mob = random.randint(1,14)
+	else:
+		mob = random.randint(1,18)
+		
+	if plvl == 10:
+		mob = 19
+	if plvl == 20:
+		mob = 20
+	if plvl == 30:
+		mob = 21
+	if plvl == 40:
+		mob = 22
+	if plvl == 50:
+		mob = 23
+		
+	str_ = 3
+	agi = 3
+	vit = 3
+	int_ = 3
+	dex = 3
+	
+	for i in range(0, 15 + (plvl * 5)):
+		if random.randint(1,100) <= calcGrowthMob(0,mob):
+			str_ += 1
+			
+		if random.randint(1,100) <= calcGrowthMob(1,mob):
+			agi += 1
+			
+		if random.randint(1,100) <= calcGrowthMob(2,mob):
+			vit += 1
+			
+		if random.randint(1,100) <= calcGrowthMob(3,mob):
+			int_ += 1
+			
+		if random.randint(1,100) <= calcGrowthMob(4,mob):
+			dex += 1
+			
+	return Unit(DBMOB[mob][6], plvl, str_, agi, vit, int_, dex, 0, 0, 0, 0, mob, 0, DBMOB[mob][5], [], [[0,1,0],[0,1,0],[0,1,0],[0,1,0],[0,1,0]])
+
+def calcSTR(unit):
+	tstr = unit.str_
+	
+	if (unit.class1 == DBCID["MNK"] or unit.class2 == DBCID["MNK"]) and unit.flags & 0x100:
+		tlist = [unit.str_, unit.agi, unit.vit, unit.int_, unit.dex]
+		tstr = max(tlist)
+	
+	tstr = (tstr * 115 // 100) if unit.equipped[1][0] == 11 else tstr #Longbow x1.15 STR
+	tstr = (tstr * 120 // 100) if unit.equipped[0][0] == 18 else tstr #Hachimaki x1.20 STR	
+	
+	return max(0,tstr)
+
+def calcAGI(unit):
+	tagi = unit.agi
+	
+	if (unit.class1 == DBCID["MNK"] or unit.class2 == DBCID["MNK"]) and unit.flags & 0x100:
+		tlist = [unit.str_, unit.agi, unit.vit, unit.int_, unit.dex]
+		tagi = max(tlist)
+	
+	tagi = (tagi * 125 // 100) if unit.equipped[1][0] == 4 else tagi #Stiletto x1.25 AGI
+	tagi = (tagi * 125 // 100) if unit.equipped[1][0] == 5 else tagi #Rondel x1.25 AGI
+	tagi = (tagi * 120 // 100) if unit.equipped[0][0] == 21 else tagi #Bandanna x1.20 AGI
+	tagi = (tagi * 110 // 100) if unit.equipped[3][0] == 23 else tagi #Brigandine x1.10 AGI
+	tagi = (tagi * 115 // 100) if unit.equipped[3][0] == 25 else tagi #Leather Tunic x1.15 AGI
+	
+	return max(0,tagi)
+	
+def calcVIT(unit):
+	tvit = unit.vit
+	
+	if (unit.class1 == DBCID["MNK"] or unit.class2 == DBCID["MNK"]) and unit.flags & 0x100:
+		tlist = [unit.str_, unit.agi, unit.vit, unit.int_, unit.dex]
+		tvit = max(tlist)
+	
+	tvit = (tvit * 120 // 100) if unit.equipped[0][0] == 17 else tvit #Steel Helm x1.20 VIT
+	tvit = (tvit * 130 // 100) if unit.equipped[3][0] == 22 else tvit #Platemail x1.30 VIT
+	tvit = (tvit * 115 // 100) if unit.equipped[3][0] == 23 else tvit #Brigandine x1.15 VIT
+	
+	return max(0,tvit)
+	
+def calcINT(unit):
+	tint = unit.int_
+	
+	if (unit.class1 == DBCID["MNK"] or unit.class2 == DBCID["MNK"]) and unit.flags & 0x100:
+		tlist = [unit.str_, unit.agi, unit.vit, unit.int_, unit.dex]
+		tint = max(tlist)
+		
+	tint += (DBITEM[unit.equipped[1][0]][4] * (100 + 2*unit.equipped[1][1] + 10*unit.equipped[1][2]) // 100) if DBITEM[unit.equipped[1][0]][2] & 0x20 else 0 # Flat bonus from magic weapons
+	
+	tint = (tint * 120 // 100) if unit.equipped[0][0] == 19 else tint #Circlet x1.20 INT
+	tint = (tint * 130 // 100) if unit.equipped[3][0] == 24 else tint #Magus Robe x1.30 INT
+	
+	return max(0,tint)
+
+def calcDEX(unit):
+	tdex = unit.dex
+	
+	if (unit.class1 == DBCID["MNK"] or unit.class2 == DBCID["MNK"]) and unit.flags & 0x100:
+		tlist = [unit.str_, unit.agi, unit.vit, unit.int_, unit.dex]
+		tdex = max(tlist)
+	
+	tdex = (tdex * 125 // 100) if unit.equipped[1][0] == 4 else tdex #Stiletto x1.25 DEX
+	tdex = (tdex * 115 // 100) if unit.equipped[1][0] == 11 else tdex #Longbow x1.15 DEX
+	tdex = (tdex * 120 // 100) if unit.equipped[0][0] == 20 else tdex #Goggles x1.20 DEX
+	tdex = (tdex * 115 // 100) if unit.equipped[3][0] == 25 else tdex #Leather Tunic x1.15 DEX
+	
+	return max(0,tdex)
+	
+def calcHP(unit):
+	if unit.flags & 0x100:
+		thp = 20
+	else:
+		thp = 5
+
+	thp += calcVIT(unit) * 250 // 100
+	thp += (DBITEM[unit.equipped[3][0]][4] * (100 + 10*unit.equipped[3][1] + 25*unit.equipped[3][2]) // 100) if DBITEM[unit.equipped[3][0]][2] & 0x8 else 0 # Flat bonus from armor
+	
+	return max(0,thp)
+	
+def calcDEF(unit):
+	tdef = 1 + calcVIT(unit) // 2
+	
+	if not unit.flags & 0x100: 
+		if unit.class1 == 17 or unit.class1 == 23:
+			tdef = (tdef * 133 // 100) if unit.chp < (calcHP(unit) / 3) else tdef #Monster skill, x1.33 DEF on low health
+			
+	return max(1,tdef)
+	
+def calcATK(unit):
+	tatk = calcSTR(unit)
+	twp = (DBITEM[unit.equipped[1][0]][4] * (100 + 2*unit.equipped[1][1] + 10*unit.equipped[1][2]) // 100) if DBITEM[unit.equipped[1][0]][2] & 0x10 else 0 # Flat bonus from weapon
+	twp = (twp * 200 // 100) if (unit.class1 == DBCID["OMN"] or unit.class2 == DBCID["OMN"]) and unit.flags & 0x100 else twp #Weapon Mastery x2.0 Weapon Power
+	tatk += twp
+	
+	tatk += calcMAG(unit) if (unit.class1 == DBCID["SPS"] or unit.class2 == DBCID["SPS"]) and unit.flags & 0x100 else 0 #Mahouha +MAG
+	
+	tatk = (tatk * 110 // 100) if (unit.class1 == DBCID["KNT"] or unit.class2 == DBCID["KNT"]) and unit.flags & 0x100 else tatk #Valor x1.10 ATK
+	tatk = (tatk * 115 // 100) if unit.class1 == 22 and not unit.flags & 0x100 else tatk #Monster Skill x1.15 ATK
+	tatk = (tatk * 110 // 100) if unit.equipped[4][0] == 32 else tatk #Steel Bracer x1.10 ATK
+	
+	return max(1,tatk)
+	
+def calcMAG(unit):
+	tmag = calcINT(unit)
+	tmag = (tmag * DBITEM[unit.equipped[1][0]][5] // 100) if DBITEM[unit.equipped[1][0]][2] & 0x20 else tmag # Percent bonus from magic weapons
+	
+	return max(1,tmag)
+	
+def calcHIT(unit):
+	thit = calcDEX(unit) + unit.level
+	
+	thit = (thit * 133 // 100) if unit.equipped[1][0] == 6 else thit #Lance x1.33 HIT
+	thit = (thit * 133 // 100) if unit.equipped[1][0] == 7 else thit #Naginata x1.33 HIT
+	thit = (thit * 80 // 100) if unit.equipped[1][0] == 8 else thit #Battleaxe x0.80 HIT
+	thit = (thit * 80 // 100) if unit.equipped[1][0] == 9 else thit #Sabbath x0.80 HIT
+	thit = (thit * 80 // 100) if unit.equipped[1][0] == 10 else thit #Warhammer x0.80 HIT
+	thit = (thit * 135 // 100) if unit.equipped[4][0] == 31 else thit #Gauntlets x1.35 HIT
+	
+	return max(1,thit)
+	
+def calcAVO(unit):
+	tavo = calcAGI(unit) + unit.level
+	
+	tavo = (tavo * 110 // 100) if (unit.class1 == DBCID["SEE"] or unit.class2 == DBCID["SEE"]) and unit.flags & 0x100 else tavo #Future Sight x1.10 AVO
+	tavo = (tavo * 80 // 100) if unit.equipped[1][0] == 11 else tavo #Longbow x0.8 AVO
+	tavo = (tavo * 80 // 100) if unit.equipped[1][0] == 12 else tavo #Composite Bow x0.8 AVO
+	tavo = (tavo * 125 // 100) if unit.equipped[4][0] == 33 else tavo #Feathered Cape x1.25 AVO
+	
+	return max(1,tavo)
+
+def calcCRI(unit):
+	tcri = 1 + calcAGI(unit) // 3
+	
+	tcri = (tcri * 110 // 100) if (unit.class1 == DBCID["MRK"] or unit.class2 == DBCID["MRK"]) and unit.flags & 0x100 else tcri #Bullseye x1.20 CRI
+	tcri = (tcri * 133 // 100) if unit.class1 == 16 and not unit.flags & 0x100 else tcri #Monster Skill x1.33 CRI	
+	tcri = (tcri * 120 // 100) if unit.equipped[1][0] == 1 else tcri #Estoc x1.20 CRI
+	tcri = (tcri * 110 // 100) if unit.equipped[1][0] == 4 else tcri #Stiletto x1.10 CRI
+	tcri = (tcri * 110 // 100) if unit.equipped[1][0] == 5 else tcri #Rondel x1.10 CRI
+	tcri = (tcri * 115 // 100) if unit.equipped[1][0] == 12 else tcri #Composite Bow x1.15 CRI
+	
+	return max(1,tcri)
+
+class Unit:
+	def __init__(self, name, level, str_, agi, vit, int_, dex, luk, boon, flaw, disposition, class1, class2, flags, inventory, equipped):
+		self.name = name
+		self.level = level
+		self.str_ = str_
+		self.agi = agi
+		self.vit = vit
+		self.int_ = int_
+		self.dex = dex
+		self.luk = luk
+		self.boon = boon
+		self.flaw = flaw
+		self.disposition = disposition
+		self.class1 = class1
+		self.class2 = class2
+		self.flags = flags
+		self.inventory = inventory
+		self.equipped = equipped
+		self.chp = 1
+		self.gold = 0
+		self.exp = 0
+		self.itemsrecieved = []
+		self.kills = 0
+	
+	def levelUp(self, lvlup):
+		olvl = self.level
+		ostr = self.str_
+		oagi = self.agi
+		ovit = self.vit
+		oint = self.int_
+		odex = self.dex
+		
+		self.level += lvlup
+	
+		for i in range(0, 3 * lvlup):
+			if random.randint(1,100) <= calcGrowth(0, self.class1, self.class2, self.boon, self.flaw, self.disposition):
+				self.str_ += 1
+				
+			if random.randint(1,100) <= calcGrowth(1, self.class1, self.class2, self.boon, self.flaw, self.disposition):
+				self.agi += 1
+				
+			if random.randint(1,100) <= calcGrowth(2, self.class1, self.class2, self.boon, self.flaw, self.disposition):
+				self.vit += 1
+				
+			if random.randint(1,100) <= calcGrowth(3, self.class1, self.class2, self.boon, self.flaw, self.disposition):
+				self.int_ += 1
+				
+			if random.randint(1,100) <= calcGrowth(4, self.class1, self.class2, self.boon, self.flaw, self.disposition):
+				self.dex += 1
+
+		lvup = "\n\n***LEVEL UP!***\n"		
+		lvup += "Level " + str(olvl) + "->" + str(self.level) + "\n"
+		lvup +=  "STR " + str(ostr) + "->" + str(self.str_) + " +(" + str(self.str_ - ostr) + ")\n"
+		lvup +=  "AGI " + str(oagi) + "->" + str(self.agi) + " +(" + str(self.agi - oagi) + ")\n"
+		lvup +=  "VIT " + str(ovit) + "->" + str(self.vit) + " +(" + str(self.vit - ovit) + ")\n"
+		lvup +=  "INT " + str(oint) + "->" + str(self.int_) + " +(" + str(self.int_ - oint) + ")\n"
+		lvup +=  "DEX " + str(odex) + "->" + str(self.dex) + " +(" + str(self.dex - odex) + ")\n\n"
+		
+		return lvup
+		
+	def printStats(self):
+		stats = ""
+		stats += self.name + "'S STAT SHEET\n"
+		stats += "--------------\n"
+		stats += "\n"
+		stats += "LEVEL " + str(self.level) + " " + DBCLASSES[self.class1] + "\\" + DBCLASSES[self.class2] + "\n"
+		stats += "EXP: " + str(self.exp) + "\n"
+		stats += "GOLD: " + str(self.gold) + "\n"
+		stats += "\n"
+		stats += "BEST  TRAIT: " + DBBOONS[self.boon][5] + "\n"
+		stats += "WORST TRAIT: " + DBFLAWS[self.flaw][5] + "\n"
+		stats += "DISPOSITION: " + DBDISPOSITION[self.disposition][3] + "\n"
+		stats += "\n"
+		stats += "SKILLS\n"
+		stats += DBSKILLS[self.class1] + "\n"
+		stats += "      " + DBSKDESC[self.class1] + "\n"
+		stats += DBSKILLS[self.class2] + "\n"
+		stats += "      " + DBSKDESC[self.class2] + "\n"
+		stats += "\n"
+		stats += "STR: " + str(calcSTR(self)) + " + " + str(calcGrowth(0,self.class1,self.class2,self.boon,self.flaw,self.disposition)) + "%\n"
+		stats += "AGI: " + str(calcAGI(self)) + " + " + str(calcGrowth(1,self.class1,self.class2,self.boon,self.flaw,self.disposition)) + "%\n"
+		stats += "VIT: " + str(calcVIT(self)) + " + " + str(calcGrowth(2,self.class1,self.class2,self.boon,self.flaw,self.disposition)) + "%\n"
+		stats += "INT: " + str(calcINT(self)) + " + " + str(calcGrowth(3,self.class1,self.class2,self.boon,self.flaw,self.disposition)) + "%\n"
+		stats += "DEX: " + str(calcDEX(self)) + " + " + str(calcGrowth(4,self.class1,self.class2,self.boon,self.flaw,self.disposition)) + "%\n"
+		stats += "LUK: " + str(DBDISPOSITION[self.disposition][0]) + "\n"
+		stats += "\n"
+		stats += "HP : " + str(calcHP(self)) + "\n"
+		stats += "DEF: " + str(calcDEF(self))  + "\n"
+		stats += "ATK: " + str(calcATK(self)) + "\n"
+		stats += "MAG: " + str(calcMAG(self)) + "\n"
+		stats += "HIT: " + str(calcHIT(self)) + "\n"
+		stats += "AVO: " + str(calcAVO(self)) + "\n"
+		stats += "CRI: " + str(calcCRI(self)) + "\n"
+		stats += "\n"
+		stats += "EQUIPPED\n"
+		stats += "HEAD  - " + formatItem(self.equipped[0]) + "\n"
+		stats += "RHAND - " + formatItem(self.equipped[1]) + "\n"
+		stats += "LHAND - " + formatItem(self.equipped[2]) + "\n"
+		stats += "BODY  - " + formatItem(self.equipped[3]) + "\n"
+		stats += "ACC   - " + formatItem(self.equipped[4]) + "\n"
+		stats += "\n"
+		stats += "INVENTORY\n"
+		if len(self.inventory) > 0:
+			for x in self.inventory:
+				stats += DBITEM[x[0]][1] + "\n"
+		else:
+			stats += "--"
+		return stats + "\n\n"
+		
+	def printStatsMob(self):
+		stats =  "\nLEVEL " + str(self.level) + " " + DBMOB[self.class1][6]
+		stats +=  "\n\nSTR: " + str(calcSTR(self)) + " + " + str(calcGrowthMob(0,self.class1)) + "%"
+		stats +=  "\nAGI: " + str(self.agi) + " + " + str(calcGrowthMob(1,self.class1)) + "%"
+		stats +=  "\nVIT: " + str(self.vit) + " + " + str(calcGrowthMob(2,self.class1)) + "%"
+		stats +=  "\nINT: " + str(self.int_) + " + " + str(calcGrowthMob(3,self.class1)) + "%"
+		stats +=  "\nDEX: " + str(self.dex) + " + " + str(calcGrowthMob(4,self.class1)) + "%"
+		return stats
+		
+def simulateBattle(player,mob,f,v):
+	player.chp = calcHP(player)
+	mob.chp = calcHP(mob)
+	turn = 1
+	taketurn = True
+	
+	v.write("\n\n*****ENCOUNTER!*****\n")
+	v.write(mob.printStatsMob())
+	
+	while player.chp > 0 and mob.chp > 0:
+		v.write("\n\nTURN " + str(turn))
+		v.write("\nLv "+ str(player.level) + " " + player.name + " " + str(player.chp) + " HP")
+		v.write("\nLv "+ str(mob.level) + " " + mob.name + " " + str(mob.chp) + " HP\n")
+		
+		pdmg = calcDamage(player,mob,turn)
+		
+		if mob.class1 == 8 and checkProc(10,100+mob.dex): # Glare, player skips turn
+			v.write("\n" + player.name + " is paralyzed by Beholder's Glare this turn!")
+			taketurn = False
+			
+		if taketurn and player.chp < calcHP(player) // 3: # Check if healing needed
+			if len(player.inventory) > 0:
+				consumable = player.inventory.pop()
+				heal = min(calcHP(player) - player.chp, (calcHP(player) * DBITEM[consumable[0]][4] // 100))
+				player.chp += heal
+				v.write("\n" + player.name + " used the " + DBITEM[consumable[0]][1] + "! Restored " + str(heal) + " HP!")
+				taketurn = False if DBITEM[consumable[0]][5] else True
+			
+		if taketurn:	
+			v.write("\n" + player.name + " attacks!")
+			if pdmg[1]:
+				v.write("\n" + player.name + "'s " + DBSKILLS[pdmg[1]] + " activated!")
+				if pdmg[1] == DBCID["PAL"] and not (mob.class1 == 11 or mob.class1 == 12): # Piety
+					heal = min(calcHP(player) - player.chp, calcMAG(player))
+					player.chp += heal
+					v.write("\n" + player.name + " healed for " + str(heal) + "!")
+			if pdmg[3] & 0x2 and pdmg[0] > 0:
+				v.write("\n" + "Critical strike!")
+			if pdmg[0] > 0:
+				v.write("\n" + str(pdmg[0]) + " damage!")
+				mob.chp -= pdmg[0]
+			elif pdmg[0] == -1:
+				v.write("\nMissed!")
+			elif pdmg[0] == -2:
+				v.write("\nBlocked!")
+		
+		if player.chp <= 0 or mob.chp <= 0:
+			break
+		
+		taketurn = True
+		
+		mdmg = calcDamage(mob,player,turn)
+		
+		v.write("\n" + mob.name + " attacks!")
+		if mdmg[2] and not (mob.class1 == 11 or mob.class1 == 12):
+			v.write("\n" + player.name + "'s " + DBSKILLS[mdmg[2]] + " activated!")
+			if mdmg[2] == DBCID["SAM"]: # Shirahadori counterattack
+				cdmg = calcDamage(player,mob,-1)
+				if cdmg[0] > 0:
+					v.write("\n" + player.name + " counterattacks! " + str(cdmg[0]) + " damage!")
+					mob.chp -= cdmg[0]
+				else:
+					v.write("\nCounterattack missed!")
+			if mdmg[2] == DBCID["SEE"]: # Seer counterattack
+				cdmg = calcDamage(player,mob,-1)
+				if cdmg[0] > 0:
+					v.write("\n" + player.name + " counterattacks! " + str(cdmg[0]) + " damage!")
+					mob.chp -= cdmg[0]
+				else:
+					v.write("\nCounterattack missed!")
+		if mdmg[3] & 0x2 and mdmg[0] > 0:
+			v.write("\nCritical strike!")
+		if mdmg[0] > 0:
+			v.write("\n" + str(mdmg[0]) + " damage!")
+			player.chp -= mdmg[0]
+			
+			if mob.class1 == 23:
+				mob.chp += mdmg[0] // 4
+				v.write("\n" +  mob.name + " siphons HP!")
+		elif mdmg[0] == -1:
+			v.write("\nMissed!")
+		elif mdmg[0] == -2:
+			v.write("\nBlocked!")
+		
+		if player.class1 == DBCID["VNM"] or player.class2 == DBCID["VNM"]: # Miasma, enemy loses 1/8 HP per turn
+			if not (mob.class1 == 11 or mob.class1 == 12):
+				mob.chp -= calcHP(mob) // 8
+				v.write("\n" + mob.name + " loses HP due to the miasma!")
+				
+		if mob.class1 == 22: # Decay, both units lose 1/20 HP / turn
+			player.chp -= calcHP(player) // 20
+			mob.chp -= calcHP(mob) // 20	
+			v.write("\n" + player.name + " is decaying and losing HP!")
+			v.write("\n" + mob.name + " is decaying and losing HP!")
+					
+		if player.chp <= 0 or mob.chp <= 0:
+			break
+		
+		turn += 1
+			
+	if player.chp <= 0:
+		v.write("\n" + player.name + " has fallen in battle...\n\n")
+		f.write(endMessage(player,mob.class1))
+		return 0
+	if mob.chp <= 0:
+		v.write("\n" + player.name + " wins!\n\n")
+		player.kills += 1
+		return 1
+		
+	return 1
+
+def endMessage(player, mobid):
+	txt = "After much preparation, "
+	if player.level < 10:
+		txt += player.name + " fearfully begins their journey into the Dark Depths.\n"
+	elif player.level < 20:
+		txt += player.name + " reluctantly begins their journey into the Dark Depths.\n"
+	elif player.level < 30:
+		txt += player.name + " proudly begins their journey into the Dark Depths.\n"
+	elif player.level < 40:
+		txt += player.name + " heroically begins their journey into the Dark Depths.\n"
+	elif player.level <= 50:
+		txt += player.name + " valiantly begins their journey into the Dark Depths.\n"
+	else:
+		txt += player.name + " gloriously begins their journey into the Dark Depths.\n"
+		
+	txt += "Weapon in hand, " + player.name + " slays " + str(player.kills) + " of the evil creatures in battle.\n"
+	
+	if player.level <= 50:
+		txt += "Unfortunately, " + player.name + " " + DBDEATH[mobid] + " and was never heard from again.\n\n"
+	else:
+		txt += "After defeating the nefarious Lich Lord, " + player.name + " retired, and lived the rest of their life as a simple farmer in peace and quiet.\n\n"
+	
+	txt += "THE END\n\n"
+	
+	return txt
+				
+def calcDamage(src,target,turn):
+	"""
+	DAMAGE FLAGS
+	0x1  Player Attack
+	0x2  Critical Strike
+	0x4  Pierces half of DEF
+	0x8  Ignores DEF
+	0x10 Ignores AVO
+	0x20 Physical Attack
+	0x40 Magical Attack
+	0x80 First Turn skill
+	"""
+	pdmg = [1,0,0,0x0]
+	crit = True if random.randint(1,100) < calcCRI(src) else False
+	magic = True if (DBITEM[src.equipped[1][0]][2] & 0x20 and src.flags & 0x100) or (src.flags & 0x2) else False
+	player = True if src.flags & 0x100 else False
+	
+	# Calculate base attack damage before modifications
+	pdmg[0] = calcATK(src) if not magic else calcMAG(src)
+	
+	# Set damage flags
+	pdmg[3] = pdmg[3] | 0x1 if player else pdmg[3]
+	pdmg[3] = pdmg[3] | 0x2 if crit else pdmg[3]
+	pdmg[3] = pdmg[3] | 0x40 if magic else pdmg[3] | 0x20
+	pdmg[3] = pdmg[3] | 0x80 if turn == 1 else pdmg[3]
+	pdmg[3] = pdmg[3] | 0x4 if src.equipped[1][0] == 10 else pdmg[3] # Warhammer pierces 50% DEF
+	
+	if pdmg[3] & 0x1 and (target.class1 == 15 or target.class1 == 23):
+		pdmg[0] = calcATK(src) // 2 if not magic else calcMAG(src) // 2 # Spellbound halves ATK/MAG
+	
+	# Handle active skill modifications
+	if pdmg[3] & 0x1 and (target.class1 == 11 or target.class1 == 12): # Ghast/Revenant prevents actives
+		pdmg = pdmg
+	else:
+		pdmg = checkACT(src,pdmg)
+		
+	# Check if blocked
+	if target.equipped[2][0] == 26: # Tower Shield, 25% Phys block
+		if pdmg[3] & 0x20 and random.randint(1,100) <= 40:
+			return [-2,0,0,0x0]
+			
+	if target.equipped[2][0] == 27: # Rune Buckler, 15% Phys 15% Arcane block
+		if pdmg[3] & 0x20 and random.randint(1,100) <= 25:
+			return [-2,0,0,0x0]
+		if pdmg[3] & 0x40 and random.randint(1,100) <= 25:
+			return [-2,0,0,0x0]
+			
+	if target.equipped[2][0] == 28: # Forcefield, INT/4% Phys INT/3% Arcane block
+		if pdmg[3] & 0x20 and random.randint(1,100) <= target.int_ // 4:
+			return [-2,0,0,0x0]
+		if pdmg[3] & 0x40 and random.randint(1,100) <= target.int_ // 3:
+			return [-2,0,0,0x0]		
+
+	if not pdmg[3] & 0x1 and (target.class1 == DBCID["PLT"] or target.class2 == DBCID["PLT"]): # Peltast gets a second chance to block
+		if target.equipped[2][0] == 26:
+			if pdmg[3] & 0x20 and random.randint(1,100) <= 40:
+				return [-2,0,0,0x0]
+				
+		if target.equipped[2][0] == 27:
+			if pdmg[3] & 0x20 and random.randint(1,100) <= 25:
+				return [-2,0,0,0x0]
+			if pdmg[3] & 0x40 and random.randint(1,100) <= 25:
+				return [-2,0,0,0x0]
+				
+		if target.equipped[2][0] == 28:
+			if pdmg[3] & 0x20 and random.randint(1,100) <= target.int_ // 4:
+				return [-2,0,0,0x0]
+			if pdmg[3] & 0x40 and random.randint(1,100) <= target.int_ // 3:
+				return [-2,0,0,0x0]	
+
+	if pdmg[3] & 0x1 and pdmg[1] == DBCID["FEN"]: # Heartseeker, recalculate crit with x1.33 bonus
+		pdmg[3] = pdmg[3] & ~0x2
+		if random.randint(1,100) < (calcCRI(src) * 133 // 100):
+			pdmg[3] = pdmg[3] | 0x2
+
+	if checkHit(src,target,pdmg):
+		if not magic: # Physical Attacks
+			tdef = calcDEF(target)
+			
+			if pdmg[3] & 0x4:
+				tdef = tdef // 2
+			if pdmg[3] & 0x8:
+				tdef = 0
+				
+			pdmg[0] = max(1,pdmg[0] - tdef) if not pdmg[3] & 0x2 else max(1,(pdmg[0] - tdef) * 2)
+			
+			if pdmg[3] & 0x1 and target.class1 == 9:
+				pdmg[0] * 80 // 100 # Runed Golem takes x0.8 from physical attacks
+				 
+			if pdmg[3] & 0x1 and target.class1 == 10:
+				pdmg[0] * 125 // 100 # Clay Golem takes x1.25 from physical attacks		
+				 		
+			if not pdmg[3] & 0x1 and (target.class1 == DBCID["SAM"] or target.class2 == DBCID["SAM"]): # Shirahadori
+				mod = 100 + target.dex
+				mod = mod * 120 // 100 if target.equipped[1][0] == 13 else mod # Arcane Tome, x1.2 proc chance
+
+				if checkProc(15,mod) and not (src.class1 == 11 or src.class1 == 12):
+					return [-3,0,DBCID["SAM"],0x0]
+				
+		else: # Arcane Attacks
+			pdmg[0] = max(1, pdmg[0]) if not pdmg[3] & 0x2 else max(1,2 * pdmg[0])
+			
+			if pdmg[3] & 0x1 and target.class1 == 9:
+				pdmg[0] * 125 // 100 # Runed Golem takes x1.25 from arcane attacks
+				 
+			if pdmg[3] & 0x1 and target.class1 == 10:
+				pdmg[0] * 80 // 100 # Clay Golem takes x0.8 from arcane attacks	
+							
+			if not pdmg[3] & 0x1 and (target.class1 == DBCID["DRG"] or target.class2 == DBCID["DRG"]): # Fireproof, -50%  Arcane DMG taken
+				if checkProc(30,100+target.dex):
+					pdmg[0] = max(1,pdmg[0] * 50 // 100)
+					pdmg[2] = DBCID["DRG"]
+			
+			if not pdmg[3] & 0x1 and target.equipped[4][0] == 29: # Rosary, x0.80 Arcane damage taken
+				pdmg[0] = pdmg[0] * 80 // 100
+	else:
+		if not pdmg[3] & 0x1 and (target.class1 == DBCID["SEE"] or target.class2 == DBCID["SEE"]):
+			if not (target.class1 == 11 or target.class1 == 12):
+				return[-1,0,DBCID["SEE"],0x0]
+			
+		return [-1,0,0,0x0]
+
+	# Misc damage modifiers
+	if not pdmg[3] & 0x1 and src.class1 == 20: # Toxic Bite, 10% Target's Max HP as bonus damage
+		pdmg[0] = pdmg[0] + (calcHP(target) // 10)
+	
+	if not pdmg[3] & 0x1 and target.equipped[1][0] == 7: # Naginata, x0.85 damage taken
+		pdmg[0] = pdmg[0] * 85 // 100
+		
+	if pdmg[3] & 0x1 and src.equipped[4][0] == 30: # Cursed Locket, x1.2 damage dealt
+		pdmg[0] = pdmg[0] * 120 // 100
+
+	if not pdmg[3] & 0x1 and target.equipped[4][0] == 30: # Cursed Locket, x1.2 damage taken
+		pdmg[0] = pdmg[0] * 120 // 100	
+			
+	if not pdmg[3] & 0x1 and (target.class1 == DBCID["KNT"] or target.class2 == DBCID["KNT"]): # Valor, -10% DMG taken
+		pdmg[0] = max(1,pdmg[0] * 90 // 100)
+		#pdmg[2] = DBCID["KNT"]
+
+	if pdmg[3] & 0x1 and src.equipped[1][0] == 3: # Hallowed Sabre, x1.20 damage vs undead
+		if target.flags & 0x1:
+			pdmg[0] = pdmg[0] * 120 // 100
+	
+	if pdmg[3] & 0x1 and src.equipped[1][0] == 9: # Sabbath, x1.66 damage vs undead
+		if target.flags & 0x1:
+			pdmg[0] = pdmg[0] * 166 // 100		
+
+	if pdmg[3] & 0x1 and turn > 0 and (src.class1 == DBCID["TAC"] or src.class2 == DBCID["TAC"]): # Superior Tactics, +15% damage per turn
+		if not (target.class1 == 11 or target.class1 == 12):
+			pdmg[0] = pdmg[0] * (100 + 15*turn) // 100
+			
+	if pdmg[3] & 0x1 and (src.class1 == DBCID["DVT"] or src.class2 == DBCID["DVT"]): # Righteous Fury, x1.35 damage vs undead
+		if target.flags & 0x1:
+			pdmg[0] = pdmg[0] * 135 // 100
+				
+	if pdmg[3] & 0x1 and (src.class1 == DBCID["ASN"] or src.class2 == DBCID["ASN"]): # Mercy Stroke, deals x2 damage if lethal
+		if not (target.class1 == 11 or target.class1 == 12):
+			if pdmg[0] * 2 >= target.chp:
+				pdmg[0] = pdmg[0] * 2
+				pdmg[1] = DBCID["ASN"]
+	
+	pdmg[0] = max(1,pdmg[0]) # Damage minimum capped at 1
+	return pdmg
+
+def checkACT(src,dmg):
+	mod = 100 + src.dex
+	mod = mod * 120 // 100 if src.equipped[1][0] == 13 else mod # Arcane Tome, x1.2 proc chance
+
+	if dmg[3] & 0x1: # Player Skills
+		# Check First Turn skills first
+		if dmg[3] & 0x80:
+			# Lunge
+			if src.class1 == DBCID["CAV"] or src.class2 == DBCID["CAV"]:
+				return [int(dmg[0] * 1.5), DBCID["CAV"], dmg[2], dmg[3] | 0x10]
+			# Backstab
+			if src.class1 == DBCID["STK"] or src.class2 == DBCID["STK"]:
+				return [dmg[0], DBCID["STK"], dmg[2], dmg[3] | 0x2]
+		
+		# Regular Actives
+		# Power Swing
+		if src.class1 == DBCID["BRS"] or src.class2 == DBCID["BRS"]:
+			if checkProc(20,mod):
+				return [int(calcATK(src) * 1.5), DBCID["BRS"], dmg[2], (dmg[3] | 0x20) & ~0x40]
+		# Heartseeker
+		if src.class1 == DBCID["FEN"] or src.class2 == DBCID["FEN"]:
+			if checkProc(20,mod):
+				return [dmg[0], DBCID["FEN"], dmg[2], dmg[3] | 0x8]
+		# Piety
+		if src.class1 == DBCID["PAL"] or src.class2 == DBCID["PAL"]:
+			if checkProc(10,mod):
+				return [dmg[0], DBCID["PAL"], dmg[2], dmg[3]]
+		# Hallowed Strike
+		if src.class1 == DBCID["TMP"] or src.class2 == DBCID["TMP"]:
+			if checkProc(15,mod):
+				return [calcATK(src) + calcMAG(src) + src.level, DBCID["TMP"], dmg[2], (dmg[3] | 0x20) & ~0x40]
+		# Resolute Strike
+		if src.class1 == DBCID["BRV"] or src.class2 == DBCID["BRV"]:
+			if checkProc(25,mod):
+				return [int(calcATK(src) * 1.2), DBCID["BRV"], dmg[2], (dmg[3] | 0x30) & ~0x40]
+		# Arcane Bolt
+		if src.class1 == DBCID["SRC"] or src.class2 == DBCID["SRC"]:
+			if checkProc(20,mod):
+				return [int(calcMAG(src) * 1.75), DBCID["SRC"], dmg[2], (dmg[3] | 0x40) & ~0x20]
+		# Mug
+		if src.class1 == DBCID["ROG"] or src.class2 == DBCID["ROG"]:
+			if checkProc(20,mod):
+				src.gold += random.randint(15,45)
+				return [int(dmg[0] * 1.2), DBCID["ROG"], dmg[2], dmg[3]]
+	
+	if not dmg[3] & 0x1: #Mob Skills
+		# Bonecrusher - pierces 50% DEF, can't crit
+		if src.class1 == 19:
+			return [dmg[0], 19, dmg[2], (dmg[3] | 0x4) & ~0x2]
+		# Peer Through Time - Ignore AVO, always critical
+		if src.class1 == 21:
+			if checkProc(5,mod):
+				return [dmg[0], 21, dmg[2], dmg[3] | 0x12]
+		# Foul Flames - ATK based Arcane attack
+		if src.class1 == 22:
+			if checkProc(10,mod):
+				return [dmg[0], 22, dmg[2], (dmg[3] | 0x40) & ~0x20]
+	return dmg
+
+def checkProc(base,rate):
+	return random.randint(1,100) < (base * rate // 100)
+
+def checkHit(src,target, dmg):
+	hit = calcHIT(src)
+	avo = calcAVO(target)
+	
+	#avo = avo + 35 if dmg[3] & 20 and (target.class1 == DBCID["PLT"] or target.class2 == DBCID["PLT"]) else avo
+	
+	if src.class1 == DBCID["SNP"] or src.class2 == DBCID["SNP"]:
+		return 1
+	
+	return 1 if dmg[3] & 0x10 else random.randint(1,100) <= max(10, 90 + hit - avo)
+
+def getReward(src):
+	txt = ""
+	if src.exp > 100:
+		src.exp = 0
+		txt += src.levelUp(1)
+		
+	prize = random.randint(7,13) if not (src.class1 == DBCID["ADV"] or src.class2 == DBCID["ADV"]) else random.randint(14,26)
+	txt += "\nRecieved " + str(prize) + " gold!"
+	src.gold += prize
+	
+	if src.level % 10 == 0:
+		src.exp += 999
+	else:
+		src.exp += random.randint(5,15)
+	
+	itemcheck = random.randint(1,100) < (33 * (100+DBDISPOSITION[src.disposition][0]) // 100) if not (src.class1 == DBCID["ADV"] or src.class2 == DBCID["ADV"]) else random.randint(1,100) < (45 * (100+DBDISPOSITION[src.disposition][0]) // 100)
+	if itemcheck:
+		item = [random.randint(1,36),max(1,src.level - 3 + random.randint(1,6)),0]
+		
+		if not DBITEM[item[0]][2] & DBLIKES[src.class1]: # Not on Likes list, reroll
+			item = [random.randint(1,36),max(1,src.level - 3 + random.randint(1,6)),0]
+		if not DBITEM[item[0]][2] & DBLIKES[src.class1]: # Still not on Likes list, reroll
+			item = [random.randint(1,36),max(1,src.level - 3 + random.randint(1,6)),0]		
+				
+		if DBITEM[item[0]][2] & DBDISLIKES[src.class1]: # Item on Dislikes list, reroll
+			item = [random.randint(1,36),max(1,src.level - 3 + random.randint(1,6)),0]
+		if DBITEM[item[0]][2] & DBDISLIKES[src.class1]: # Still on Dislikes list, reroll
+			item = [random.randint(1,36),max(1,src.level - 3 + random.randint(1,6)),0]
+					
+		if DBITEM[item[0]][2] & 0x2:
+			if len(src.inventory) < 3:
+				txt += "\nReceived " + DBITEM[item[0]][1] + "!\n"
+				src.inventory.append(item)
+				src.itemsrecieved.append(item)
+		else:
+			if (src.class1 == DBCID["BLK"] or src.class2 == DBCID["BLK"]) and (DBITEM[item[0]][2] & 0x1):
+				item[2] = random.randint(1,25)
+				
+			src.equipped[getEquipLoc(DBITEM[item[0]][3])] = item
+			txt += "\nReceived " + formatItem(item) + "!\n"
+			src.itemsrecieved.append(item)
+	
+	return txt
+
+def getEquipLoc(flag):
+	return { 0x1 : 0,
+	         0x2 : 1,
+	         0x4 : 2,
+	         0x8 : 3,
+	         0x10: 4 }[flag]
+
+def formatItem(item):
+	txt = DBITEM[item[0]][1]
+	
+	if item[2]:
+		txt = "+" + str(item[2]) + " " + txt
+	
+	txt = "Lv." + str(item[1]) + " " + txt
+	
+	if item[0] == 0:
+		txt = "--"
+	
+	return txt
+
+def visitTown(player):
+	txt = "\n\n" + player.name + " goes to town"
+	
+	txt += "\nEntering Item Shop"
+	while len(player.inventory) < 3:
+		if player.gold >= 1000:
+			player.inventory.append([36,1,0])
+			player.gold -= 1000
+			txt += "\nBought Elixir"
+		elif player.gold >= 500:
+			player.inventory.append([35,1,0])
+			player.gold -= 500
+			txt += "\nBought Bandages"
+		elif player.gold >= 100:
+			player.inventory.append([34,1,0])
+			player.gold -= 100
+			txt += "\nBought Salve"
+		else:
+			break		
+	txt += "\nLeft Item Shop"
+	
+	txt += "\n\nEntered Smithy"
+	while player.gold >= 100:
+		while player.equipped[1][2] < 10 and player.gold >= 100:
+			player.equipped[1][2] += 1
+			txt += "\n" + DBITEM[player.equipped[1][0]][1] + " upgraded to +" + str(player.equipped[1][2])
+		while player.equipped[3][2] < 10 and player.gold >= 100:
+			player.equipped[3][2] += 1
+			txt += "\n" + DBITEM[player.equipped[3][0]][1] + " upgraded to +" + str(player.equipped[3][2])
+		if player.gold >= 100 and player.equipped[1][2] >= 10 and player.equipped[3][2] >= 10:
+			break
+	txt += "\nLeft Smithy"
+	txt += "\nReturning to dungeon...\n\n"
+	
+	return txt
+
+def fullSimulation(name,seed):
+	player = generatePlayer(name,seed)
+	fname = str(seed) + name + "-simple.txt"
+	vname = str(seed) + name + "-verbose.txt"
+	
+	f = open('../quickrpg/logs/' + fname,'w')
+	v = open('../quickrpg/logs/' + vname,'w')
+	
+	txt = "The story begins with " + player.name + " the " + DBBOONS[player.boon][5] + " " + DBCLASSES[player.class1] + ".\n"
+	txt += "To avenge their parents, they vow to delve into the Dark Depths and slay the most evil and most powerful creature within; the Lich Lord.\n"
+	
+	f.write(txt)
+	v.write(player.printStats())
+
+	while True:
+		mob = generateMob(player.level)
+
+		if simulateBattle(player,mob,f,v) and player.level < 51:
+				v.write(getReward(player))
+				if random.randint(1,1000) < 5 or player.level % 10 == 0: # Random or right before a boss fight
+					v.write(visitTown(player))
+		else:
+			if player.level == 51:
+				f.write(endMessage(player,0))
+				break
+			break
+	f.write(player.printStats())
+	v.write(player.printStats())
+	f.close()
+	v.close()
+	
+	return fname
+	
+if len(sys.argv[1]) > 1:
+	fullSimulation(sys.argv[1],int(time.time()))
+
+print("--- %s seconds ---" % (time.time() - start_time))

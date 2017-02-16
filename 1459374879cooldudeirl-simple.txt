@@ -1,0 +1,50 @@
+The story begins with cooldudeirl the Scholarly Paladin.
+To avenge their parents, they vow to delve into the Dark Depths and slay the most evil and most powerful creature within; the Lich Lord.
+After much preparation, cooldudeirl heroically begins their journey into the Dark Depths.
+Weapon in hand, cooldudeirl slays 365 of the evil creatures in battle.
+Unfortunately, cooldudeirl suffered organ failure from an Apoplexy and was never heard from again.
+
+THE END
+
+cooldudeirl'S STAT SHEET
+--------------
+
+LEVEL 38 Paladin\Berserker
+EXP: 107
+GOLD: 3195
+
+BEST  TRAIT: Scholarly
+WORST TRAIT: Helpless
+DISPOSITION: Hapless, But Hopeful
+
+SKILLS
+Lay On Hands
+      (ACT) Heal +MAG HP after attacking
+Heavy Blow
+      (ACT) Deal x1.5 ATK Phys DMG
+
+STR: 124 + 85%
+AGI: 46 + 15%
+VIT: 125 + 80%
+INT: 102 + 60%
+DEX: 83 + 45%
+LUK: -20
+
+HP : 365
+DEF: 63
+ATK: 141
+MAG: 102
+HIT: 121
+AVO: 84
+CRI: 16
+
+EQUIPPED
+HEAD  - Lv.37 Bandanna
+RHAND - Lv.37 Hallowed Sabre
+LHAND - Lv.39 Rune Buckler
+BODY  - Lv.38 Leather Tunic
+ACC   - Lv.38 Rosary
+
+INVENTORY
+--
+

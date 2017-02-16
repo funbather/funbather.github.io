@@ -1,0 +1,24 @@
+import tweepy, time, sys, quickrpg, os.path
+ 
+CONSUMER_KEY = 'X'
+CONSUMER_SECRET = 'X'
+ACCESS_KEY = 'X'
+ACCESS_SECRET = 'X'
+
+auth = tweepy.OAuthHandler(CONSUMER_KEY, CONSUMER_SECRET)
+auth.set_access_token(ACCESS_KEY, ACCESS_SECRET)
+
+api = tweepy.API(auth)
+
+class MyStreamListener(tweepy.StreamListener):
+
+    def on_status(self, status):
+        seed = time.time()
+        
+        if not (os.path.exists("/quickrpg/logs/"+str(int(seed))+status.author.screen_name+"-simple.txt"):
+            session = quickrpg.fullSimulation(status.author.screen_name,int(seed))
+            api.update_status("@" + status.author.screen_name + " Your adventure unfolds... " + "http://[url]/quickrpg/logs/" + session, in_reply_to_status_id = status.id)
+
+myStreamListener = MyStreamListener()
+myStream = tweepy.Stream(auth = api.auth, listener = MyStreamListener())
+myStream.filter(track=['@quickrpg lets do this'])

@@ -1,0 +1,11166 @@
+cooldudeirl'S STAT SHEET
+--------------
+
+LEVEL 1 Paladin\Berserker
+EXP: 0
+GOLD: 0
+
+BEST  TRAIT: Scholarly
+WORST TRAIT: Helpless
+DISPOSITION: Hapless, But Hopeful
+
+SKILLS
+Lay On Hands
+      (ACT) Heal +MAG HP after attacking
+Heavy Blow
+      (ACT) Deal x1.5 ATK Phys DMG
+
+STR: 31 + 85%
+AGI: 21 + 15%
+VIT: 33 + 80%
+INT: 28 + 60%
+DEX: 31 + 45%
+LUK: -20
+
+HP : 109
+DEF: 17
+ATK: 45
+MAG: 28
+HIT: 32
+AVO: 22
+CRI: 8
+
+EQUIPPED
+HEAD  - --
+RHAND - Lv.1 Arming Sword
+LHAND - --
+BODY  - Lv.1 Leather Tunic
+ACC   - --
+
+INVENTORY
+--
+
+
+
+*****ENCOUNTER!*****
+
+LEVEL 1 Shrieker
+
+STR: 4 + 5%
+AGI: 17 + 60%
+VIT: 11 + 30%
+INT: 12 + 40%
+DEX: 3 + 5%
+
+TURN 1
+Lv 1 cooldudeirl 109 HP
+Lv 1 Shrieker 32 HP
+
+cooldudeirl attacks!
+39 damage!
+cooldudeirl wins!
+
+
+Recieved 12 gold!
+Received Lv.1 Circlet!
+
+
+*****ENCOUNTER!*****
+
+LEVEL 1 Skeletal Mage
+
+STR: 3 + 5%
+AGI: 5 + 15%
+VIT: 5 + 10%
+INT: 13 + 40%
+DEX: 8 + 25%
+
+TURN 1
+Lv 1 cooldudeirl 109 HP
+Lv 1 Skeletal Mage 17 HP
+
+cooldudeirl attacks!
+42 damage!
+cooldudeirl wins!
+
+
+Recieved 13 gold!
+
+*****ENCOUNTER!*****
+
+LEVEL 1 Beholder
+
+STR: 16 + 40%
+AGI: 5 + 30%
+VIT: 9 + 30%
+INT: 4 + 5%
+DEX: 6 + 35%
+
+TURN 1
+Lv 1 cooldudeirl 109 HP
+Lv 1 Beholder 27 HP
+
+cooldudeirl attacks!
+40 damage!
+cooldudeirl wins!
+
+
+Recieved 11 gold!
+
+*****ENCOUNTER!*****
+
+LEVEL 1 Returned
+
+STR: 16 + 80%
+AGI: 5 + 10%
+VIT: 10 + 30%
+INT: 4 + 5%
+DEX: 3 + 5%
+
+TURN 1
+Lv 1 cooldudeirl 109 HP
+Lv 1 Returned 30 HP
+
+cooldudeirl attacks!
+cooldudeirl's Heavy Blow activated!
+61 damage!
+cooldudeirl wins!
+
+
+Recieved 8 gold!
+Received Bandages!
+
+
+*****ENCOUNTER!*****
+
+LEVEL 1 Ooze
+
+STR: 7 + 30%
+AGI: 4 + 5%
+VIT: 17 + 65%
+INT: 3 + 5%
+DEX: 3 + 5%
+
+TURN 1
+Lv 1 cooldudeirl 109 HP
+Lv 1 Ooze 47 HP
+
+cooldudeirl attacks!
+36 damage!
+Ooze attacks!
+1 damage!
+
+TURN 2
+Lv 1 cooldudeirl 108 HP
+Lv 1 Ooze 11 HP
+
+cooldudeirl attacks!
+36 damage!
+cooldudeirl wins!
+
+
+Recieved 12 gold!
+
+*****ENCOUNTER!*****
+
+LEVEL 1 Skeletal Mage
+
+STR: 5 + 5%
+AGI: 9 + 15%
+VIT: 6 + 10%
+INT: 13 + 40%
+DEX: 8 + 25%
+
+TURN 1
+Lv 1 cooldudeirl 109 HP
+Lv 1 Skeletal Mage 20 HP
+
+cooldudeirl attacks!
+41 damage!
+cooldudeirl wins!
+
+
+Recieved 12 gold!
+
+*****ENCOUNTER!*****
+
+LEVEL 1 Shrieker
+
+STR: 5 + 5%
+AGI: 13 + 60%
+VIT: 8 + 30%
+INT: 10 + 40%
+DEX: 3 + 5%
+
+TURN 1
+Lv 1 cooldudeirl 109 HP
+Lv 1 Shrieker 25 HP
+
+cooldudeirl attacks!
+cooldudeirl's Heavy Blow activated!
+62 damage!
+cooldudeirl wins!
+
+
+Recieved 9 gold!
+
+*****ENCOUNTER!*****
+
+LEVEL 1 Beholder
+
+STR: 13 + 40%
+AGI: 12 + 30%
+VIT: 5 + 30%
+INT: 4 + 5%
+DEX: 11 + 35%
+
+TURN 1
+Lv 1 cooldudeirl 109 HP
+Lv 1 Beholder 17 HP
+
+cooldudeirl is paralyzed by Beholder's Glare this turn!
+Beholder attacks!
+1 damage!
+
+TURN 2
+Lv 1 cooldudeirl 108 HP
+Lv 1 Beholder 17 HP
+
+cooldudeirl is paralyzed by Beholder's Glare this turn!
+Beholder attacks!
+1 damage!
+
+TURN 3
+Lv 1 cooldudeirl 107 HP
+Lv 1 Beholder 17 HP
+
+cooldudeirl attacks!
+42 damage!
+cooldudeirl wins!
+
+
+Recieved 10 gold!
+Received Elixir!
+
+
+*****ENCOUNTER!*****
+
+LEVEL 1 Skeletal Warrior
+
+STR: 13 + 60%
+AGI: 7 + 15%
+VIT: 8 + 20%
+INT: 4 + 5%
+DEX: 9 + 20%
+
+TURN 1
+Lv 1 cooldudeirl 109 HP
+Lv 1 Skeletal Warrior 25 HP
+
+cooldudeirl attacks!
+40 damage!
+cooldudeirl wins!
+
+
+Recieved 8 gold!
+
+*****ENCOUNTER!*****
+
+LEVEL 1 Skeletal Mage
+
+STR: 3 + 5%
+AGI: 6 + 15%
+VIT: 6 + 10%
+INT: 8 + 40%
+DEX: 4 + 25%
+
+TURN 1
+Lv 1 cooldudeirl 109 HP
+Lv 1 Skeletal Mage 20 HP
+
+cooldudeirl attacks!
+Critical strike!
+82 damage!
+cooldudeirl wins!
+
+
+Recieved 11 gold!
+
+*****ENCOUNTER!*****
+
+LEVEL 1 Slime
+
+STR: 11 + 40%
+AGI: 7 + 15%
+VIT: 8 + 40%
+INT: 4 + 5%
+DEX: 3 + 5%
+
+TURN 1
+Lv 1 cooldudeirl 109 HP
+Lv 1 Slime 25 HP
+
+cooldudeirl attacks!
+40 damage!
+cooldudeirl wins!
+
+
+Recieved 8 gold!
+
+*****ENCOUNTER!*****
+
+LEVEL 1 Shrieker
+
+STR: 4 + 5%
+AGI: 16 + 60%
+VIT: 12 + 30%
+INT: 13 + 40%
+DEX: 4 + 5%
+
+TURN 1
+Lv 1 cooldudeirl 109 HP
+Lv 1 Shrieker 35 HP
+
+cooldudeirl attacks!
+38 damage!
+cooldudeirl wins!
+
+
+
+***LEVEL UP!***
+Level 1->2
+STR 31->34 +(3)
+AGI 19->19 +(0)
+VIT 33->36 +(3)
+INT 28->30 +(2)
+DEX 27->29 +(2)
+
+
+Recieved 8 gold!
+
+*****ENCOUNTER!*****
+
+LEVEL 2 Shrieker
+
+STR: 5 + 5%
+AGI: 21 + 60%
+VIT: 14 + 30%
+INT: 12 + 40%
+DEX: 3 + 5%
+
+TURN 1
+Lv 2 cooldudeirl 117 HP
+Lv 2 Shrieker 40 HP
+
+cooldudeirl attacks!
+40 damage!
+cooldudeirl wins!
+
+
+Recieved 13 gold!
+
+*****ENCOUNTER!*****
+
+LEVEL 2 Skeletal Mage
+
+STR: 3 + 5%
+AGI: 7 + 15%
+VIT: 8 + 10%
+INT: 16 + 40%
+DEX: 8 + 25%
+
+TURN 1
+Lv 2 cooldudeirl 117 HP
+Lv 2 Skeletal Mage 25 HP
+
+cooldudeirl attacks!
+cooldudeirl's Heavy Blow activated!
+67 damage!
+cooldudeirl wins!
+
+
+Recieved 9 gold!
+
+*****ENCOUNTER!*****
+
+LEVEL 2 Skeletal Archer
+
+STR: 12 + 30%
+AGI: 18 + 40%
+VIT: 8 + 15%
+INT: 5 + 5%
+DEX: 11 + 30%
+
+TURN 1
+Lv 2 cooldudeirl 117 HP
+Lv 2 Skeletal Archer 25 HP
+
+cooldudeirl attacks!
+43 damage!
+cooldudeirl wins!
+
+
+Recieved 12 gold!
+
+*****ENCOUNTER!*****
+
+LEVEL 2 Ooze
+
+STR: 12 + 30%
+AGI: 4 + 5%
+VIT: 22 + 65%
+INT: 4 + 5%
+DEX: 7 + 5%
+
+TURN 1
+Lv 2 cooldudeirl 117 HP
+Lv 2 Ooze 60 HP
+
+cooldudeirl attacks!
+36 damage!
+Ooze attacks!
+Missed!
+
+TURN 2
+Lv 2 cooldudeirl 117 HP
+Lv 2 Ooze 24 HP
+
+cooldudeirl attacks!
+36 damage!
+cooldudeirl wins!
+
+
+Recieved 12 gold!
+
+*****ENCOUNTER!*****
+
+LEVEL 2 Skeletal Mage
+
+STR: 6 + 5%
+AGI: 6 + 15%
+VIT: 6 + 10%
+INT: 14 + 40%
+DEX: 6 + 25%
+
+TURN 1
+Lv 2 cooldudeirl 117 HP
+Lv 2 Skeletal Mage 20 HP
+
+cooldudeirl attacks!
+44 damage!
+cooldudeirl wins!
+
+
+Recieved 13 gold!
+
+*****ENCOUNTER!*****
+
+LEVEL 2 Slime
+
+STR: 14 + 40%
+AGI: 6 + 15%
+VIT: 11 + 40%
+INT: 4 + 5%
+DEX: 5 + 5%
+
+TURN 1
+Lv 2 cooldudeirl 117 HP
+Lv 2 Slime 32 HP
+
+cooldudeirl attacks!
+cooldudeirl's Lay On Hands activated!
+cooldudeirl healed for 0!
+42 damage!
+cooldudeirl wins!
+
+
+Recieved 9 gold!
+
+*****ENCOUNTER!*****
+
+LEVEL 2 Skeletal Mage
+
+STR: 4 + 5%
+AGI: 4 + 15%
+VIT: 5 + 10%
+INT: 13 + 40%
+DEX: 8 + 25%
+
+TURN 1
+Lv 2 cooldudeirl 117 HP
+Lv 2 Skeletal Mage 17 HP
+
+cooldudeirl attacks!
+cooldudeirl's Heavy Blow activated!
+69 damage!
+cooldudeirl wins!
+
+
+Recieved 12 gold!
+
+*****ENCOUNTER!*****
+
+LEVEL 2 Beholder
+
+STR: 15 + 40%
+AGI: 10 + 30%
+VIT: 10 + 30%
+INT: 3 + 5%
+DEX: 13 + 35%
+
+TURN 1
+Lv 2 cooldudeirl 117 HP
+Lv 2 Beholder 30 HP
+
+cooldudeirl attacks!
+cooldudeirl's Lay On Hands activated!
+cooldudeirl healed for 0!
+42 damage!
+cooldudeirl wins!
+
+
+Recieved 9 gold!
+
+*****ENCOUNTER!*****
+
+LEVEL 2 Shrieker
+
+STR: 5 + 5%
+AGI: 17 + 60%
+VIT: 10 + 30%
+INT: 14 + 40%
+DEX: 6 + 5%
+
+TURN 1
+Lv 2 cooldudeirl 117 HP
+Lv 2 Shrieker 30 HP
+
+cooldudeirl attacks!
+42 damage!
+cooldudeirl wins!
+
+
+Recieved 13 gold!
+
+*****ENCOUNTER!*****
+
+LEVEL 2 Ooze
+
+STR: 11 + 30%
+AGI: 4 + 5%
+VIT: 14 + 65%
+INT: 5 + 5%
+DEX: 4 + 5%
+
+TURN 1
+Lv 2 cooldudeirl 117 HP
+Lv 2 Ooze 40 HP
+
+cooldudeirl attacks!
+40 damage!
+cooldudeirl wins!
+
+
+Recieved 12 gold!
+
+*****ENCOUNTER!*****
+
+LEVEL 2 Skeletal Archer
+
+STR: 12 + 30%
+AGI: 15 + 40%
+VIT: 7 + 15%
+INT: 4 + 5%
+DEX: 12 + 30%
+
+TURN 1
+Lv 2 cooldudeirl 117 HP
+Lv 2 Skeletal Archer 22 HP
+
+cooldudeirl attacks!
+cooldudeirl's Heavy Blow activated!
+68 damage!
+cooldudeirl wins!
+
+
+Recieved 10 gold!
+
+*****ENCOUNTER!*****
+
+LEVEL 2 Skeletal Mage
+
+STR: 4 + 5%
+AGI: 6 + 15%
+VIT: 9 + 10%
+INT: 15 + 40%
+DEX: 13 + 25%
+
+TURN 1
+Lv 2 cooldudeirl 117 HP
+Lv 2 Skeletal Mage 27 HP
+
+cooldudeirl attacks!
+cooldudeirl's Heavy Blow activated!
+67 damage!
+cooldudeirl wins!
+
+
+
+***LEVEL UP!***
+Level 2->3
+STR 34->36 +(2)
+AGI 19->19 +(0)
+VIT 36->39 +(3)
+INT 30->31 +(1)
+DEX 29->30 +(1)
+
+
+Recieved 10 gold!
+Received Lv.4 Circlet!
+
+
+*****ENCOUNTER!*****
+
+LEVEL 3 Returned
+
+STR: 25 + 80%
+AGI: 6 + 10%
+VIT: 10 + 30%
+INT: 6 + 5%
+DEX: 5 + 5%
+
+TURN 1
+Lv 3 cooldudeirl 124 HP
+Lv 3 Returned 30 HP
+
+cooldudeirl attacks!
+44 damage!
+cooldudeirl wins!
+
+
+Recieved 13 gold!
+
+*****ENCOUNTER!*****
+
+LEVEL 3 Beholder
+
+STR: 16 + 40%
+AGI: 11 + 30%
+VIT: 12 + 30%
+INT: 5 + 5%
+DEX: 9 + 35%
+
+TURN 1
+Lv 3 cooldudeirl 124 HP
+Lv 3 Beholder 35 HP
+
+cooldudeirl attacks!
+43 damage!
+cooldudeirl wins!
+
+
+Recieved 8 gold!
+
+*****ENCOUNTER!*****
+
+LEVEL 3 Skeletal Warrior
+
+STR: 23 + 60%
+AGI: 5 + 15%
+VIT: 11 + 20%
+INT: 5 + 5%
+DEX: 10 + 20%
+
+TURN 1
+Lv 3 cooldudeirl 124 HP
+Lv 3 Skeletal Warrior 32 HP
+
+cooldudeirl attacks!
+44 damage!
+cooldudeirl wins!
+
+
+Recieved 11 gold!
+
+*****ENCOUNTER!*****
+
+LEVEL 3 Returned
+
+STR: 28 + 80%
+AGI: 8 + 10%
+VIT: 11 + 30%
+INT: 4 + 5%
+DEX: 4 + 5%
+
+TURN 1
+Lv 3 cooldudeirl 124 HP
+Lv 3 Returned 32 HP
+
+cooldudeirl attacks!
+cooldudeirl's Heavy Blow activated!
+69 damage!
+cooldudeirl wins!
+
+
+Recieved 8 gold!
+
+*****ENCOUNTER!*****
+
+LEVEL 3 Skeletal Archer
+
+STR: 10 + 30%
+AGI: 20 + 40%
+VIT: 8 + 15%
+INT: 4 + 5%
+DEX: 8 + 30%
+
+TURN 1
+Lv 3 cooldudeirl 124 HP
+Lv 3 Skeletal Archer 25 HP
+
+cooldudeirl attacks!
+cooldudeirl's Heavy Blow activated!
+70 damage!
+cooldudeirl wins!
+
+
+Recieved 11 gold!
+
+*****ENCOUNTER!*****
+
+LEVEL 3 Slime
+
+STR: 16 + 40%
+AGI: 6 + 15%
+VIT: 14 + 40%
+INT: 6 + 5%
+DEX: 5 + 5%
+
+TURN 1
+Lv 3 cooldudeirl 124 HP
+Lv 3 Slime 40 HP
+
+cooldudeirl attacks!
+42 damage!
+cooldudeirl wins!
+
+
+Recieved 9 gold!
+
+*****ENCOUNTER!*****
+
+LEVEL 3 Beholder
+
+STR: 16 + 40%
+AGI: 11 + 30%
+VIT: 13 + 30%
+INT: 4 + 5%
+DEX: 15 + 35%
+
+TURN 1
+Lv 3 cooldudeirl 124 HP
+Lv 3 Beholder 37 HP
+
+cooldudeirl attacks!
+43 damage!
+cooldudeirl wins!
+
+
+Recieved 8 gold!
+Received Lv.5 Tower Shield!
+
+
+*****ENCOUNTER!*****
+
+LEVEL 3 Skeletal Warrior
+
+STR: 23 + 60%
+AGI: 7 + 15%
+VIT: 11 + 20%
+INT: 5 + 5%
+DEX: 13 + 20%
+
+TURN 1
+Lv 3 cooldudeirl 124 HP
+Lv 3 Skeletal Warrior 32 HP
+
+cooldudeirl attacks!
+44 damage!
+cooldudeirl wins!
+
+
+Recieved 12 gold!
+Received Lv.4 Brigandine!
+
+
+*****ENCOUNTER!*****
+
+LEVEL 3 Shrieker
+
+STR: 4 + 5%
+AGI: 22 + 60%
+VIT: 15 + 30%
+INT: 14 + 40%
+DEX: 5 + 5%
+
+TURN 1
+Lv 3 cooldudeirl 146 HP
+Lv 3 Shrieker 42 HP
+
+cooldudeirl attacks!
+42 damage!
+cooldudeirl wins!
+
+
+Recieved 9 gold!
+
+*****ENCOUNTER!*****
+
+LEVEL 3 Skeletal Mage
+
+STR: 4 + 5%
+AGI: 8 + 15%
+VIT: 8 + 10%
+INT: 19 + 40%
+DEX: 10 + 25%
+
+TURN 1
+Lv 3 cooldudeirl 146 HP
+Lv 3 Skeletal Mage 25 HP
+
+cooldudeirl attacks!
+45 damage!
+cooldudeirl wins!
+
+
+
+***LEVEL UP!***
+Level 3->4
+STR 36->38 +(2)
+AGI 19->19 +(0)
+VIT 39->42 +(3)
+INT 31->34 +(3)
+DEX 30->31 +(1)
+
+
+Recieved 10 gold!
+Received Lv.7 Naginata!
+
+
+*****ENCOUNTER!*****
+
+LEVEL 4 Shrieker
+
+STR: 6 + 5%
+AGI: 23 + 60%
+VIT: 12 + 30%
+INT: 18 + 40%
+DEX: 6 + 5%
+
+TURN 1
+Lv 4 cooldudeirl 156 HP
+Lv 4 Shrieker 35 HP
+
+cooldudeirl attacks!
+43 damage!
+cooldudeirl wins!
+
+
+Recieved 9 gold!
+Received Lv.2 Stiletto!
+
+
+*****ENCOUNTER!*****
+
+LEVEL 4 Returned
+
+STR: 34 + 80%
+AGI: 6 + 10%
+VIT: 13 + 30%
+INT: 4 + 5%
+DEX: 6 + 5%
+
+TURN 1
+Lv 4 cooldudeirl 156 HP
+Lv 4 Returned 37 HP
+
+cooldudeirl attacks!
+39 damage!
+cooldudeirl wins!
+
+
+Recieved 7 gold!
+
+*****ENCOUNTER!*****
+
+LEVEL 4 Ooze
+
+STR: 14 + 30%
+AGI: 6 + 5%
+VIT: 25 + 65%
+INT: 4 + 5%
+DEX: 3 + 5%
+
+TURN 1
+Lv 4 cooldudeirl 156 HP
+Lv 4 Ooze 67 HP
+
+cooldudeirl attacks!
+33 damage!
+Ooze attacks!
+1 damage!
+
+TURN 2
+Lv 4 cooldudeirl 155 HP
+Lv 4 Ooze 34 HP
+
+cooldudeirl attacks!
+cooldudeirl's Heavy Blow activated!
+56 damage!
+cooldudeirl wins!
+
+
+Recieved 8 gold!
+
+*****ENCOUNTER!*****
+
+LEVEL 4 Ooze
+
+STR: 15 + 30%
+AGI: 6 + 5%
+VIT: 21 + 65%
+INT: 4 + 5%
+DEX: 4 + 5%
+
+TURN 1
+Lv 4 cooldudeirl 156 HP
+Lv 4 Ooze 57 HP
+
+cooldudeirl attacks!
+35 damage!
+Ooze attacks!
+Blocked!
+
+TURN 2
+Lv 4 cooldudeirl 156 HP
+Lv 4 Ooze 22 HP
+
+cooldudeirl attacks!
+35 damage!
+cooldudeirl wins!
+
+
+Recieved 8 gold!
+
+*****ENCOUNTER!*****
+
+LEVEL 4 Ooze
+
+STR: 17 + 30%
+AGI: 3 + 5%
+VIT: 22 + 65%
+INT: 6 + 5%
+DEX: 4 + 5%
+
+TURN 1
+Lv 4 cooldudeirl 156 HP
+Lv 4 Ooze 60 HP
+
+cooldudeirl attacks!
+cooldudeirl's Lay On Hands activated!
+cooldudeirl healed for 0!
+34 damage!
+Ooze attacks!
+Missed!
+
+TURN 2
+Lv 4 cooldudeirl 156 HP
+Lv 4 Ooze 26 HP
+
+cooldudeirl attacks!
+cooldudeirl's Heavy Blow activated!
+57 damage!
+cooldudeirl wins!
+
+
+Recieved 7 gold!
+
+*****ENCOUNTER!*****
+
+LEVEL 4 Shrieker
+
+STR: 3 + 5%
+AGI: 25 + 60%
+VIT: 14 + 30%
+INT: 17 + 40%
+DEX: 5 + 5%
+
+TURN 1
+Lv 4 cooldudeirl 156 HP
+Lv 4 Shrieker 40 HP
+
+cooldudeirl attacks!
+38 damage!
+Shrieker attacks!
+17 damage!
+
+TURN 2
+Lv 4 cooldudeirl 139 HP
+Lv 4 Shrieker 2 HP
+
+cooldudeirl attacks!
+38 damage!
+cooldudeirl wins!
+
+
+Recieved 11 gold!
+
+*****ENCOUNTER!*****
+
+LEVEL 4 Skeletal Warrior
+
+STR: 28 + 60%
+AGI: 6 + 15%
+VIT: 10 + 20%
+INT: 4 + 5%
+DEX: 13 + 20%
+
+TURN 1
+Lv 4 cooldudeirl 156 HP
+Lv 4 Skeletal Warrior 30 HP
+
+cooldudeirl attacks!
+cooldudeirl's Heavy Blow activated!
+63 damage!
+cooldudeirl wins!
+
+
+Recieved 9 gold!
+Received Lv.4 Sage's Diary!
+
+
+*****ENCOUNTER!*****
+
+LEVEL 4 Skeletal Mage
+
+STR: 4 + 5%
+AGI: 7 + 15%
+VIT: 8 + 10%
+INT: 20 + 40%
+DEX: 12 + 25%
+
+TURN 1
+Lv 4 cooldudeirl 156 HP
+Lv 4 Skeletal Mage 25 HP
+
+cooldudeirl attacks!
+68 damage!
+cooldudeirl wins!
+
+
+Recieved 12 gold!
+Received Lv.7 Platemail!
+
+
+*****ENCOUNTER!*****
+
+LEVEL 4 Shrieker
+
+STR: 5 + 5%
+AGI: 25 + 60%
+VIT: 14 + 30%
+INT: 15 + 40%
+DEX: 4 + 5%
+
+TURN 1
+Lv 4 cooldudeirl 189 HP
+Lv 4 Shrieker 40 HP
+
+cooldudeirl attacks!
+68 damage!
+cooldudeirl wins!
+
+
+
+***LEVEL UP!***
+Level 4->5
+STR 38->40 +(2)
+AGI 19->19 +(0)
+VIT 42->45 +(3)
+INT 34->36 +(2)
+DEX 31->33 +(2)
+
+
+Recieved 11 gold!
+Received Lv.7 Longbow!
+
+
+*****ENCOUNTER!*****
+
+LEVEL 5 Beholder
+
+STR: 12 + 40%
+AGI: 11 + 30%
+VIT: 15 + 30%
+INT: 4 + 5%
+DEX: 18 + 35%
+
+TURN 1
+Lv 5 cooldudeirl 199 HP
+Lv 5 Beholder 42 HP
+
+cooldudeirl attacks!
+56 damage!
+cooldudeirl wins!
+
+
+Recieved 10 gold!
+Received Lv.8 Goggles!
+
+
+*****ENCOUNTER!*****
+
+LEVEL 5 Skeletal Mage
+
+STR: 4 + 5%
+AGI: 6 + 15%
+VIT: 9 + 10%
+INT: 14 + 40%
+DEX: 14 + 25%
+
+TURN 1
+Lv 5 cooldudeirl 199 HP
+Lv 5 Skeletal Mage 27 HP
+
+cooldudeirl attacks!
+cooldudeirl's Heavy Blow activated!
+91 damage!
+cooldudeirl wins!
+
+
+Recieved 10 gold!
+Received Lv.3 Arming Sword!
+
+
+*****ENCOUNTER!*****
+
+LEVEL 5 Beholder
+
+STR: 19 + 40%
+AGI: 12 + 30%
+VIT: 14 + 30%
+INT: 8 + 5%
+DEX: 18 + 35%
+
+TURN 1
+Lv 5 cooldudeirl 199 HP
+Lv 5 Beholder 40 HP
+
+cooldudeirl attacks!
+cooldudeirl's Heavy Blow activated!
+73 damage!
+cooldudeirl wins!
+
+
+Recieved 7 gold!
+
+*****ENCOUNTER!*****
+
+LEVEL 5 Beholder
+
+STR: 13 + 40%
+AGI: 11 + 30%
+VIT: 11 + 30%
+INT: 6 + 5%
+DEX: 20 + 35%
+
+TURN 1
+Lv 5 cooldudeirl 199 HP
+Lv 5 Beholder 32 HP
+
+cooldudeirl attacks!
+48 damage!
+cooldudeirl wins!
+
+
+Recieved 10 gold!
+
+*****ENCOUNTER!*****
+
+LEVEL 5 Returned
+
+STR: 33 + 80%
+AGI: 11 + 10%
+VIT: 16 + 30%
+INT: 4 + 5%
+DEX: 3 + 5%
+
+TURN 1
+Lv 5 cooldudeirl 199 HP
+Lv 5 Returned 45 HP
+
+cooldudeirl attacks!
+cooldudeirl's Lay On Hands activated!
+cooldudeirl healed for 0!
+45 damage!
+cooldudeirl wins!
+
+
+Recieved 10 gold!
+
+*****ENCOUNTER!*****
+
+LEVEL 5 Returned
+
+STR: 34 + 80%
+AGI: 8 + 10%
+VIT: 16 + 30%
+INT: 9 + 5%
+DEX: 6 + 5%
+
+TURN 1
+Lv 5 cooldudeirl 199 HP
+Lv 5 Returned 45 HP
+
+cooldudeirl attacks!
+cooldudeirl's Heavy Blow activated!
+72 damage!
+cooldudeirl wins!
+
+
+Recieved 10 gold!
+
+*****ENCOUNTER!*****
+
+LEVEL 5 Returned
+
+STR: 35 + 80%
+AGI: 11 + 10%
+VIT: 13 + 30%
+INT: 6 + 5%
+DEX: 5 + 5%
+
+TURN 1
+Lv 5 cooldudeirl 199 HP
+Lv 5 Returned 37 HP
+
+cooldudeirl attacks!
+47 damage!
+cooldudeirl wins!
+
+
+Recieved 13 gold!
+Received Lv.7 Estoc!
+
+
+*****ENCOUNTER!*****
+
+LEVEL 5 Skeletal Warrior
+
+STR: 30 + 60%
+AGI: 11 + 15%
+VIT: 8 + 20%
+INT: 6 + 5%
+DEX: 8 + 20%
+
+TURN 1
+Lv 5 cooldudeirl 199 HP
+Lv 5 Skeletal Warrior 25 HP
+
+cooldudeirl attacks!
+cooldudeirl's Heavy Blow activated!
+70 damage!
+cooldudeirl wins!
+
+
+Recieved 8 gold!
+
+*****ENCOUNTER!*****
+
+LEVEL 5 Returned
+
+STR: 35 + 80%
+AGI: 7 + 10%
+VIT: 12 + 30%
+INT: 6 + 5%
+DEX: 9 + 5%
+
+TURN 1
+Lv 5 cooldudeirl 199 HP
+Lv 5 Returned 35 HP
+
+cooldudeirl attacks!
+cooldudeirl's Lay On Hands activated!
+cooldudeirl healed for 0!
+43 damage!
+cooldudeirl wins!
+
+
+Recieved 11 gold!
+
+*****ENCOUNTER!*****
+
+LEVEL 5 Beholder
+
+STR: 17 + 40%
+AGI: 16 + 30%
+VIT: 18 + 30%
+INT: 4 + 5%
+DEX: 14 + 35%
+
+TURN 1
+Lv 5 cooldudeirl 199 HP
+Lv 5 Beholder 50 HP
+
+cooldudeirl attacks!
+40 damage!
+Beholder attacks!
+1 damage!
+
+TURN 2
+Lv 5 cooldudeirl 198 HP
+Lv 5 Beholder 10 HP
+
+cooldudeirl attacks!
+40 damage!
+cooldudeirl wins!
+
+
+
+***LEVEL UP!***
+Level 5->6
+STR 40->42 +(2)
+AGI 19->19 +(0)
+VIT 45->46 +(1)
+INT 36->39 +(3)
+DEX 33->34 +(1)
+
+
+Recieved 10 gold!
+
+*****ENCOUNTER!*****
+
+LEVEL 6 Shrieker
+
+STR: 6 + 5%
+AGI: 31 + 60%
+VIT: 22 + 30%
+INT: 17 + 40%
+DEX: 5 + 5%
+
+TURN 1
+Lv 6 cooldudeirl 201 HP
+Lv 6 Shrieker 60 HP
+
+cooldudeirl attacks!
+40 damage!
+Shrieker attacks!
+Missed!
+
+TURN 2
+Lv 6 cooldudeirl 201 HP
+Lv 6 Shrieker 20 HP
+
+cooldudeirl attacks!
+40 damage!
+cooldudeirl wins!
+
+
+Recieved 8 gold!
+
+*****ENCOUNTER!*****
+
+LEVEL 6 Skeletal Archer
+
+STR: 23 + 30%
+AGI: 25 + 40%
+VIT: 8 + 15%
+INT: 5 + 5%
+DEX: 14 + 30%
+
+TURN 1
+Lv 6 cooldudeirl 201 HP
+Lv 6 Skeletal Archer 25 HP
+
+cooldudeirl attacks!
+47 damage!
+cooldudeirl wins!
+
+
+Recieved 7 gold!
+
+*****ENCOUNTER!*****
+
+LEVEL 6 Skeletal Mage
+
+STR: 8 + 5%
+AGI: 8 + 15%
+VIT: 8 + 10%
+INT: 19 + 40%
+DEX: 16 + 25%
+
+TURN 1
+Lv 6 cooldudeirl 201 HP
+Lv 6 Skeletal Mage 25 HP
+
+cooldudeirl attacks!
+47 damage!
+cooldudeirl wins!
+
+
+Recieved 13 gold!
+
+*****ENCOUNTER!*****
+
+LEVEL 6 Shrieker
+
+STR: 4 + 5%
+AGI: 26 + 60%
+VIT: 20 + 30%
+INT: 20 + 40%
+DEX: 5 + 5%
+
+TURN 1
+Lv 6 cooldudeirl 201 HP
+Lv 6 Shrieker 55 HP
+
+cooldudeirl attacks!
+cooldudeirl's Heavy Blow activated!
+67 damage!
+cooldudeirl wins!
+
+
+Recieved 11 gold!
+Received Lv.9 Rosary!
+
+
+*****ENCOUNTER!*****
+
+LEVEL 6 Returned
+
+STR: 41 + 80%
+AGI: 9 + 10%
+VIT: 25 + 30%
+INT: 3 + 5%
+DEX: 6 + 5%
+
+TURN 1
+Lv 6 cooldudeirl 201 HP
+Lv 6 Returned 67 HP
+
+cooldudeirl attacks!
+39 damage!
+Returned attacks!
+Blocked!
+
+TURN 2
+Lv 6 cooldudeirl 201 HP
+Lv 6 Returned 28 HP
+
+cooldudeirl attacks!
+39 damage!
+cooldudeirl wins!
+
+
+Recieved 9 gold!
+Received Lv.9 Bandanna!
+
+
+*****ENCOUNTER!*****
+
+LEVEL 6 Ooze
+
+STR: 13 + 30%
+AGI: 4 + 5%
+VIT: 32 + 65%
+INT: 4 + 5%
+DEX: 3 + 5%
+
+TURN 1
+Lv 6 cooldudeirl 201 HP
+Lv 6 Ooze 85 HP
+
+cooldudeirl attacks!
+35 damage!
+Ooze attacks!
+1 damage!
+
+TURN 2
+Lv 6 cooldudeirl 200 HP
+Lv 6 Ooze 50 HP
+
+cooldudeirl attacks!
+Critical strike!
+70 damage!
+cooldudeirl wins!
+
+
+Recieved 10 gold!
+Received Lv.8 Stiletto!
+
+
+*****ENCOUNTER!*****
+
+LEVEL 6 Skeletal Warrior
+
+STR: 32 + 60%
+AGI: 9 + 15%
+VIT: 16 + 20%
+INT: 3 + 5%
+DEX: 12 + 20%
+
+TURN 1
+Lv 6 cooldudeirl 201 HP
+Lv 6 Skeletal Warrior 45 HP
+
+cooldudeirl attacks!
+42 damage!
+Skeletal Warrior attacks!
+Missed!
+
+TURN 2
+Lv 6 cooldudeirl 201 HP
+Lv 6 Skeletal Warrior 3 HP
+
+cooldudeirl attacks!
+cooldudeirl's Lay On Hands activated!
+cooldudeirl healed for 0!
+42 damage!
+cooldudeirl wins!
+
+
+Recieved 9 gold!
+
+*****ENCOUNTER!*****
+
+LEVEL 6 Skeletal Warrior
+
+STR: 27 + 60%
+AGI: 8 + 15%
+VIT: 10 + 20%
+INT: 6 + 5%
+DEX: 17 + 20%
+
+TURN 1
+Lv 6 cooldudeirl 201 HP
+Lv 6 Skeletal Warrior 30 HP
+
+cooldudeirl attacks!
+45 damage!
+cooldudeirl wins!
+
+
+Recieved 11 gold!
+
+*****ENCOUNTER!*****
+
+LEVEL 6 Shrieker
+
+STR: 5 + 5%
+AGI: 40 + 60%
+VIT: 21 + 30%
+INT: 14 + 40%
+DEX: 5 + 5%
+
+TURN 1
+Lv 6 cooldudeirl 201 HP
+Lv 6 Shrieker 57 HP
+
+cooldudeirl attacks!
+cooldudeirl's Lay On Hands activated!
+cooldudeirl healed for 0!
+40 damage!
+Shrieker attacks!
+Missed!
+
+TURN 2
+Lv 6 cooldudeirl 201 HP
+Lv 6 Shrieker 17 HP
+
+cooldudeirl attacks!
+cooldudeirl's Lay On Hands activated!
+cooldudeirl healed for 0!
+Critical strike!
+80 damage!
+cooldudeirl wins!
+
+
+Recieved 7 gold!
+Received Lv.9 Arming Sword!
+
+
+*****ENCOUNTER!*****
+
+LEVEL 6 Beholder
+
+STR: 23 + 40%
+AGI: 14 + 30%
+VIT: 17 + 30%
+INT: 5 + 5%
+DEX: 13 + 35%
+
+TURN 1
+Lv 6 cooldudeirl 201 HP
+Lv 6 Beholder 47 HP
+
+cooldudeirl attacks!
+cooldudeirl's Heavy Blow activated!
+78 damage!
+cooldudeirl wins!
+
+
+
+***LEVEL UP!***
+Level 6->7
+STR 42->43 +(1)
+AGI 19->19 +(0)
+VIT 46->49 +(3)
+INT 39->41 +(2)
+DEX 34->37 +(3)
+
+
+Recieved 12 gold!
+
+*****ENCOUNTER!*****
+
+LEVEL 7 Skeletal Mage
+
+STR: 4 + 5%
+AGI: 12 + 15%
+VIT: 10 + 10%
+INT: 26 + 40%
+DEX: 14 + 25%
+
+TURN 1
+Lv 7 cooldudeirl 211 HP
+Lv 7 Skeletal Mage 30 HP
+
+cooldudeirl attacks!
+cooldudeirl's Heavy Blow activated!
+82 damage!
+cooldudeirl wins!
+
+
+Recieved 7 gold!
+
+*****ENCOUNTER!*****
+
+LEVEL 7 Skeletal Warrior
+
+STR: 31 + 60%
+AGI: 13 + 15%
+VIT: 13 + 20%
+INT: 6 + 5%
+DEX: 17 + 20%
+
+TURN 1
+Lv 7 cooldudeirl 211 HP
+Lv 7 Skeletal Warrior 37 HP
+
+cooldudeirl attacks!
+cooldudeirl's Heavy Blow activated!
+81 damage!
+cooldudeirl wins!
+
+
+Recieved 10 gold!
+
+*****ENCOUNTER!*****
+
+LEVEL 7 Skeletal Archer
+
+STR: 18 + 30%
+AGI: 21 + 40%
+VIT: 8 + 15%
+INT: 3 + 5%
+DEX: 16 + 30%
+
+TURN 1
+Lv 7 cooldudeirl 211 HP
+Lv 7 Skeletal Archer 25 HP
+
+cooldudeirl attacks!
+cooldudeirl's Lay On Hands activated!
+cooldudeirl healed for 0!
+54 damage!
+cooldudeirl wins!
+
+
+Recieved 12 gold!
+
+*****ENCOUNTER!*****
+
+LEVEL 7 Ooze
+
+STR: 13 + 30%
+AGI: 5 + 5%
+VIT: 38 + 65%
+INT: 6 + 5%
+DEX: 7 + 5%
+
+TURN 1
+Lv 7 cooldudeirl 211 HP
+Lv 7 Ooze 100 HP
+
+cooldudeirl attacks!
+39 damage!
+Ooze attacks!
+1 damage!
+
+TURN 2
+Lv 7 cooldudeirl 210 HP
+Lv 7 Ooze 61 HP
+
+cooldudeirl attacks!
+39 damage!
+Ooze attacks!
+1 damage!
+
+TURN 3
+Lv 7 cooldudeirl 209 HP
+Lv 7 Ooze 22 HP
+
+cooldudeirl attacks!
+cooldudeirl's Heavy Blow activated!
+68 damage!
+cooldudeirl wins!
+
+
+Recieved 10 gold!
+
+*****ENCOUNTER!*****
+
+LEVEL 7 Skeletal Mage
+
+STR: 6 + 5%
+AGI: 8 + 15%
+VIT: 10 + 10%
+INT: 22 + 40%
+DEX: 19 + 25%
+
+TURN 1
+Lv 7 cooldudeirl 211 HP
+Lv 7 Skeletal Mage 30 HP
+
+cooldudeirl attacks!
+cooldudeirl's Heavy Blow activated!
+82 damage!
+cooldudeirl wins!
+
+
+Recieved 12 gold!
+
+*****ENCOUNTER!*****
+
+LEVEL 7 Shrieker
+
+STR: 7 + 5%
+AGI: 34 + 60%
+VIT: 15 + 30%
+INT: 23 + 40%
+DEX: 6 + 5%
+
+TURN 1
+Lv 7 cooldudeirl 211 HP
+Lv 7 Shrieker 42 HP
+
+cooldudeirl attacks!
+cooldudeirl's Heavy Blow activated!
+80 damage!
+cooldudeirl wins!
+
+
+Recieved 10 gold!
+Received Lv.8 Platemail!
+
+
+*****ENCOUNTER!*****
+
+LEVEL 7 Skeletal Archer
+
+STR: 16 + 30%
+AGI: 25 + 40%
+VIT: 10 + 15%
+INT: 7 + 5%
+DEX: 18 + 30%
+
+TURN 1
+Lv 7 cooldudeirl 213 HP
+Lv 7 Skeletal Archer 30 HP
+
+cooldudeirl attacks!
+Critical strike!
+106 damage!
+cooldudeirl wins!
+
+
+Recieved 10 gold!
+
+*****ENCOUNTER!*****
+
+LEVEL 7 Shrieker
+
+STR: 7 + 5%
+AGI: 38 + 60%
+VIT: 18 + 30%
+INT: 26 + 40%
+DEX: 5 + 5%
+
+TURN 1
+Lv 7 cooldudeirl 213 HP
+Lv 7 Shrieker 50 HP
+
+cooldudeirl attacks!
+49 damage!
+Shrieker attacks!
+20 damage!
+
+TURN 2
+Lv 7 cooldudeirl 193 HP
+Lv 7 Shrieker 1 HP
+
+cooldudeirl attacks!
+49 damage!
+cooldudeirl wins!
+
+
+Recieved 7 gold!
+
+*****ENCOUNTER!*****
+
+LEVEL 7 Shrieker
+
+STR: 6 + 5%
+AGI: 28 + 60%
+VIT: 13 + 30%
+INT: 25 + 40%
+DEX: 6 + 5%
+
+TURN 1
+Lv 7 cooldudeirl 213 HP
+Lv 7 Shrieker 37 HP
+
+cooldudeirl attacks!
+cooldudeirl's Heavy Blow activated!
+81 damage!
+cooldudeirl wins!
+
+
+
+***LEVEL UP!***
+Level 7->8
+STR 43->46 +(3)
+AGI 19->19 +(0)
+VIT 49->52 +(3)
+INT 41->42 +(1)
+DEX 37->38 +(1)
+
+
+Recieved 8 gold!
+
+*****ENCOUNTER!*****
+
+LEVEL 8 Shrieker
+
+STR: 4 + 5%
+AGI: 40 + 60%
+VIT: 18 + 30%
+INT: 33 + 40%
+DEX: 4 + 5%
+
+TURN 1
+Lv 8 cooldudeirl 223 HP
+Lv 8 Shrieker 50 HP
+
+cooldudeirl attacks!
+52 damage!
+cooldudeirl wins!
+
+
+Recieved 10 gold!
+
+cooldudeirl goes to town
+Entering Item Shop
+Bought Bandages
+Left Item Shop
+
+Entered Smithy
+Arming Sword upgraded to +1
+Arming Sword upgraded to +2
+Arming Sword upgraded to +3
+Arming Sword upgraded to +4
+Arming Sword upgraded to +5
+Arming Sword upgraded to +6
+Arming Sword upgraded to +7
+Arming Sword upgraded to +8
+Arming Sword upgraded to +9
+Arming Sword upgraded to +10
+Platemail upgraded to +1
+Platemail upgraded to +2
+Platemail upgraded to +3
+Platemail upgraded to +4
+Platemail upgraded to +5
+Platemail upgraded to +6
+Platemail upgraded to +7
+Platemail upgraded to +8
+Platemail upgraded to +9
+Platemail upgraded to +10
+Left Smithy
+Returning to dungeon...
+
+
+
+*****ENCOUNTER!*****
+
+LEVEL 8 Shrieker
+
+STR: 4 + 5%
+AGI: 33 + 60%
+VIT: 23 + 30%
+INT: 28 + 40%
+DEX: 8 + 5%
+
+TURN 1
+Lv 8 cooldudeirl 273 HP
+Lv 8 Shrieker 62 HP
+
+cooldudeirl attacks!
+cooldudeirl's Lay On Hands activated!
+cooldudeirl healed for 0!
+64 damage!
+cooldudeirl wins!
+
+
+Recieved 10 gold!
+
+*****ENCOUNTER!*****
+
+LEVEL 8 Slime
+
+STR: 33 + 40%
+AGI: 11 + 15%
+VIT: 21 + 40%
+INT: 6 + 5%
+DEX: 5 + 5%
+
+TURN 1
+Lv 8 cooldudeirl 273 HP
+Lv 8 Slime 57 HP
+
+cooldudeirl attacks!
+65 damage!
+cooldudeirl wins!
+
+
+Recieved 11 gold!
+
+*****ENCOUNTER!*****
+
+LEVEL 8 Slime
+
+STR: 26 + 40%
+AGI: 7 + 15%
+VIT: 26 + 40%
+INT: 6 + 5%
+DEX: 8 + 5%
+
+TURN 1
+Lv 8 cooldudeirl 273 HP
+Lv 8 Slime 70 HP
+
+cooldudeirl attacks!
+Critical strike!
+124 damage!
+cooldudeirl wins!
+
+
+Recieved 13 gold!
+
+*****ENCOUNTER!*****
+
+LEVEL 8 Skeletal Warrior
+
+STR: 30 + 60%
+AGI: 10 + 15%
+VIT: 12 + 20%
+INT: 7 + 5%
+DEX: 16 + 20%
+
+TURN 1
+Lv 8 cooldudeirl 273 HP
+Lv 8 Skeletal Warrior 35 HP
+
+cooldudeirl attacks!
+69 damage!
+cooldudeirl wins!
+
+
+Recieved 8 gold!
+
+*****ENCOUNTER!*****
+
+LEVEL 8 Ooze
+
+STR: 19 + 30%
+AGI: 7 + 5%
+VIT: 41 + 65%
+INT: 6 + 5%
+DEX: 6 + 5%
+
+TURN 1
+Lv 8 cooldudeirl 273 HP
+Lv 8 Ooze 107 HP
+
+cooldudeirl attacks!
+55 damage!
+Ooze attacks!
+1 damage!
+
+TURN 2
+Lv 8 cooldudeirl 272 HP
+Lv 8 Ooze 52 HP
+
+cooldudeirl attacks!
+55 damage!
+cooldudeirl wins!
+
+
+Recieved 7 gold!
+
+*****ENCOUNTER!*****
+
+LEVEL 8 Slime
+
+STR: 25 + 40%
+AGI: 9 + 15%
+VIT: 23 + 40%
+INT: 6 + 5%
+DEX: 6 + 5%
+
+TURN 1
+Lv 8 cooldudeirl 273 HP
+Lv 8 Slime 62 HP
+
+cooldudeirl attacks!
+cooldudeirl's Heavy Blow activated!
+Critical strike!
+204 damage!
+cooldudeirl wins!
+
+
+Recieved 9 gold!
+
+*****ENCOUNTER!*****
+
+LEVEL 8 Returned
+
+STR: 44 + 80%
+AGI: 8 + 10%
+VIT: 23 + 30%
+INT: 7 + 5%
+DEX: 5 + 5%
+
+TURN 1
+Lv 8 cooldudeirl 273 HP
+Lv 8 Returned 62 HP
+
+cooldudeirl attacks!
+64 damage!
+cooldudeirl wins!
+
+
+Recieved 10 gold!
+Received Lv.6 Rune Buckler!
+
+
+*****ENCOUNTER!*****
+
+LEVEL 8 Shrieker
+
+STR: 6 + 5%
+AGI: 40 + 60%
+VIT: 20 + 30%
+INT: 25 + 40%
+DEX: 4 + 5%
+
+TURN 1
+Lv 8 cooldudeirl 273 HP
+Lv 8 Shrieker 55 HP
+
+cooldudeirl attacks!
+65 damage!
+cooldudeirl wins!
+
+
+
+***LEVEL UP!***
+Level 8->9
+STR 46->49 +(3)
+AGI 19->19 +(0)
+VIT 52->54 +(2)
+INT 42->44 +(2)
+DEX 38->40 +(2)
+
+
+Recieved 8 gold!
+
+*****ENCOUNTER!*****
+
+LEVEL 9 Shrieker
+
+STR: 4 + 5%
+AGI: 48 + 60%
+VIT: 27 + 30%
+INT: 28 + 40%
+DEX: 4 + 5%
+
+TURN 1
+Lv 9 cooldudeirl 281 HP
+Lv 9 Shrieker 72 HP
+
+cooldudeirl attacks!
+cooldudeirl's Heavy Blow activated!
+104 damage!
+cooldudeirl wins!
+
+
+Recieved 13 gold!
+
+*****ENCOUNTER!*****
+
+LEVEL 9 Beholder
+
+STR: 30 + 40%
+AGI: 23 + 30%
+VIT: 18 + 30%
+INT: 4 + 5%
+DEX: 28 + 35%
+
+TURN 1
+Lv 9 cooldudeirl 281 HP
+Lv 9 Beholder 50 HP
+
+cooldudeirl attacks!
+cooldudeirl's Lay On Hands activated!
+cooldudeirl healed for 0!
+69 damage!
+cooldudeirl wins!
+
+
+Recieved 11 gold!
+
+*****ENCOUNTER!*****
+
+LEVEL 9 Skeletal Archer
+
+STR: 19 + 30%
+AGI: 27 + 40%
+VIT: 9 + 15%
+INT: 7 + 5%
+DEX: 23 + 30%
+
+TURN 1
+Lv 9 cooldudeirl 281 HP
+Lv 9 Skeletal Archer 27 HP
+
+cooldudeirl attacks!
+74 damage!
+cooldudeirl wins!
+
+
+Recieved 9 gold!
+
+*****ENCOUNTER!*****
+
+LEVEL 9 Skeletal Warrior
+
+STR: 40 + 60%
+AGI: 9 + 15%
+VIT: 16 + 20%
+INT: 5 + 5%
+DEX: 18 + 20%
+
+TURN 1
+Lv 9 cooldudeirl 281 HP
+Lv 9 Skeletal Warrior 45 HP
+
+cooldudeirl attacks!
+70 damage!
+cooldudeirl wins!
+
+
+Recieved 13 gold!
+
+*****ENCOUNTER!*****
+
+LEVEL 9 Returned
+
+STR: 54 + 80%
+AGI: 11 + 10%
+VIT: 23 + 30%
+INT: 7 + 5%
+DEX: 7 + 5%
+
+TURN 1
+Lv 9 cooldudeirl 281 HP
+Lv 9 Returned 62 HP
+
+cooldudeirl attacks!
+67 damage!
+cooldudeirl wins!
+
+
+Recieved 7 gold!
+
+*****ENCOUNTER!*****
+
+LEVEL 9 Skeletal Warrior
+
+STR: 42 + 60%
+AGI: 16 + 15%
+VIT: 14 + 20%
+INT: 7 + 5%
+DEX: 14 + 20%
+
+TURN 1
+Lv 9 cooldudeirl 281 HP
+Lv 9 Skeletal Warrior 40 HP
+
+cooldudeirl attacks!
+71 damage!
+cooldudeirl wins!
+
+
+Recieved 11 gold!
+
+*****ENCOUNTER!*****
+
+LEVEL 9 Shrieker
+
+STR: 8 + 5%
+AGI: 48 + 60%
+VIT: 25 + 30%
+INT: 19 + 40%
+DEX: 5 + 5%
+
+TURN 1
+Lv 9 cooldudeirl 281 HP
+Lv 9 Shrieker 67 HP
+
+cooldudeirl attacks!
+cooldudeirl's Heavy Blow activated!
+105 damage!
+cooldudeirl wins!
+
+
+Recieved 10 gold!
+Received Lv.11 Sabbath!
+
+
+*****ENCOUNTER!*****
+
+LEVEL 9 Shrieker
+
+STR: 6 + 5%
+AGI: 46 + 60%
+VIT: 21 + 30%
+INT: 26 + 40%
+DEX: 6 + 5%
+
+TURN 1
+Lv 9 cooldudeirl 281 HP
+Lv 9 Shrieker 57 HP
+
+cooldudeirl attacks!
+cooldudeirl's Heavy Blow activated!
+91 damage!
+cooldudeirl wins!
+
+
+Recieved 7 gold!
+
+*****ENCOUNTER!*****
+
+LEVEL 9 Skeletal Archer
+
+STR: 25 + 30%
+AGI: 27 + 40%
+VIT: 15 + 15%
+INT: 5 + 5%
+DEX: 14 + 30%
+
+TURN 1
+Lv 9 cooldudeirl 281 HP
+Lv 9 Skeletal Archer 42 HP
+
+cooldudeirl attacks!
+99 damage!
+cooldudeirl wins!
+
+
+
+***LEVEL UP!***
+Level 9->10
+STR 49->52 +(3)
+AGI 19->19 +(0)
+VIT 54->57 +(3)
+INT 44->46 +(2)
+DEX 40->43 +(3)
+
+
+Recieved 13 gold!
+
+cooldudeirl goes to town
+Entering Item Shop
+Left Item Shop
+
+Entered Smithy
+Sabbath upgraded to +1
+Sabbath upgraded to +2
+Sabbath upgraded to +3
+Sabbath upgraded to +4
+Sabbath upgraded to +5
+Sabbath upgraded to +6
+Sabbath upgraded to +7
+Sabbath upgraded to +8
+Sabbath upgraded to +9
+Sabbath upgraded to +10
+Left Smithy
+Returning to dungeon...
+
+
+
+*****ENCOUNTER!*****
+
+LEVEL 10 Skeletal King
+
+STR: 57 + 80%
+AGI: 17 + 15%
+VIT: 60 + 90%
+INT: 5 + 5%
+DEX: 22 + 35%
+
+TURN 1
+Lv 10 cooldudeirl 291 HP
+Lv 10 Skeletal King 155 HP
+
+cooldudeirl attacks!
+cooldudeirl's Heavy Blow activated!
+164 damage!
+cooldudeirl wins!
+
+
+
+***LEVEL UP!***
+Level 10->11
+STR 52->55 +(3)
+AGI 19->19 +(0)
+VIT 57->60 +(3)
+INT 46->49 +(3)
+DEX 43->44 +(1)
+
+
+Recieved 12 gold!
+
+*****ENCOUNTER!*****
+
+LEVEL 11 Ooze
+
+STR: 18 + 30%
+AGI: 8 + 5%
+VIT: 55 + 65%
+INT: 8 + 5%
+DEX: 8 + 5%
+
+TURN 1
+Lv 11 cooldudeirl 301 HP
+Lv 11 Ooze 142 HP
+
+cooldudeirl attacks!
+cooldudeirl's Heavy Blow activated!
+107 damage!
+Ooze attacks!
+1 damage!
+
+TURN 2
+Lv 11 cooldudeirl 300 HP
+Lv 11 Ooze 35 HP
+
+cooldudeirl attacks!
+62 damage!
+cooldudeirl wins!
+
+
+Recieved 7 gold!
+Received Lv.12 Forcefield!
+
+
+*****ENCOUNTER!*****
+
+LEVEL 11 Skeletal Archer
+
+STR: 25 + 30%
+AGI: 35 + 40%
+VIT: 10 + 15%
+INT: 6 + 5%
+DEX: 24 + 30%
+
+TURN 1
+Lv 11 cooldudeirl 301 HP
+Lv 11 Skeletal Archer 30 HP
+
+cooldudeirl attacks!
+139 damage!
+cooldudeirl wins!
+
+
+Recieved 9 gold!
+
+*****ENCOUNTER!*****
+
+LEVEL 11 Shrieker
+
+STR: 8 + 5%
+AGI: 43 + 60%
+VIT: 27 + 30%
+INT: 38 + 40%
+DEX: 3 + 5%
+
+TURN 1
+Lv 11 cooldudeirl 301 HP
+Lv 11 Shrieker 72 HP
+
+cooldudeirl attacks!
+cooldudeirl's Heavy Blow activated!
+121 damage!
+cooldudeirl wins!
+
+
+Recieved 7 gold!
+
+*****ENCOUNTER!*****
+
+LEVEL 11 Returned
+
+STR: 65 + 80%
+AGI: 12 + 10%
+VIT: 35 + 30%
+INT: 6 + 5%
+DEX: 8 + 5%
+
+TURN 1
+Lv 11 cooldudeirl 301 HP
+Lv 11 Returned 92 HP
+
+cooldudeirl attacks!
+119 damage!
+cooldudeirl wins!
+
+
+Recieved 12 gold!
+
+*****ENCOUNTER!*****
+
+LEVEL 11 Shrieker
+
+STR: 6 + 5%
+AGI: 38 + 60%
+VIT: 23 + 30%
+INT: 31 + 40%
+DEX: 9 + 5%
+
+TURN 1
+Lv 11 cooldudeirl 301 HP
+Lv 11 Shrieker 62 HP
+
+cooldudeirl attacks!
+Missed!
+Shrieker attacks!
+Blocked!
+
+TURN 2
+Lv 11 cooldudeirl 301 HP
+Lv 11 Shrieker 62 HP
+
+cooldudeirl attacks!
+cooldudeirl's Lay On Hands activated!
+cooldudeirl healed for 0!
+78 damage!
+cooldudeirl wins!
+
+
+Recieved 8 gold!
+
+*****ENCOUNTER!*****
+
+LEVEL 11 Skeletal Warrior
+
+STR: 37 + 60%
+AGI: 14 + 15%
+VIT: 11 + 20%
+INT: 8 + 5%
+DEX: 13 + 20%
+
+TURN 1
+Lv 11 cooldudeirl 301 HP
+Lv 11 Skeletal Warrior 32 HP
+
+cooldudeirl attacks!
+cooldudeirl's Heavy Blow activated!
+Critical strike!
+428 damage!
+cooldudeirl wins!
+
+
+Recieved 10 gold!
+Received Lv.10 Bandanna!
+
+
+*****ENCOUNTER!*****
+
+LEVEL 11 Slime
+
+STR: 32 + 40%
+AGI: 20 + 15%
+VIT: 33 + 40%
+INT: 8 + 5%
+DEX: 8 + 5%
+
+TURN 1
+Lv 11 cooldudeirl 301 HP
+Lv 11 Slime 87 HP
+
+cooldudeirl attacks!
+cooldudeirl's Heavy Blow activated!
+118 damage!
+cooldudeirl wins!
+
+
+Recieved 12 gold!
+
+*****ENCOUNTER!*****
+
+LEVEL 11 Skeletal Archer
+
+STR: 22 + 30%
+AGI: 27 + 40%
+VIT: 19 + 15%
+INT: 10 + 5%
+DEX: 29 + 30%
+
+TURN 1
+Lv 11 cooldudeirl 301 HP
+Lv 11 Skeletal Archer 52 HP
+
+cooldudeirl attacks!
+cooldudeirl's Lay On Hands activated!
+cooldudeirl healed for 0!
+132 damage!
+cooldudeirl wins!
+
+
+Recieved 8 gold!
+
+*****ENCOUNTER!*****
+
+LEVEL 11 Returned
+
+STR: 58 + 80%
+AGI: 10 + 10%
+VIT: 28 + 30%
+INT: 4 + 5%
+DEX: 8 + 5%
+
+TURN 1
+Lv 11 cooldudeirl 301 HP
+Lv 11 Returned 75 HP
+
+cooldudeirl attacks!
+124 damage!
+cooldudeirl wins!
+
+
+Recieved 12 gold!
+
+*****ENCOUNTER!*****
+
+LEVEL 11 Slime
+
+STR: 33 + 40%
+AGI: 15 + 15%
+VIT: 30 + 40%
+INT: 6 + 5%
+DEX: 11 + 5%
+
+TURN 1
+Lv 11 cooldudeirl 301 HP
+Lv 11 Slime 80 HP
+
+cooldudeirl attacks!
+74 damage!
+Slime attacks!
+Missed!
+
+TURN 2
+Lv 11 cooldudeirl 301 HP
+Lv 11 Slime 6 HP
+
+cooldudeirl attacks!
+74 damage!
+cooldudeirl wins!
+
+
+Recieved 13 gold!
+
+*****ENCOUNTER!*****
+
+LEVEL 11 Beholder
+
+STR: 23 + 40%
+AGI: 23 + 30%
+VIT: 24 + 30%
+INT: 5 + 5%
+DEX: 33 + 35%
+
+TURN 1
+Lv 11 cooldudeirl 301 HP
+Lv 11 Beholder 65 HP
+
+cooldudeirl attacks!
+77 damage!
+cooldudeirl wins!
+
+
+
+***LEVEL UP!***
+Level 11->12
+STR 55->58 +(3)
+AGI 19->19 +(0)
+VIT 60->63 +(3)
+INT 49->51 +(2)
+DEX 44->45 +(1)
+
+
+Recieved 13 gold!
+
+*****ENCOUNTER!*****
+
+LEVEL 12 Skeletal Warrior
+
+STR: 45 + 60%
+AGI: 14 + 15%
+VIT: 19 + 20%
+INT: 5 + 5%
+DEX: 16 + 20%
+
+TURN 1
+Lv 12 cooldudeirl 308 HP
+Lv 12 Skeletal Warrior 52 HP
+
+cooldudeirl attacks!
+137 damage!
+cooldudeirl wins!
+
+
+Recieved 9 gold!
+Received Lv.11 Bandanna!
+
+
+*****ENCOUNTER!*****
+
+LEVEL 12 Beholder
+
+STR: 27 + 40%
+AGI: 24 + 30%
+VIT: 34 + 30%
+INT: 9 + 5%
+DEX: 28 + 35%
+
+TURN 1
+Lv 12 cooldudeirl 308 HP
+Lv 12 Beholder 90 HP
+
+cooldudeirl attacks!
+Critical strike!
+150 damage!
+cooldudeirl wins!
+
+
+Recieved 11 gold!
+
+*****ENCOUNTER!*****
+
+LEVEL 12 Skeletal Archer
+
+STR: 23 + 30%
+AGI: 33 + 40%
+VIT: 16 + 15%
+INT: 8 + 5%
+DEX: 27 + 30%
+
+TURN 1
+Lv 12 cooldudeirl 308 HP
+Lv 12 Skeletal Archer 45 HP
+
+cooldudeirl attacks!
+Missed!
+Skeletal Archer attacks!
+1 damage!
+
+TURN 2
+Lv 12 cooldudeirl 307 HP
+Lv 12 Skeletal Archer 45 HP
+
+cooldudeirl attacks!
+139 damage!
+cooldudeirl wins!
+
+
+Recieved 12 gold!
+
+*****ENCOUNTER!*****
+
+LEVEL 12 Skeletal Warrior
+
+STR: 52 + 60%
+AGI: 16 + 15%
+VIT: 17 + 20%
+INT: 6 + 5%
+DEX: 22 + 20%
+
+TURN 1
+Lv 12 cooldudeirl 308 HP
+Lv 12 Skeletal Warrior 47 HP
+
+cooldudeirl attacks!
+139 damage!
+cooldudeirl wins!
+
+
+Recieved 13 gold!
+
+*****ENCOUNTER!*****
+
+LEVEL 12 Shrieker
+
+STR: 6 + 5%
+AGI: 39 + 60%
+VIT: 24 + 30%
+INT: 33 + 40%
+DEX: 4 + 5%
+
+TURN 1
+Lv 12 cooldudeirl 308 HP
+Lv 12 Shrieker 65 HP
+
+cooldudeirl attacks!
+80 damage!
+cooldudeirl wins!
+
+
+Recieved 11 gold!
+
+*****ENCOUNTER!*****
+
+LEVEL 12 Ooze
+
+STR: 29 + 30%
+AGI: 6 + 5%
+VIT: 53 + 65%
+INT: 7 + 5%
+DEX: 14 + 5%
+
+TURN 1
+Lv 12 cooldudeirl 308 HP
+Lv 12 Ooze 137 HP
+
+cooldudeirl attacks!
+cooldudeirl's Heavy Blow activated!
+112 damage!
+Ooze attacks!
+1 damage!
+
+TURN 2
+Lv 12 cooldudeirl 307 HP
+Lv 12 Ooze 25 HP
+
+cooldudeirl attacks!
+cooldudeirl's Lay On Hands activated!
+cooldudeirl healed for 1!
+66 damage!
+cooldudeirl wins!
+
+
+Recieved 9 gold!
+
+*****ENCOUNTER!*****
+
+LEVEL 12 Ooze
+
+STR: 19 + 30%
+AGI: 6 + 5%
+VIT: 57 + 65%
+INT: 6 + 5%
+DEX: 6 + 5%
+
+TURN 1
+Lv 12 cooldudeirl 308 HP
+Lv 12 Ooze 147 HP
+
+cooldudeirl attacks!
+cooldudeirl's Heavy Blow activated!
+110 damage!
+Ooze attacks!
+1 damage!
+
+TURN 2
+Lv 12 cooldudeirl 307 HP
+Lv 12 Ooze 37 HP
+
+cooldudeirl attacks!
+64 damage!
+cooldudeirl wins!
+
+
+Recieved 7 gold!
+
+*****ENCOUNTER!*****
+
+LEVEL 12 Skeletal Warrior
+
+STR: 47 + 60%
+AGI: 16 + 15%
+VIT: 15 + 20%
+INT: 9 + 5%
+DEX: 16 + 20%
+
+TURN 1
+Lv 12 cooldudeirl 308 HP
+Lv 12 Skeletal Warrior 42 HP
+
+cooldudeirl attacks!
+141 damage!
+cooldudeirl wins!
+
+
+Recieved 7 gold!
+
+*****ENCOUNTER!*****
+
+LEVEL 12 Slime
+
+STR: 38 + 40%
+AGI: 10 + 15%
+VIT: 38 + 40%
+INT: 10 + 5%
+DEX: 6 + 5%
+
+TURN 1
+Lv 12 cooldudeirl 308 HP
+Lv 12 Slime 100 HP
+
+cooldudeirl attacks!
+cooldudeirl's Heavy Blow activated!
+Critical strike!
+238 damage!
+cooldudeirl wins!
+
+
+Recieved 8 gold!
+
+*****ENCOUNTER!*****
+
+LEVEL 12 Ooze
+
+STR: 28 + 30%
+AGI: 6 + 5%
+VIT: 51 + 65%
+INT: 8 + 5%
+DEX: 5 + 5%
+
+TURN 1
+Lv 12 cooldudeirl 308 HP
+Lv 12 Ooze 132 HP
+
+cooldudeirl attacks!
+cooldudeirl's Heavy Blow activated!
+Critical strike!
+226 damage!
+cooldudeirl wins!
+
+
+
+***LEVEL UP!***
+Level 12->13
+STR 58->60 +(2)
+AGI 19->20 +(1)
+VIT 63->66 +(3)
+INT 51->54 +(3)
+DEX 45->45 +(0)
+
+
+Recieved 11 gold!
+
+*****ENCOUNTER!*****
+
+LEVEL 13 Skeletal Archer
+
+STR: 34 + 30%
+AGI: 35 + 40%
+VIT: 19 + 15%
+INT: 8 + 5%
+DEX: 24 + 30%
+
+TURN 1
+Lv 13 cooldudeirl 318 HP
+Lv 13 Skeletal Archer 52 HP
+
+cooldudeirl attacks!
+Critical strike!
+282 damage!
+cooldudeirl wins!
+
+
+Recieved 7 gold!
+
+*****ENCOUNTER!*****
+
+LEVEL 13 Skeletal Warrior
+
+STR: 51 + 60%
+AGI: 13 + 15%
+VIT: 15 + 20%
+INT: 5 + 5%
+DEX: 14 + 20%
+
+TURN 1
+Lv 13 cooldudeirl 318 HP
+Lv 13 Skeletal Warrior 42 HP
+
+cooldudeirl attacks!
+144 damage!
+cooldudeirl wins!
+
+
+Recieved 9 gold!
+
+*****ENCOUNTER!*****
+
+LEVEL 13 Slime
+
+STR: 26 + 40%
+AGI: 14 + 15%
+VIT: 42 + 40%
+INT: 12 + 5%
+DEX: 6 + 5%
+
+TURN 1
+Lv 13 cooldudeirl 318 HP
+Lv 13 Slime 110 HP
+
+cooldudeirl attacks!
+73 damage!
+Slime attacks!
+1 damage!
+
+TURN 2
+Lv 13 cooldudeirl 317 HP
+Lv 13 Slime 37 HP
+
+cooldudeirl attacks!
+cooldudeirl's Heavy Blow activated!
+Critical strike!
+240 damage!
+cooldudeirl wins!
+
+
+Recieved 9 gold!
+Received Lv.11 Platemail!
+
+
+*****ENCOUNTER!*****
+
+LEVEL 13 Returned
+
+STR: 63 + 80%
+AGI: 9 + 10%
+VIT: 22 + 30%
+INT: 7 + 5%
+DEX: 6 + 5%
+
+TURN 1
+Lv 13 cooldudeirl 274 HP
+Lv 13 Returned 60 HP
+
+cooldudeirl attacks!
+137 damage!
+cooldudeirl wins!
+
+
+Recieved 8 gold!
+
+*****ENCOUNTER!*****
+
+LEVEL 13 Slime
+
+STR: 30 + 40%
+AGI: 15 + 15%
+VIT: 24 + 40%
+INT: 6 + 5%
+DEX: 5 + 5%
+
+TURN 1
+Lv 13 cooldudeirl 274 HP
+Lv 13 Slime 65 HP
+
+cooldudeirl attacks!
+cooldudeirl's Lay On Hands activated!
+cooldudeirl healed for 0!
+82 damage!
+cooldudeirl wins!
+
+
+Recieved 10 gold!
+
+*****ENCOUNTER!*****
+
+LEVEL 13 Skeletal Warrior
+
+STR: 51 + 60%
+AGI: 15 + 15%
+VIT: 20 + 20%
+INT: 7 + 5%
+DEX: 21 + 20%
+
+TURN 1
+Lv 13 cooldudeirl 274 HP
+Lv 13 Skeletal Warrior 55 HP
+
+cooldudeirl attacks!
+cooldudeirl's Heavy Blow activated!
+217 damage!
+cooldudeirl wins!
+
+
+Recieved 8 gold!
+
+*****ENCOUNTER!*****
+
+LEVEL 13 Skeletal Mage
+
+STR: 7 + 5%
+AGI: 15 + 15%
+VIT: 14 + 10%
+INT: 27 + 40%
+DEX: 26 + 25%
+
+TURN 1
+Lv 13 cooldudeirl 274 HP
+Lv 13 Skeletal Mage 40 HP
+
+cooldudeirl attacks!
+144 damage!
+cooldudeirl wins!
+
+
+Recieved 13 gold!
+
+*****ENCOUNTER!*****
+
+LEVEL 13 Slime
+
+STR: 39 + 40%
+AGI: 14 + 15%
+VIT: 34 + 40%
+INT: 12 + 5%
+DEX: 8 + 5%
+
+TURN 1
+Lv 13 cooldudeirl 274 HP
+Lv 13 Slime 90 HP
+
+cooldudeirl attacks!
+77 damage!
+Slime attacks!
+1 damage!
+
+TURN 2
+Lv 13 cooldudeirl 273 HP
+Lv 13 Slime 13 HP
+
+cooldudeirl attacks!
+77 damage!
+cooldudeirl wins!
+
+
+Recieved 13 gold!
+Received Lv.16 Bandanna!
+
+
+*****ENCOUNTER!*****
+
+LEVEL 13 Skeletal Mage
+
+STR: 5 + 5%
+AGI: 17 + 15%
+VIT: 8 + 10%
+INT: 29 + 40%
+DEX: 19 + 25%
+
+TURN 1
+Lv 13 cooldudeirl 274 HP
+Lv 13 Skeletal Mage 25 HP
+
+cooldudeirl attacks!
+cooldudeirl's Heavy Blow activated!
+227 damage!
+cooldudeirl wins!
+
+
+Recieved 12 gold!
+Received Lv.15 Bandanna!
+
+
+*****ENCOUNTER!*****
+
+LEVEL 13 Ooze
+
+STR: 29 + 30%
+AGI: 5 + 5%
+VIT: 59 + 65%
+INT: 9 + 5%
+DEX: 7 + 5%
+
+TURN 1
+Lv 13 cooldudeirl 274 HP
+Lv 13 Ooze 152 HP
+
+cooldudeirl attacks!
+65 damage!
+Ooze attacks!
+1 damage!
+
+TURN 2
+Lv 13 cooldudeirl 273 HP
+Lv 13 Ooze 87 HP
+
+cooldudeirl attacks!
+cooldudeirl's Lay On Hands activated!
+cooldudeirl healed for 1!
+65 damage!
+Ooze attacks!
+1 damage!
+
+TURN 3
+Lv 13 cooldudeirl 273 HP
+Lv 13 Ooze 22 HP
+
+cooldudeirl attacks!
+65 damage!
+cooldudeirl wins!
+
+
+Recieved 8 gold!
+Received Lv.15 Rune Buckler!
+
+
+*****ENCOUNTER!*****
+
+LEVEL 13 Returned
+
+STR: 70 + 80%
+AGI: 11 + 10%
+VIT: 33 + 30%
+INT: 6 + 5%
+DEX: 4 + 5%
+
+TURN 1
+Lv 13 cooldudeirl 274 HP
+Lv 13 Returned 87 HP
+
+cooldudeirl attacks!
+cooldudeirl's Lay On Hands activated!
+cooldudeirl healed for 0!
+129 damage!
+cooldudeirl wins!
+
+
+Recieved 12 gold!
+
+*****ENCOUNTER!*****
+
+LEVEL 13 Skeletal Mage
+
+STR: 7 + 5%
+AGI: 11 + 15%
+VIT: 10 + 10%
+INT: 36 + 40%
+DEX: 18 + 25%
+
+TURN 1
+Lv 13 cooldudeirl 274 HP
+Lv 13 Skeletal Mage 30 HP
+
+cooldudeirl attacks!
+147 damage!
+cooldudeirl wins!
+
+
+Recieved 8 gold!
+Received Lv.13 Feathered Cape!
+
+
+*****ENCOUNTER!*****
+
+LEVEL 13 Slime
+
+STR: 36 + 40%
+AGI: 17 + 15%
+VIT: 31 + 40%
+INT: 8 + 5%
+DEX: 7 + 5%
+
+TURN 1
+Lv 13 cooldudeirl 274 HP
+Lv 13 Slime 82 HP
+
+cooldudeirl attacks!
+cooldudeirl's Heavy Blow activated!
+126 damage!
+cooldudeirl wins!
+
+
+
+***LEVEL UP!***
+Level 13->14
+STR 60->63 +(3)
+AGI 20->20 +(0)
+VIT 66->69 +(3)
+INT 54->55 +(1)
+DEX 45->47 +(2)
+
+
+Recieved 8 gold!
+Received Lv.12 Gauntlets!
+
+
+*****ENCOUNTER!*****
+
+LEVEL 14 Slime
+
+STR: 38 + 40%
+AGI: 16 + 15%
+VIT: 38 + 40%
+INT: 7 + 5%
+DEX: 6 + 5%
+
+TURN 1
+Lv 14 cooldudeirl 284 HP
+Lv 14 Slime 100 HP
+
+cooldudeirl attacks!
+cooldudeirl's Lay On Hands activated!
+cooldudeirl healed for 0!
+78 damage!
+Slime attacks!
+1 damage!
+
+TURN 2
+Lv 14 cooldudeirl 283 HP
+Lv 14 Slime 22 HP
+
+cooldudeirl attacks!
+78 damage!
+cooldudeirl wins!
+
+
+Recieved 7 gold!
+
+*****ENCOUNTER!*****
+
+LEVEL 14 Beholder
+
+STR: 35 + 40%
+AGI: 30 + 30%
+VIT: 35 + 30%
+INT: 8 + 5%
+DEX: 28 + 35%
+
+TURN 1
+Lv 14 cooldudeirl 284 HP
+Lv 14 Beholder 92 HP
+
+cooldudeirl attacks!
+cooldudeirl's Heavy Blow activated!
+129 damage!
+cooldudeirl wins!
+
+
+Recieved 8 gold!
+Received Lv.12 Oak Staff!
+
+
+*****ENCOUNTER!*****
+
+LEVEL 14 Shrieker
+
+STR: 6 + 5%
+AGI: 58 + 60%
+VIT: 28 + 30%
+INT: 42 + 40%
+DEX: 7 + 5%
+
+TURN 1
+Lv 14 cooldudeirl 284 HP
+Lv 14 Shrieker 75 HP
+
+cooldudeirl attacks!
+98 damage!
+cooldudeirl wins!
+
+
+Recieved 9 gold!
+
+*****ENCOUNTER!*****
+
+LEVEL 14 Slime
+
+STR: 44 + 40%
+AGI: 18 + 15%
+VIT: 42 + 40%
+INT: 8 + 5%
+DEX: 5 + 5%
+
+TURN 1
+Lv 14 cooldudeirl 284 HP
+Lv 14 Slime 110 HP
+
+cooldudeirl attacks!
+98 damage!
+Slime attacks!
+1 damage!
+
+TURN 2
+Lv 14 cooldudeirl 283 HP
+Lv 14 Slime 12 HP
+
+cooldudeirl attacks!
+98 damage!
+cooldudeirl wins!
+
+
+Recieved 9 gold!
+
+*****ENCOUNTER!*****
+
+LEVEL 14 Slime
+
+STR: 40 + 40%
+AGI: 20 + 15%
+VIT: 42 + 40%
+INT: 8 + 5%
+DEX: 7 + 5%
+
+TURN 1
+Lv 14 cooldudeirl 284 HP
+Lv 14 Slime 110 HP
+
+cooldudeirl attacks!
+98 damage!
+Slime attacks!
+Missed!
+
+TURN 2
+Lv 14 cooldudeirl 284 HP
+Lv 14 Slime 12 HP
+
+cooldudeirl attacks!
+cooldudeirl's Heavy Blow activated!
+94 damage!
+cooldudeirl wins!
+
+
+Recieved 13 gold!
+
+*****ENCOUNTER!*****
+
+LEVEL 14 Beholder
+
+STR: 40 + 40%
+AGI: 27 + 30%
+VIT: 29 + 30%
+INT: 12 + 5%
+DEX: 37 + 35%
+
+TURN 1
+Lv 14 cooldudeirl 284 HP
+Lv 14 Beholder 77 HP
+
+cooldudeirl attacks!
+98 damage!
+cooldudeirl wins!
+
+
+Recieved 12 gold!
+
+*****ENCOUNTER!*****
+
+LEVEL 14 Skeletal Mage
+
+STR: 9 + 5%
+AGI: 17 + 15%
+VIT: 12 + 10%
+INT: 37 + 40%
+DEX: 30 + 25%
+
+TURN 1
+Lv 14 cooldudeirl 284 HP
+Lv 14 Skeletal Mage 35 HP
+
+cooldudeirl attacks!
+cooldudeirl's Heavy Blow activated!
+94 damage!
+cooldudeirl wins!
+
+
+Recieved 10 gold!
+Received Lv.16 Warhammer!
+
+
+*****ENCOUNTER!*****
+
+LEVEL 14 Skeletal Mage
+
+STR: 9 + 5%
+AGI: 11 + 15%
+VIT: 10 + 10%
+INT: 39 + 40%
+DEX: 23 + 25%
+
+TURN 1
+Lv 14 cooldudeirl 284 HP
+Lv 14 Skeletal Mage 30 HP
+
+cooldudeirl attacks!
+85 damage!
+cooldudeirl wins!
+
+
+Recieved 8 gold!
+Received Lv.13 Steel Helm!
+
+
+*****ENCOUNTER!*****
+
+LEVEL 14 Skeletal Archer
+
+STR: 27 + 30%
+AGI: 40 + 40%
+VIT: 14 + 15%
+INT: 5 + 5%
+DEX: 24 + 30%
+
+TURN 1
+Lv 14 cooldudeirl 327 HP
+Lv 14 Skeletal Archer 40 HP
+
+cooldudeirl attacks!
+cooldudeirl's Heavy Blow activated!
+128 damage!
+cooldudeirl wins!
+
+
+Recieved 13 gold!
+
+*****ENCOUNTER!*****
+
+LEVEL 14 Skeletal Archer
+
+STR: 27 + 30%
+AGI: 42 + 40%
+VIT: 15 + 15%
+INT: 7 + 5%
+DEX: 24 + 30%
+
+TURN 1
+Lv 14 cooldudeirl 327 HP
+Lv 14 Skeletal Archer 42 HP
+
+cooldudeirl attacks!
+84 damage!
+cooldudeirl wins!
+
+
+
+***LEVEL UP!***
+Level 14->15
+STR 63->65 +(2)
+AGI 20->20 +(0)
+VIT 69->71 +(2)
+INT 55->57 +(2)
+DEX 47->49 +(2)
+
+
+Recieved 12 gold!
+
+*****ENCOUNTER!*****
+
+LEVEL 15 Skeletal Warrior
+
+STR: 56 + 60%
+AGI: 17 + 15%
+VIT: 15 + 20%
+INT: 8 + 5%
+DEX: 20 + 20%
+
+TURN 1
+Lv 15 cooldudeirl 337 HP
+Lv 15 Skeletal Warrior 42 HP
+
+cooldudeirl attacks!
+86 damage!
+cooldudeirl wins!
+
+
+Recieved 9 gold!
+Received Lv.18 Leather Tunic!
+
+
+*****ENCOUNTER!*****
+
+LEVEL 15 Ghast
+
+STR: 66 + 70%
+AGI: 40 + 40%
+VIT: 22 + 20%
+INT: 6 + 5%
+DEX: 10 + 5%
+
+TURN 1
+Lv 15 cooldudeirl 251 HP
+Lv 15 Ghast 60 HP
+
+cooldudeirl attacks!
+84 damage!
+cooldudeirl wins!
+
+
+Recieved 9 gold!
+
+*****ENCOUNTER!*****
+
+LEVEL 15 Skeletal Warrior
+
+STR: 56 + 60%
+AGI: 15 + 15%
+VIT: 20 + 20%
+INT: 7 + 5%
+DEX: 19 + 20%
+
+TURN 1
+Lv 15 cooldudeirl 251 HP
+Lv 15 Skeletal Warrior 55 HP
+
+cooldudeirl attacks!
+Critical strike!
+170 damage!
+cooldudeirl wins!
+
+
+Recieved 13 gold!
+
+*****ENCOUNTER!*****
+
+LEVEL 15 Returned
+
+STR: 72 + 80%
+AGI: 14 + 10%
+VIT: 29 + 30%
+INT: 9 + 5%
+DEX: 5 + 5%
+
+TURN 1
+Lv 15 cooldudeirl 251 HP
+Lv 15 Returned 77 HP
+
+cooldudeirl attacks!
+83 damage!
+cooldudeirl wins!
+
+
+Recieved 11 gold!
+
+*****ENCOUNTER!*****
+
+LEVEL 15 Ooze
+
+STR: 26 + 30%
+AGI: 9 + 5%
+VIT: 60 + 65%
+INT: 12 + 5%
+DEX: 6 + 5%
+
+TURN 1
+Lv 15 cooldudeirl 251 HP
+Lv 15 Ooze 155 HP
+
+cooldudeirl attacks!
+75 damage!
+Ooze attacks!
+1 damage!
+
+TURN 2
+Lv 15 cooldudeirl 250 HP
+Lv 15 Ooze 80 HP
+
+cooldudeirl attacks!
+75 damage!
+Ooze attacks!
+Missed!
+
+TURN 3
+Lv 15 cooldudeirl 250 HP
+Lv 15 Ooze 5 HP
+
+cooldudeirl attacks!
+cooldudeirl's Heavy Blow activated!
+120 damage!
+cooldudeirl wins!
+
+
+Recieved 9 gold!
+Received Lv.14 Estoc!
+
+
+*****ENCOUNTER!*****
+
+LEVEL 15 Slime
+
+STR: 38 + 40%
+AGI: 12 + 15%
+VIT: 36 + 40%
+INT: 10 + 5%
+DEX: 7 + 5%
+
+TURN 1
+Lv 15 cooldudeirl 251 HP
+Lv 15 Slime 95 HP
+
+cooldudeirl attacks!
+Critical strike!
+114 damage!
+cooldudeirl wins!
+
+
+Recieved 11 gold!
+
+*****ENCOUNTER!*****
+
+LEVEL 15 Ghast
+
+STR: 64 + 70%
+AGI: 39 + 40%
+VIT: 21 + 20%
+INT: 9 + 5%
+DEX: 7 + 5%
+
+TURN 1
+Lv 15 cooldudeirl 251 HP
+Lv 15 Ghast 57 HP
+
+cooldudeirl attacks!
+Critical strike!
+130 damage!
+cooldudeirl wins!
+
+
+Recieved 8 gold!
+
+*****ENCOUNTER!*****
+
+LEVEL 15 Skeletal Warrior
+
+STR: 55 + 60%
+AGI: 18 + 15%
+VIT: 21 + 20%
+INT: 9 + 5%
+DEX: 17 + 20%
+
+TURN 1
+Lv 15 cooldudeirl 251 HP
+Lv 15 Skeletal Warrior 57 HP
+
+cooldudeirl attacks!
+65 damage!
+cooldudeirl wins!
+
+
+Recieved 10 gold!
+
+*****ENCOUNTER!*****
+
+LEVEL 15 Skeletal Archer
+
+STR: 29 + 30%
+AGI: 44 + 40%
+VIT: 17 + 15%
+INT: 5 + 5%
+DEX: 20 + 30%
+
+TURN 1
+Lv 15 cooldudeirl 251 HP
+Lv 15 Skeletal Archer 47 HP
+
+cooldudeirl attacks!
+67 damage!
+cooldudeirl wins!
+
+
+Recieved 13 gold!
+
+*****ENCOUNTER!*****
+
+LEVEL 15 Skeletal Mage
+
+STR: 7 + 5%
+AGI: 21 + 15%
+VIT: 11 + 10%
+INT: 39 + 40%
+DEX: 31 + 25%
+
+TURN 1
+Lv 15 cooldudeirl 251 HP
+Lv 15 Skeletal Mage 32 HP
+
+cooldudeirl attacks!
+70 damage!
+cooldudeirl wins!
+
+
+Recieved 13 gold!
+Received Lv.16 Arming Sword!
+
+
+*****ENCOUNTER!*****
+
+LEVEL 15 Skeletal Mage
+
+STR: 6 + 5%
+AGI: 22 + 15%
+VIT: 12 + 10%
+INT: 37 + 40%
+DEX: 29 + 25%
+
+TURN 1
+Lv 15 cooldudeirl 251 HP
+Lv 15 Skeletal Mage 35 HP
+
+cooldudeirl attacks!
+cooldudeirl's Heavy Blow activated!
+117 damage!
+cooldudeirl wins!
+
+
+
+***LEVEL UP!***
+Level 15->16
+STR 65->68 +(3)
+AGI 20->21 +(1)
+VIT 71->74 +(3)
+INT 57->60 +(3)
+DEX 49->49 +(0)
+
+
+Recieved 10 gold!
+
+*****ENCOUNTER!*****
+
+LEVEL 16 Skeletal Archer
+
+STR: 27 + 30%
+AGI: 41 + 40%
+VIT: 10 + 15%
+INT: 5 + 5%
+DEX: 34 + 30%
+
+TURN 1
+Lv 16 cooldudeirl 259 HP
+Lv 16 Skeletal Archer 30 HP
+
+cooldudeirl attacks!
+80 damage!
+cooldudeirl wins!
+
+
+Recieved 13 gold!
+Received Lv.14 Goggles!
+
+
+*****ENCOUNTER!*****
+
+LEVEL 16 Rune Golem
+
+STR: 55 + 50%
+AGI: 13 + 5%
+VIT: 67 + 75%
+INT: 8 + 5%
+DEX: 27 + 25%
+
+TURN 1
+Lv 16 cooldudeirl 224 HP
+Lv 16 Rune Golem 172 HP
+
+cooldudeirl attacks!
+cooldudeirl's Heavy Blow activated!
+95 damage!
+Rune Golem attacks!
+Blocked!
+
+TURN 2
+Lv 16 cooldudeirl 224 HP
+Lv 16 Rune Golem 77 HP
+
+cooldudeirl attacks!
+52 damage!
+Rune Golem attacks!
+17 damage!
+
+TURN 3
+Lv 16 cooldudeirl 207 HP
+Lv 16 Rune Golem 25 HP
+
+cooldudeirl attacks!
+52 damage!
+cooldudeirl wins!
+
+
+Recieved 9 gold!
+
+*****ENCOUNTER!*****
+
+LEVEL 16 Clay Golem
+
+STR: 34 + 40%
+AGI: 31 + 25%
+VIT: 73 + 75%
+INT: 9 + 5%
+DEX: 7 + 5%
+
+TURN 1
+Lv 16 cooldudeirl 224 HP
+Lv 16 Clay Golem 187 HP
+
+cooldudeirl attacks!
+49 damage!
+Clay Golem attacks!
+1 damage!
+
+TURN 2
+Lv 16 cooldudeirl 223 HP
+Lv 16 Clay Golem 138 HP
+
+cooldudeirl attacks!
+49 damage!
+Clay Golem attacks!
+1 damage!
+
+TURN 3
+Lv 16 cooldudeirl 222 HP
+Lv 16 Clay Golem 89 HP
+
+cooldudeirl attacks!
+49 damage!
+Clay Golem attacks!
+Missed!
+
+TURN 4
+Lv 16 cooldudeirl 222 HP
+Lv 16 Clay Golem 40 HP
+
+cooldudeirl attacks!
+cooldudeirl's Lay On Hands activated!
+cooldudeirl healed for 2!
+49 damage!
+cooldudeirl wins!
+
+
+Recieved 12 gold!
+Received Lv.16 Sabbath!
+
+
+*****ENCOUNTER!*****
+
+LEVEL 16 Skeletal Mage
+
+STR: 8 + 5%
+AGI: 13 + 15%
+VIT: 13 + 10%
+INT: 40 + 40%
+DEX: 31 + 25%
+
+TURN 1
+Lv 16 cooldudeirl 224 HP
+Lv 16 Skeletal Mage 37 HP
+
+cooldudeirl attacks!
+136 damage!
+cooldudeirl wins!
+
+
+Recieved 7 gold!
+
+*****ENCOUNTER!*****
+
+LEVEL 16 Shrieker
+
+STR: 10 + 5%
+AGI: 75 + 60%
+VIT: 24 + 30%
+INT: 44 + 40%
+DEX: 8 + 5%
+
+TURN 1
+Lv 16 cooldudeirl 224 HP
+Lv 16 Shrieker 65 HP
+
+cooldudeirl attacks!
+76 damage!
+cooldudeirl wins!
+
+
+Recieved 8 gold!
+
+*****ENCOUNTER!*****
+
+LEVEL 16 Revenant
+
+STR: 6 + 5%
+AGI: 61 + 60%
+VIT: 31 + 20%
+INT: 60 + 60%
+DEX: 4 + 5%
+
+TURN 1
+Lv 16 cooldudeirl 224 HP
+Lv 16 Revenant 82 HP
+
+cooldudeirl attacks!
+121 damage!
+cooldudeirl wins!
+
+
+Recieved 9 gold!
+
+*****ENCOUNTER!*****
+
+LEVEL 16 Skeletal Warrior
+
+STR: 61 + 60%
+AGI: 17 + 15%
+VIT: 19 + 20%
+INT: 11 + 5%
+DEX: 21 + 20%
+
+TURN 1
+Lv 16 cooldudeirl 224 HP
+Lv 16 Skeletal Warrior 52 HP
+
+cooldudeirl attacks!
+cooldudeirl's Heavy Blow activated!
+204 damage!
+cooldudeirl wins!
+
+
+Recieved 8 gold!
+
+*****ENCOUNTER!*****
+
+LEVEL 16 Skeletal Warrior
+
+STR: 65 + 60%
+AGI: 11 + 15%
+VIT: 25 + 20%
+INT: 12 + 5%
+DEX: 27 + 20%
+
+TURN 1
+Lv 16 cooldudeirl 224 HP
+Lv 16 Skeletal Warrior 67 HP
+
+cooldudeirl attacks!
+cooldudeirl's Heavy Blow activated!
+199 damage!
+cooldudeirl wins!
+
+
+Recieved 10 gold!
+
+*****ENCOUNTER!*****
+
+LEVEL 16 Rune Golem
+
+STR: 57 + 50%
+AGI: 5 + 5%
+VIT: 79 + 75%
+INT: 11 + 5%
+DEX: 23 + 25%
+
+TURN 1
+Lv 16 cooldudeirl 224 HP
+Lv 16 Rune Golem 202 HP
+
+cooldudeirl attacks!
+cooldudeirl's Lay On Hands activated!
+cooldudeirl healed for 0!
+49 damage!
+Rune Golem attacks!
+19 damage!
+
+TURN 2
+Lv 16 cooldudeirl 205 HP
+Lv 16 Rune Golem 153 HP
+
+cooldudeirl attacks!
+49 damage!
+Rune Golem attacks!
+Blocked!
+
+TURN 3
+Lv 16 cooldudeirl 205 HP
+Lv 16 Rune Golem 104 HP
+
+cooldudeirl attacks!
+cooldudeirl's Heavy Blow activated!
+93 damage!
+Rune Golem attacks!
+19 damage!
+
+TURN 4
+Lv 16 cooldudeirl 186 HP
+Lv 16 Rune Golem 11 HP
+
+cooldudeirl attacks!
+49 damage!
+cooldudeirl wins!
+
+
+Recieved 11 gold!
+
+*****ENCOUNTER!*****
+
+LEVEL 16 Cryptskulker
+
+STR: 39 + 40%
+AGI: 82 + 80%
+VIT: 38 + 35%
+INT: 12 + 5%
+DEX: 7 + 5%
+
+TURN 1
+Lv 16 cooldudeirl 224 HP
+Lv 16 Cryptskulker 100 HP
+
+cooldudeirl attacks!
+cooldudeirl's Heavy Blow activated!
+113 damage!
+cooldudeirl wins!
+
+
+Recieved 12 gold!
+
+*****ENCOUNTER!*****
+
+LEVEL 16 Slime
+
+STR: 45 + 40%
+AGI: 18 + 15%
+VIT: 48 + 40%
+INT: 8 + 5%
+DEX: 5 + 5%
+
+TURN 1
+Lv 16 cooldudeirl 224 HP
+Lv 16 Slime 125 HP
+
+cooldudeirl attacks!
+64 damage!
+Slime attacks!
+Blocked!
+
+TURN 2
+Lv 16 cooldudeirl 224 HP
+Lv 16 Slime 61 HP
+
+cooldudeirl attacks!
+64 damage!
+cooldudeirl wins!
+
+
+Recieved 9 gold!
+
+*****ENCOUNTER!*****
+
+LEVEL 16 Ghast
+
+STR: 68 + 70%
+AGI: 36 + 40%
+VIT: 26 + 20%
+INT: 7 + 5%
+DEX: 6 + 5%
+
+TURN 1
+Lv 16 cooldudeirl 224 HP
+Lv 16 Ghast 70 HP
+
+cooldudeirl attacks!
+124 damage!
+cooldudeirl wins!
+
+
+
+***LEVEL UP!***
+Level 16->17
+STR 68->71 +(3)
+AGI 21->22 +(1)
+VIT 74->76 +(2)
+INT 60->62 +(2)
+DEX 49->50 +(1)
+
+
+Recieved 13 gold!
+
+*****ENCOUNTER!*****
+
+LEVEL 17 Returned
+
+STR: 84 + 80%
+AGI: 12 + 10%
+VIT: 31 + 30%
+INT: 6 + 5%
+DEX: 9 + 5%
+
+TURN 1
+Lv 17 cooldudeirl 229 HP
+Lv 17 Returned 82 HP
+
+cooldudeirl attacks!
+cooldudeirl's Lay On Hands activated!
+cooldudeirl healed for 0!
+126 damage!
+cooldudeirl wins!
+
+
+Recieved 8 gold!
+
+*****ENCOUNTER!*****
+
+LEVEL 17 Ooze
+
+STR: 33 + 30%
+AGI: 9 + 5%
+VIT: 75 + 65%
+INT: 8 + 5%
+DEX: 8 + 5%
+
+TURN 1
+Lv 17 cooldudeirl 229 HP
+Lv 17 Ooze 192 HP
+
+cooldudeirl attacks!
+54 damage!
+Ooze attacks!
+1 damage!
+
+TURN 2
+Lv 17 cooldudeirl 228 HP
+Lv 17 Ooze 138 HP
+
+cooldudeirl attacks!
+54 damage!
+Ooze attacks!
+Missed!
+
+TURN 3
+Lv 17 cooldudeirl 228 HP
+Lv 17 Ooze 84 HP
+
+cooldudeirl attacks!
+54 damage!
+Ooze attacks!
+Blocked!
+
+TURN 4
+Lv 17 cooldudeirl 228 HP
+Lv 17 Ooze 30 HP
+
+cooldudeirl attacks!
+cooldudeirl's Lay On Hands activated!
+cooldudeirl healed for 1!
+54 damage!
+cooldudeirl wins!
+
+
+Recieved 8 gold!
+
+*****ENCOUNTER!*****
+
+LEVEL 17 Slime
+
+STR: 36 + 40%
+AGI: 14 + 15%
+VIT: 45 + 40%
+INT: 7 + 5%
+DEX: 7 + 5%
+
+TURN 1
+Lv 17 cooldudeirl 229 HP
+Lv 17 Slime 117 HP
+
+cooldudeirl attacks!
+69 damage!
+Slime attacks!
+Missed!
+
+TURN 2
+Lv 17 cooldudeirl 229 HP
+Lv 17 Slime 48 HP
+
+cooldudeirl attacks!
+69 damage!
+cooldudeirl wins!
+
+
+Recieved 8 gold!
+Received Lv.17 Composite Bow!
+
+
+*****ENCOUNTER!*****
+
+LEVEL 17 Clay Golem
+
+STR: 39 + 40%
+AGI: 31 + 25%
+VIT: 75 + 75%
+INT: 8 + 5%
+DEX: 6 + 5%
+
+TURN 1
+Lv 17 cooldudeirl 229 HP
+Lv 17 Clay Golem 192 HP
+
+cooldudeirl attacks!
+Critical strike!
+100 damage!
+Clay Golem attacks!
+1 damage!
+
+TURN 2
+Lv 17 cooldudeirl 228 HP
+Lv 17 Clay Golem 92 HP
+
+cooldudeirl attacks!
+cooldudeirl's Heavy Blow activated!
+94 damage!
+cooldudeirl wins!
+
+
+Recieved 10 gold!
+Received Lv.19 Stiletto!
+
+
+*****ENCOUNTER!*****
+
+LEVEL 17 Slime
+
+STR: 37 + 40%
+AGI: 15 + 15%
+VIT: 46 + 40%
+INT: 5 + 5%
+DEX: 9 + 5%
+
+TURN 1
+Lv 17 cooldudeirl 229 HP
+Lv 17 Slime 120 HP
+
+cooldudeirl attacks!
+58 damage!
+Slime attacks!
+1 damage!
+
+TURN 2
+Lv 17 cooldudeirl 228 HP
+Lv 17 Slime 62 HP
+
+cooldudeirl attacks!
+58 damage!
+Slime attacks!
+Blocked!
+
+TURN 3
+Lv 17 cooldudeirl 228 HP
+Lv 17 Slime 4 HP
+
+cooldudeirl attacks!
+58 damage!
+cooldudeirl wins!
+
+
+Recieved 8 gold!
+
+*****ENCOUNTER!*****
+
+LEVEL 17 Returned
+
+STR: 88 + 80%
+AGI: 16 + 10%
+VIT: 28 + 30%
+INT: 7 + 5%
+DEX: 8 + 5%
+
+TURN 1
+Lv 17 cooldudeirl 229 HP
+Lv 17 Returned 75 HP
+
+cooldudeirl attacks!
+67 damage!
+Returned attacks!
+49 damage!
+
+TURN 2
+Lv 17 cooldudeirl 180 HP
+Lv 17 Returned 8 HP
+
+cooldudeirl attacks!
+67 damage!
+cooldudeirl wins!
+
+
+Recieved 8 gold!
+
+*****ENCOUNTER!*****
+
+LEVEL 17 Slime
+
+STR: 50 + 40%
+AGI: 15 + 15%
+VIT: 47 + 40%
+INT: 7 + 5%
+DEX: 8 + 5%
+
+TURN 1
+Lv 17 cooldudeirl 229 HP
+Lv 17 Slime 122 HP
+
+cooldudeirl attacks!
+cooldudeirl's Heavy Blow activated!
+99 damage!
+Slime attacks!
+Blocked!
+
+TURN 2
+Lv 17 cooldudeirl 229 HP
+Lv 17 Slime 23 HP
+
+cooldudeirl attacks!
+cooldudeirl's Heavy Blow activated!
+99 damage!
+cooldudeirl wins!
+
+
+Recieved 12 gold!
+Received Lv.20 Battleaxe!
+
+
+*****ENCOUNTER!*****
+
+LEVEL 17 Slime
+
+STR: 40 + 40%
+AGI: 16 + 15%
+VIT: 50 + 40%
+INT: 6 + 5%
+DEX: 11 + 5%
+
+TURN 1
+Lv 17 cooldudeirl 229 HP
+Lv 17 Slime 130 HP
+
+cooldudeirl attacks!
+77 damage!
+Slime attacks!
+1 damage!
+
+TURN 2
+Lv 17 cooldudeirl 228 HP
+Lv 17 Slime 53 HP
+
+cooldudeirl attacks!
+77 damage!
+cooldudeirl wins!
+
+
+Recieved 13 gold!
+
+*****ENCOUNTER!*****
+
+LEVEL 17 Revenant
+
+STR: 9 + 5%
+AGI: 70 + 60%
+VIT: 33 + 20%
+INT: 59 + 60%
+DEX: 10 + 5%
+
+TURN 1
+Lv 17 cooldudeirl 229 HP
+Lv 17 Revenant 87 HP
+
+cooldudeirl attacks!
+86 damage!
+Revenant attacks!
+59 damage!
+
+TURN 2
+Lv 17 cooldudeirl 170 HP
+Lv 17 Revenant 1 HP
+
+cooldudeirl attacks!
+86 damage!
+cooldudeirl wins!
+
+
+Recieved 9 gold!
+
+*****ENCOUNTER!*****
+
+LEVEL 17 Rune Golem
+
+STR: 49 + 50%
+AGI: 10 + 5%
+VIT: 81 + 75%
+INT: 5 + 5%
+DEX: 29 + 25%
+
+TURN 1
+Lv 17 cooldudeirl 229 HP
+Lv 17 Rune Golem 207 HP
+
+cooldudeirl attacks!
+62 damage!
+Rune Golem attacks!
+Missed!
+
+TURN 2
+Lv 17 cooldudeirl 229 HP
+Lv 17 Rune Golem 145 HP
+
+cooldudeirl attacks!
+62 damage!
+Rune Golem attacks!
+Blocked!
+
+TURN 3
+Lv 17 cooldudeirl 229 HP
+Lv 17 Rune Golem 83 HP
+
+cooldudeirl attacks!
+62 damage!
+Rune Golem attacks!
+10 damage!
+
+TURN 4
+Lv 17 cooldudeirl 219 HP
+Lv 17 Rune Golem 21 HP
+
+cooldudeirl attacks!
+62 damage!
+cooldudeirl wins!
+
+
+Recieved 10 gold!
+
+cooldudeirl goes to town
+Entering Item Shop
+Left Item Shop
+
+Entered Smithy
+Battleaxe upgraded to +1
+Battleaxe upgraded to +2
+Battleaxe upgraded to +3
+Battleaxe upgraded to +4
+Battleaxe upgraded to +5
+Battleaxe upgraded to +6
+Battleaxe upgraded to +7
+Battleaxe upgraded to +8
+Battleaxe upgraded to +9
+Battleaxe upgraded to +10
+Leather Tunic upgraded to +1
+Leather Tunic upgraded to +2
+Leather Tunic upgraded to +3
+Leather Tunic upgraded to +4
+Leather Tunic upgraded to +5
+Leather Tunic upgraded to +6
+Leather Tunic upgraded to +7
+Leather Tunic upgraded to +8
+Leather Tunic upgraded to +9
+Leather Tunic upgraded to +10
+Left Smithy
+Returning to dungeon...
+
+
+
+*****ENCOUNTER!*****
+
+LEVEL 17 Returned
+
+STR: 74 + 80%
+AGI: 13 + 10%
+VIT: 33 + 30%
+INT: 8 + 5%
+DEX: 7 + 5%
+
+TURN 1
+Lv 17 cooldudeirl 247 HP
+Lv 17 Returned 87 HP
+
+cooldudeirl attacks!
+cooldudeirl's Heavy Blow activated!
+172 damage!
+cooldudeirl wins!
+
+
+
+***LEVEL UP!***
+Level 17->18
+STR 71->74 +(3)
+AGI 22->22 +(0)
+VIT 76->77 +(1)
+INT 62->65 +(3)
+DEX 50->51 +(1)
+
+
+Recieved 13 gold!
+
+*****ENCOUNTER!*****
+
+LEVEL 18 Slime
+
+STR: 43 + 40%
+AGI: 24 + 15%
+VIT: 45 + 40%
+INT: 8 + 5%
+DEX: 9 + 5%
+
+TURN 1
+Lv 18 cooldudeirl 249 HP
+Lv 18 Slime 117 HP
+
+cooldudeirl attacks!
+cooldudeirl's Heavy Blow activated!
+Critical strike!
+340 damage!
+cooldudeirl wins!
+
+
+Recieved 7 gold!
+Received Lv.18 Oak Staff!
+
+
+*****ENCOUNTER!*****
+
+LEVEL 18 Rune Golem
+
+STR: 54 + 50%
+AGI: 8 + 5%
+VIT: 74 + 75%
+INT: 11 + 5%
+DEX: 30 + 25%
+
+TURN 1
+Lv 18 cooldudeirl 249 HP
+Lv 18 Rune Golem 190 HP
+
+cooldudeirl attacks!
+112 damage!
+Rune Golem attacks!
+15 damage!
+
+TURN 2
+Lv 18 cooldudeirl 234 HP
+Lv 18 Rune Golem 78 HP
+
+cooldudeirl attacks!
+112 damage!
+cooldudeirl wins!
+
+
+Recieved 12 gold!
+
+*****ENCOUNTER!*****
+
+LEVEL 18 Depthdweller
+
+STR: 60 + 55%
+AGI: 28 + 25%
+VIT: 59 + 55%
+INT: 8 + 5%
+DEX: 43 + 35%
+
+TURN 1
+Lv 18 cooldudeirl 249 HP
+Lv 18 Depthdweller 152 HP
+
+cooldudeirl attacks!
+112 damage!
+Depthdweller attacks!
+21 damage!
+
+TURN 2
+Lv 18 cooldudeirl 228 HP
+Lv 18 Depthdweller 40 HP
+
+cooldudeirl attacks!
+112 damage!
+cooldudeirl wins!
+
+
+Recieved 11 gold!
+Received Lv.20 Hallowed Sabre!
+
+
+*****ENCOUNTER!*****
+
+LEVEL 18 Clay Golem
+
+STR: 46 + 40%
+AGI: 28 + 25%
+VIT: 74 + 75%
+INT: 4 + 5%
+DEX: 10 + 5%
+
+TURN 1
+Lv 18 cooldudeirl 249 HP
+Lv 18 Clay Golem 190 HP
+
+cooldudeirl attacks!
+cooldudeirl's Heavy Blow activated!
+94 damage!
+Clay Golem attacks!
+Blocked!
+
+TURN 2
+Lv 18 cooldudeirl 249 HP
+Lv 18 Clay Golem 96 HP
+
+cooldudeirl attacks!
+50 damage!
+Clay Golem attacks!
+Blocked!
+
+TURN 3
+Lv 18 cooldudeirl 249 HP
+Lv 18 Clay Golem 46 HP
+
+cooldudeirl attacks!
+50 damage!
+cooldudeirl wins!
+
+
+Recieved 12 gold!
+
+*****ENCOUNTER!*****
+
+LEVEL 18 Ooze
+
+STR: 32 + 30%
+AGI: 7 + 5%
+VIT: 73 + 65%
+INT: 11 + 5%
+DEX: 7 + 5%
+
+TURN 1
+Lv 18 cooldudeirl 249 HP
+Lv 18 Ooze 187 HP
+
+cooldudeirl attacks!
+cooldudeirl's Heavy Blow activated!
+95 damage!
+Ooze attacks!
+Blocked!
+
+TURN 2
+Lv 18 cooldudeirl 249 HP
+Lv 18 Ooze 92 HP
+
+cooldudeirl attacks!
+cooldudeirl's Heavy Blow activated!
+95 damage!
+cooldudeirl wins!
+
+
+Recieved 7 gold!
+
+*****ENCOUNTER!*****
+
+LEVEL 18 Revenant
+
+STR: 7 + 5%
+AGI: 55 + 60%
+VIT: 20 + 20%
+INT: 59 + 60%
+DEX: 7 + 5%
+
+TURN 1
+Lv 18 cooldudeirl 249 HP
+Lv 18 Revenant 55 HP
+
+cooldudeirl attacks!
+Critical strike!
+184 damage!
+cooldudeirl wins!
+
+
+Recieved 10 gold!
+
+*****ENCOUNTER!*****
+
+LEVEL 18 Ghast
+
+STR: 77 + 70%
+AGI: 55 + 40%
+VIT: 26 + 20%
+INT: 14 + 5%
+DEX: 8 + 5%
+
+TURN 1
+Lv 18 cooldudeirl 249 HP
+Lv 18 Ghast 70 HP
+
+cooldudeirl attacks!
+88 damage!
+cooldudeirl wins!
+
+
+Recieved 9 gold!
+Received Lv.19 Sage's Diary!
+
+
+*****ENCOUNTER!*****
+
+LEVEL 18 Skeletal Mage
+
+STR: 10 + 5%
+AGI: 24 + 15%
+VIT: 10 + 10%
+INT: 45 + 40%
+DEX: 34 + 25%
+
+TURN 1
+Lv 18 cooldudeirl 249 HP
+Lv 18 Skeletal Mage 30 HP
+
+cooldudeirl attacks!
+101 damage!
+cooldudeirl wins!
+
+
+Recieved 10 gold!
+Received Lv.17 Steel Helm!
+
+
+*****ENCOUNTER!*****
+
+LEVEL 18 Beholder
+
+STR: 44 + 40%
+AGI: 33 + 30%
+VIT: 42 + 30%
+INT: 7 + 5%
+DEX: 39 + 35%
+
+TURN 1
+Lv 18 cooldudeirl 287 HP
+Lv 18 Beholder 110 HP
+
+cooldudeirl attacks!
+101 damage!
+Beholder attacks!
+Blocked!
+
+TURN 2
+Lv 18 cooldudeirl 287 HP
+Lv 18 Beholder 9 HP
+
+cooldudeirl attacks!
+cooldudeirl's Heavy Blow activated!
+111 damage!
+cooldudeirl wins!
+
+
+Recieved 12 gold!
+Received Lv.19 Leather Tunic!
+
+
+*****ENCOUNTER!*****
+
+LEVEL 18 Clay Golem
+
+STR: 45 + 40%
+AGI: 41 + 25%
+VIT: 87 + 75%
+INT: 5 + 5%
+DEX: 7 + 5%
+
+TURN 1
+Lv 18 cooldudeirl 270 HP
+Lv 18 Clay Golem 222 HP
+
+cooldudeirl attacks!
+101 damage!
+Clay Golem attacks!
+Missed!
+
+TURN 2
+Lv 18 cooldudeirl 270 HP
+Lv 18 Clay Golem 121 HP
+
+cooldudeirl attacks!
+cooldudeirl's Heavy Blow activated!
+111 damage!
+Clay Golem attacks!
+1 damage!
+
+TURN 3
+Lv 18 cooldudeirl 269 HP
+Lv 18 Clay Golem 10 HP
+
+cooldudeirl attacks!
+101 damage!
+cooldudeirl wins!
+
+
+Recieved 11 gold!
+
+*****ENCOUNTER!*****
+
+LEVEL 18 Skeletal Archer
+
+STR: 29 + 30%
+AGI: 43 + 40%
+VIT: 25 + 15%
+INT: 9 + 5%
+DEX: 34 + 30%
+
+TURN 1
+Lv 18 cooldudeirl 270 HP
+Lv 18 Skeletal Archer 67 HP
+
+cooldudeirl attacks!
+cooldudeirl's Heavy Blow activated!
+111 damage!
+cooldudeirl wins!
+
+
+Recieved 8 gold!
+Received Lv.16 Rosary!
+
+
+*****ENCOUNTER!*****
+
+LEVEL 18 Slime
+
+STR: 47 + 40%
+AGI: 22 + 15%
+VIT: 50 + 40%
+INT: 14 + 5%
+DEX: 10 + 5%
+
+TURN 1
+Lv 18 cooldudeirl 270 HP
+Lv 18 Slime 130 HP
+
+cooldudeirl attacks!
+cooldudeirl's Heavy Blow activated!
+111 damage!
+Slime attacks!
+Missed!
+
+TURN 2
+Lv 18 cooldudeirl 270 HP
+Lv 18 Slime 19 HP
+
+cooldudeirl attacks!
+101 damage!
+cooldudeirl wins!
+
+
+
+***LEVEL UP!***
+Level 18->19
+STR 74->77 +(3)
+AGI 22->22 +(0)
+VIT 77->80 +(3)
+INT 65->66 +(1)
+DEX 51->52 +(1)
+
+
+Recieved 13 gold!
+Received Lv.20 Sabbath!
+
+
+*****ENCOUNTER!*****
+
+LEVEL 19 Depthdweller
+
+STR: 62 + 55%
+AGI: 35 + 25%
+VIT: 58 + 55%
+INT: 9 + 5%
+DEX: 41 + 35%
+
+TURN 1
+Lv 19 cooldudeirl 280 HP
+Lv 19 Depthdweller 150 HP
+
+cooldudeirl attacks!
+69 damage!
+Depthdweller attacks!
+Blocked!
+
+TURN 2
+Lv 19 cooldudeirl 280 HP
+Lv 19 Depthdweller 81 HP
+
+cooldudeirl attacks!
+69 damage!
+Depthdweller attacks!
+13 damage!
+
+TURN 3
+Lv 19 cooldudeirl 267 HP
+Lv 19 Depthdweller 12 HP
+
+cooldudeirl attacks!
+69 damage!
+cooldudeirl wins!
+
+
+Recieved 8 gold!
+
+*****ENCOUNTER!*****
+
+LEVEL 19 Slime
+
+STR: 31 + 40%
+AGI: 20 + 15%
+VIT: 43 + 40%
+INT: 4 + 5%
+DEX: 8 + 5%
+
+TURN 1
+Lv 19 cooldudeirl 280 HP
+Lv 19 Slime 112 HP
+
+cooldudeirl attacks!
+77 damage!
+Slime attacks!
+Missed!
+
+TURN 2
+Lv 19 cooldudeirl 280 HP
+Lv 19 Slime 35 HP
+
+cooldudeirl attacks!
+cooldudeirl's Heavy Blow activated!
+126 damage!
+cooldudeirl wins!
+
+
+Recieved 8 gold!
+
+*****ENCOUNTER!*****
+
+LEVEL 19 Shrieker
+
+STR: 4 + 5%
+AGI: 67 + 60%
+VIT: 28 + 30%
+INT: 46 + 40%
+DEX: 5 + 5%
+
+TURN 1
+Lv 19 cooldudeirl 280 HP
+Lv 19 Shrieker 75 HP
+
+cooldudeirl attacks!
+Missed!
+Shrieker attacks!
+Missed!
+
+TURN 2
+Lv 19 cooldudeirl 280 HP
+Lv 19 Shrieker 75 HP
+
+cooldudeirl attacks!
+Missed!
+Shrieker attacks!
+Blocked!
+
+TURN 3
+Lv 19 cooldudeirl 280 HP
+Lv 19 Shrieker 75 HP
+
+cooldudeirl attacks!
+Missed!
+Shrieker attacks!
+Missed!
+
+TURN 4
+Lv 19 cooldudeirl 280 HP
+Lv 19 Shrieker 75 HP
+
+cooldudeirl attacks!
+cooldudeirl's Heavy Blow activated!
+133 damage!
+cooldudeirl wins!
+
+
+Recieved 9 gold!
+
+*****ENCOUNTER!*****
+
+LEVEL 19 Skeletal Archer
+
+STR: 33 + 30%
+AGI: 43 + 40%
+VIT: 16 + 15%
+INT: 8 + 5%
+DEX: 41 + 30%
+
+TURN 1
+Lv 19 cooldudeirl 280 HP
+Lv 19 Skeletal Archer 45 HP
+
+cooldudeirl attacks!
+149 damage!
+cooldudeirl wins!
+
+
+Recieved 13 gold!
+Received Lv.21 Platemail!
+
+
+*****ENCOUNTER!*****
+
+LEVEL 19 Skeletal Warrior
+
+STR: 64 + 60%
+AGI: 21 + 15%
+VIT: 27 + 20%
+INT: 8 + 5%
+DEX: 24 + 20%
+
+TURN 1
+Lv 19 cooldudeirl 392 HP
+Lv 19 Skeletal Warrior 72 HP
+
+cooldudeirl attacks!
+141 damage!
+cooldudeirl wins!
+
+
+Recieved 8 gold!
+
+*****ENCOUNTER!*****
+
+LEVEL 19 Cryptskulker
+
+STR: 46 + 40%
+AGI: 89 + 80%
+VIT: 48 + 35%
+INT: 13 + 5%
+DEX: 11 + 5%
+
+TURN 1
+Lv 19 cooldudeirl 392 HP
+Lv 19 Cryptskulker 125 HP
+
+cooldudeirl attacks!
+Missed!
+Cryptskulker attacks!
+1 damage!
+
+TURN 2
+Lv 19 cooldudeirl 391 HP
+Lv 19 Cryptskulker 125 HP
+
+cooldudeirl attacks!
+74 damage!
+Cryptskulker attacks!
+1 damage!
+
+TURN 3
+Lv 19 cooldudeirl 390 HP
+Lv 19 Cryptskulker 51 HP
+
+cooldudeirl attacks!
+Missed!
+Cryptskulker attacks!
+1 damage!
+
+TURN 4
+Lv 19 cooldudeirl 389 HP
+Lv 19 Cryptskulker 51 HP
+
+cooldudeirl attacks!
+Missed!
+Cryptskulker attacks!
+Missed!
+
+TURN 5
+Lv 19 cooldudeirl 389 HP
+Lv 19 Cryptskulker 51 HP
+
+cooldudeirl attacks!
+Missed!
+Cryptskulker attacks!
+Critical strike!
+1 damage!
+
+TURN 6
+Lv 19 cooldudeirl 388 HP
+Lv 19 Cryptskulker 51 HP
+
+cooldudeirl attacks!
+Missed!
+Cryptskulker attacks!
+Missed!
+
+TURN 7
+Lv 19 cooldudeirl 388 HP
+Lv 19 Cryptskulker 51 HP
+
+cooldudeirl attacks!
+74 damage!
+cooldudeirl wins!
+
+
+Recieved 7 gold!
+
+*****ENCOUNTER!*****
+
+LEVEL 19 Skeletal Mage
+
+STR: 10 + 5%
+AGI: 15 + 15%
+VIT: 15 + 10%
+INT: 42 + 40%
+DEX: 29 + 25%
+
+TURN 1
+Lv 19 cooldudeirl 392 HP
+Lv 19 Skeletal Mage 42 HP
+
+cooldudeirl attacks!
+cooldudeirl's Heavy Blow activated!
+232 damage!
+cooldudeirl wins!
+
+
+Recieved 11 gold!
+Received Lv.17 Sage's Diary!
+
+
+*****ENCOUNTER!*****
+
+LEVEL 19 Skeletal Archer
+
+STR: 39 + 30%
+AGI: 53 + 40%
+VIT: 16 + 15%
+INT: 7 + 5%
+DEX: 38 + 30%
+
+TURN 1
+Lv 19 cooldudeirl 392 HP
+Lv 19 Skeletal Archer 45 HP
+
+cooldudeirl attacks!
+Missed!
+Skeletal Archer attacks!
+1 damage!
+
+TURN 2
+Lv 19 cooldudeirl 391 HP
+Lv 19 Skeletal Archer 45 HP
+
+cooldudeirl attacks!
+102 damage!
+cooldudeirl wins!
+
+
+Recieved 12 gold!
+
+*****ENCOUNTER!*****
+
+LEVEL 19 Skeletal Archer
+
+STR: 43 + 30%
+AGI: 41 + 40%
+VIT: 18 + 15%
+INT: 11 + 5%
+DEX: 34 + 30%
+
+TURN 1
+Lv 19 cooldudeirl 392 HP
+Lv 19 Skeletal Archer 50 HP
+
+cooldudeirl attacks!
+102 damage!
+cooldudeirl wins!
+
+
+Recieved 13 gold!
+
+*****ENCOUNTER!*****
+
+LEVEL 19 Returned
+
+STR: 94 + 80%
+AGI: 16 + 10%
+VIT: 30 + 30%
+INT: 11 + 5%
+DEX: 10 + 5%
+
+TURN 1
+Lv 19 cooldudeirl 392 HP
+Lv 19 Returned 80 HP
+
+cooldudeirl attacks!
+cooldudeirl's Heavy Blow activated!
+115 damage!
+cooldudeirl wins!
+
+
+
+***LEVEL UP!***
+Level 19->20
+STR 77->78 +(1)
+AGI 22->24 +(2)
+VIT 80->83 +(3)
+INT 66->68 +(2)
+DEX 52->53 +(1)
+
+
+Recieved 12 gold!
+
+cooldudeirl goes to town
+Entering Item Shop
+Left Item Shop
+
+Entered Smithy
+Sage's Diary upgraded to +1
+Sage's Diary upgraded to +2
+Sage's Diary upgraded to +3
+Sage's Diary upgraded to +4
+Sage's Diary upgraded to +5
+Sage's Diary upgraded to +6
+Sage's Diary upgraded to +7
+Sage's Diary upgraded to +8
+Sage's Diary upgraded to +9
+Sage's Diary upgraded to +10
+Platemail upgraded to +1
+Platemail upgraded to +2
+Platemail upgraded to +3
+Platemail upgraded to +4
+Platemail upgraded to +5
+Platemail upgraded to +6
+Platemail upgraded to +7
+Platemail upgraded to +8
+Platemail upgraded to +9
+Platemail upgraded to +10
+Left Smithy
+Returning to dungeon...
+
+
+
+*****ENCOUNTER!*****
+
+LEVEL 20 Gigant Spider
+
+STR: 75 + 60%
+AGI: 107 + 90%
+VIT: 51 + 35%
+INT: 13 + 5%
+DEX: 41 + 35%
+
+TURN 1
+Lv 20 cooldudeirl 452 HP
+Lv 20 Gigant Spider 132 HP
+
+cooldudeirl attacks!
+120 damage!
+Gigant Spider attacks!
+Critical strike!
+65 damage!
+
+TURN 2
+Lv 20 cooldudeirl 387 HP
+Lv 20 Gigant Spider 12 HP
+
+cooldudeirl attacks!
+120 damage!
+cooldudeirl wins!
+
+
+
+***LEVEL UP!***
+Level 20->21
+STR 78->81 +(3)
+AGI 24->26 +(2)
+VIT 83->86 +(3)
+INT 68->70 +(2)
+DEX 53->54 +(1)
+
+
+Recieved 8 gold!
+
+*****ENCOUNTER!*****
+
+LEVEL 21 Skeletal Archer
+
+STR: 35 + 30%
+AGI: 56 + 40%
+VIT: 23 + 15%
+INT: 12 + 5%
+DEX: 45 + 30%
+
+TURN 1
+Lv 21 cooldudeirl 464 HP
+Lv 21 Skeletal Archer 62 HP
+
+cooldudeirl attacks!
+122 damage!
+cooldudeirl wins!
+
+
+Recieved 8 gold!
+
+*****ENCOUNTER!*****
+
+LEVEL 21 Skeletal Mage
+
+STR: 7 + 5%
+AGI: 18 + 15%
+VIT: 12 + 10%
+INT: 53 + 40%
+DEX: 30 + 25%
+
+TURN 1
+Lv 21 cooldudeirl 464 HP
+Lv 21 Skeletal Mage 35 HP
+
+cooldudeirl attacks!
+122 damage!
+cooldudeirl wins!
+
+
+Recieved 12 gold!
+
+*****ENCOUNTER!*****
+
+LEVEL 21 Ooze
+
+STR: 40 + 30%
+AGI: 10 + 5%
+VIT: 78 + 65%
+INT: 6 + 5%
+DEX: 8 + 5%
+
+TURN 1
+Lv 21 cooldudeirl 464 HP
+Lv 21 Ooze 200 HP
+
+cooldudeirl attacks!
+cooldudeirl's Heavy Blow activated!
+121 damage!
+Ooze attacks!
+Blocked!
+
+TURN 2
+Lv 21 cooldudeirl 464 HP
+Lv 21 Ooze 79 HP
+
+cooldudeirl attacks!
+cooldudeirl's Heavy Blow activated!
+Critical strike!
+242 damage!
+cooldudeirl wins!
+
+
+Recieved 12 gold!
+
+*****ENCOUNTER!*****
+
+LEVEL 21 Shrieker
+
+STR: 9 + 5%
+AGI: 70 + 60%
+VIT: 36 + 30%
+INT: 46 + 40%
+DEX: 8 + 5%
+
+TURN 1
+Lv 21 cooldudeirl 464 HP
+Lv 21 Shrieker 95 HP
+
+cooldudeirl attacks!
+Critical strike!
+244 damage!
+cooldudeirl wins!
+
+
+Recieved 13 gold!
+
+*****ENCOUNTER!*****
+
+LEVEL 21 Ghast
+
+STR: 91 + 70%
+AGI: 48 + 40%
+VIT: 34 + 20%
+INT: 9 + 5%
+DEX: 12 + 5%
+
+TURN 1
+Lv 21 cooldudeirl 464 HP
+Lv 21 Ghast 90 HP
+
+cooldudeirl attacks!
+122 damage!
+cooldudeirl wins!
+
+
+Recieved 9 gold!
+
+*****ENCOUNTER!*****
+
+LEVEL 21 Depthdweller
+
+STR: 56 + 55%
+AGI: 34 + 25%
+VIT: 74 + 55%
+INT: 4 + 5%
+DEX: 37 + 35%
+
+TURN 1
+Lv 21 cooldudeirl 464 HP
+Lv 21 Depthdweller 190 HP
+
+cooldudeirl attacks!
+122 damage!
+Depthdweller attacks!
+1 damage!
+
+TURN 2
+Lv 21 cooldudeirl 463 HP
+Lv 21 Depthdweller 68 HP
+
+cooldudeirl attacks!
+122 damage!
+cooldudeirl wins!
+
+
+Recieved 12 gold!
+Received Lv.24 Feathered Cape!
+
+
+*****ENCOUNTER!*****
+
+LEVEL 21 Revenant
+
+STR: 12 + 5%
+AGI: 78 + 60%
+VIT: 31 + 20%
+INT: 78 + 60%
+DEX: 10 + 5%
+
+TURN 1
+Lv 21 cooldudeirl 464 HP
+Lv 21 Revenant 82 HP
+
+cooldudeirl attacks!
+122 damage!
+cooldudeirl wins!
+
+
+Recieved 11 gold!
+
+*****ENCOUNTER!*****
+
+LEVEL 21 Ghast
+
+STR: 82 + 70%
+AGI: 48 + 40%
+VIT: 21 + 20%
+INT: 6 + 5%
+DEX: 8 + 5%
+
+TURN 1
+Lv 21 cooldudeirl 464 HP
+Lv 21 Ghast 57 HP
+
+cooldudeirl attacks!
+122 damage!
+cooldudeirl wins!
+
+
+Recieved 7 gold!
+
+*****ENCOUNTER!*****
+
+LEVEL 21 Slime
+
+STR: 43 + 40%
+AGI: 17 + 15%
+VIT: 47 + 40%
+INT: 11 + 5%
+DEX: 8 + 5%
+
+TURN 1
+Lv 21 cooldudeirl 464 HP
+Lv 21 Slime 122 HP
+
+cooldudeirl attacks!
+cooldudeirl's Heavy Blow activated!
+121 damage!
+Slime attacks!
+Blocked!
+
+TURN 2
+Lv 21 cooldudeirl 464 HP
+Lv 21 Slime 1 HP
+
+cooldudeirl attacks!
+122 damage!
+cooldudeirl wins!
+
+
+Recieved 11 gold!
+
+*****ENCOUNTER!*****
+
+LEVEL 21 Beholder
+
+STR: 49 + 40%
+AGI: 37 + 30%
+VIT: 40 + 30%
+INT: 12 + 5%
+DEX: 42 + 35%
+
+TURN 1
+Lv 21 cooldudeirl 464 HP
+Lv 21 Beholder 105 HP
+
+cooldudeirl attacks!
+cooldudeirl's Heavy Blow activated!
+121 damage!
+cooldudeirl wins!
+
+
+Recieved 11 gold!
+
+*****ENCOUNTER!*****
+
+LEVEL 21 Revenant
+
+STR: 7 + 5%
+AGI: 73 + 60%
+VIT: 29 + 20%
+INT: 71 + 60%
+DEX: 10 + 5%
+
+TURN 1
+Lv 21 cooldudeirl 464 HP
+Lv 21 Revenant 77 HP
+
+cooldudeirl attacks!
+122 damage!
+cooldudeirl wins!
+
+
+Recieved 9 gold!
+
+*****ENCOUNTER!*****
+
+LEVEL 21 Cryptskulker
+
+STR: 54 + 40%
+AGI: 107 + 80%
+VIT: 44 + 35%
+INT: 6 + 5%
+DEX: 11 + 5%
+
+TURN 1
+Lv 21 cooldudeirl 464 HP
+Lv 21 Cryptskulker 115 HP
+
+cooldudeirl attacks!
+cooldudeirl's Lay On Hands activated!
+cooldudeirl healed for 0!
+122 damage!
+cooldudeirl wins!
+
+
+
+***LEVEL UP!***
+Level 21->22
+STR 81->84 +(3)
+AGI 26->27 +(1)
+VIT 86->89 +(3)
+INT 70->73 +(3)
+DEX 54->55 +(1)
+
+
+Recieved 13 gold!
+
+*****ENCOUNTER!*****
+
+LEVEL 22 Rune Golem
+
+STR: 63 + 50%
+AGI: 10 + 5%
+VIT: 100 + 75%
+INT: 10 + 5%
+DEX: 34 + 25%
+
+TURN 1
+Lv 22 cooldudeirl 474 HP
+Lv 22 Rune Golem 255 HP
+
+cooldudeirl attacks!
+cooldudeirl's Lay On Hands activated!
+cooldudeirl healed for 0!
+126 damage!
+Rune Golem attacks!
+1 damage!
+
+TURN 2
+Lv 22 cooldudeirl 473 HP
+Lv 22 Rune Golem 129 HP
+
+cooldudeirl attacks!
+126 damage!
+Rune Golem attacks!
+1 damage!
+
+TURN 3
+Lv 22 cooldudeirl 472 HP
+Lv 22 Rune Golem 3 HP
+
+cooldudeirl attacks!
+126 damage!
+cooldudeirl wins!
+
+
+Recieved 9 gold!
+
+*****ENCOUNTER!*****
+
+LEVEL 22 Shrieker
+
+STR: 9 + 5%
+AGI: 74 + 60%
+VIT: 39 + 30%
+INT: 52 + 40%
+DEX: 8 + 5%
+
+TURN 1
+Lv 22 cooldudeirl 474 HP
+Lv 22 Shrieker 102 HP
+
+cooldudeirl attacks!
+126 damage!
+cooldudeirl wins!
+
+
+Recieved 10 gold!
+
+*****ENCOUNTER!*****
+
+LEVEL 22 Shrieker
+
+STR: 9 + 5%
+AGI: 82 + 60%
+VIT: 32 + 30%
+INT: 51 + 40%
+DEX: 14 + 5%
+
+TURN 1
+Lv 22 cooldudeirl 474 HP
+Lv 22 Shrieker 85 HP
+
+cooldudeirl attacks!
+Critical strike!
+252 damage!
+cooldudeirl wins!
+
+
+Recieved 13 gold!
+Received Lv.25 Rosary!
+
+
+*****ENCOUNTER!*****
+
+LEVEL 22 Skeletal Warrior
+
+STR: 70 + 60%
+AGI: 24 + 15%
+VIT: 33 + 20%
+INT: 10 + 5%
+DEX: 29 + 20%
+
+TURN 1
+Lv 22 cooldudeirl 474 HP
+Lv 22 Skeletal Warrior 87 HP
+
+cooldudeirl attacks!
+cooldudeirl's Heavy Blow activated!
+126 damage!
+cooldudeirl wins!
+
+
+Recieved 8 gold!
+
+*****ENCOUNTER!*****
+
+LEVEL 22 Shrieker
+
+STR: 8 + 5%
+AGI: 73 + 60%
+VIT: 44 + 30%
+INT: 47 + 40%
+DEX: 7 + 5%
+
+TURN 1
+Lv 22 cooldudeirl 474 HP
+Lv 22 Shrieker 115 HP
+
+cooldudeirl attacks!
+Missed!
+Shrieker attacks!
+37 damage!
+
+TURN 2
+Lv 22 cooldudeirl 437 HP
+Lv 22 Shrieker 115 HP
+
+cooldudeirl attacks!
+126 damage!
+cooldudeirl wins!
+
+
+Recieved 11 gold!
+
+*****ENCOUNTER!*****
+
+LEVEL 22 Clay Golem
+
+STR: 44 + 40%
+AGI: 43 + 25%
+VIT: 92 + 75%
+INT: 7 + 5%
+DEX: 9 + 5%
+
+TURN 1
+Lv 22 cooldudeirl 474 HP
+Lv 22 Clay Golem 235 HP
+
+cooldudeirl attacks!
+126 damage!
+Clay Golem attacks!
+1 damage!
+
+TURN 2
+Lv 22 cooldudeirl 473 HP
+Lv 22 Clay Golem 109 HP
+
+cooldudeirl attacks!
+cooldudeirl's Heavy Blow activated!
+126 damage!
+cooldudeirl wins!
+
+
+Recieved 13 gold!
+
+*****ENCOUNTER!*****
+
+LEVEL 22 Clay Golem
+
+STR: 59 + 40%
+AGI: 34 + 25%
+VIT: 99 + 75%
+INT: 8 + 5%
+DEX: 8 + 5%
+
+TURN 1
+Lv 22 cooldudeirl 474 HP
+Lv 22 Clay Golem 252 HP
+
+cooldudeirl attacks!
+cooldudeirl's Lay On Hands activated!
+cooldudeirl healed for 0!
+126 damage!
+Clay Golem attacks!
+Blocked!
+
+TURN 2
+Lv 22 cooldudeirl 474 HP
+Lv 22 Clay Golem 126 HP
+
+cooldudeirl attacks!
+126 damage!
+cooldudeirl wins!
+
+
+Recieved 11 gold!
+
+*****ENCOUNTER!*****
+
+LEVEL 22 Shrieker
+
+STR: 6 + 5%
+AGI: 70 + 60%
+VIT: 37 + 30%
+INT: 49 + 40%
+DEX: 10 + 5%
+
+TURN 1
+Lv 22 cooldudeirl 474 HP
+Lv 22 Shrieker 97 HP
+
+cooldudeirl attacks!
+cooldudeirl's Lay On Hands activated!
+cooldudeirl healed for 0!
+126 damage!
+cooldudeirl wins!
+
+
+Recieved 10 gold!
+
+*****ENCOUNTER!*****
+
+LEVEL 22 Clay Golem
+
+STR: 53 + 40%
+AGI: 27 + 25%
+VIT: 98 + 75%
+INT: 7 + 5%
+DEX: 10 + 5%
+
+TURN 1
+Lv 22 cooldudeirl 474 HP
+Lv 22 Clay Golem 250 HP
+
+cooldudeirl attacks!
+126 damage!
+Clay Golem attacks!
+1 damage!
+
+TURN 2
+Lv 22 cooldudeirl 473 HP
+Lv 22 Clay Golem 124 HP
+
+cooldudeirl attacks!
+126 damage!
+cooldudeirl wins!
+
+
+Recieved 9 gold!
+
+*****ENCOUNTER!*****
+
+LEVEL 22 Ooze
+
+STR: 42 + 30%
+AGI: 7 + 5%
+VIT: 88 + 65%
+INT: 7 + 5%
+DEX: 7 + 5%
+
+TURN 1
+Lv 22 cooldudeirl 474 HP
+Lv 22 Ooze 225 HP
+
+cooldudeirl attacks!
+126 damage!
+Ooze attacks!
+1 damage!
+
+TURN 2
+Lv 22 cooldudeirl 473 HP
+Lv 22 Ooze 99 HP
+
+cooldudeirl attacks!
+126 damage!
+cooldudeirl wins!
+
+
+Recieved 12 gold!
+
+*****ENCOUNTER!*****
+
+LEVEL 22 Revenant
+
+STR: 4 + 5%
+AGI: 84 + 60%
+VIT: 26 + 20%
+INT: 78 + 60%
+DEX: 10 + 5%
+
+TURN 1
+Lv 22 cooldudeirl 474 HP
+Lv 22 Revenant 70 HP
+
+cooldudeirl attacks!
+126 damage!
+cooldudeirl wins!
+
+
+Recieved 13 gold!
+
+*****ENCOUNTER!*****
+
+LEVEL 22 Shrieker
+
+STR: 10 + 5%
+AGI: 75 + 60%
+VIT: 33 + 30%
+INT: 48 + 40%
+DEX: 9 + 5%
+
+TURN 1
+Lv 22 cooldudeirl 474 HP
+Lv 22 Shrieker 87 HP
+
+cooldudeirl attacks!
+Missed!
+Shrieker attacks!
+38 damage!
+
+TURN 2
+Lv 22 cooldudeirl 436 HP
+Lv 22 Shrieker 87 HP
+
+cooldudeirl attacks!
+126 damage!
+cooldudeirl wins!
+
+
+
+***LEVEL UP!***
+Level 22->23
+STR 84->86 +(2)
+AGI 27->27 +(0)
+VIT 89->90 +(1)
+INT 73->75 +(2)
+DEX 55->58 +(3)
+
+
+Recieved 12 gold!
+
+*****ENCOUNTER!*****
+
+LEVEL 23 Skeletal Archer
+
+STR: 46 + 30%
+AGI: 58 + 40%
+VIT: 17 + 15%
+INT: 10 + 5%
+DEX: 48 + 30%
+
+TURN 1
+Lv 23 cooldudeirl 482 HP
+Lv 23 Skeletal Archer 47 HP
+
+cooldudeirl attacks!
+128 damage!
+cooldudeirl wins!
+
+
+Recieved 11 gold!
+
+*****ENCOUNTER!*****
+
+LEVEL 23 Cryptskulker
+
+STR: 59 + 40%
+AGI: 104 + 80%
+VIT: 54 + 35%
+INT: 10 + 5%
+DEX: 7 + 5%
+
+TURN 1
+Lv 23 cooldudeirl 482 HP
+Lv 23 Cryptskulker 140 HP
+
+cooldudeirl attacks!
+128 damage!
+Cryptskulker attacks!
+1 damage!
+
+TURN 2
+Lv 23 cooldudeirl 481 HP
+Lv 23 Cryptskulker 12 HP
+
+cooldudeirl attacks!
+Missed!
+Cryptskulker attacks!
+Missed!
+
+TURN 3
+Lv 23 cooldudeirl 481 HP
+Lv 23 Cryptskulker 12 HP
+
+cooldudeirl attacks!
+Missed!
+Cryptskulker attacks!
+1 damage!
+
+TURN 4
+Lv 23 cooldudeirl 480 HP
+Lv 23 Cryptskulker 12 HP
+
+cooldudeirl attacks!
+128 damage!
+cooldudeirl wins!
+
+
+Recieved 12 gold!
+
+*****ENCOUNTER!*****
+
+LEVEL 23 Returned
+
+STR: 103 + 80%
+AGI: 18 + 10%
+VIT: 46 + 30%
+INT: 10 + 5%
+DEX: 5 + 5%
+
+TURN 1
+Lv 23 cooldudeirl 482 HP
+Lv 23 Returned 120 HP
+
+cooldudeirl attacks!
+128 damage!
+cooldudeirl wins!
+
+
+Recieved 11 gold!
+
+*****ENCOUNTER!*****
+
+LEVEL 23 Ghast
+
+STR: 87 + 70%
+AGI: 67 + 40%
+VIT: 29 + 20%
+INT: 10 + 5%
+DEX: 10 + 5%
+
+TURN 1
+Lv 23 cooldudeirl 482 HP
+Lv 23 Ghast 77 HP
+
+cooldudeirl attacks!
+Missed!
+Ghast attacks!
+Blocked!
+
+TURN 2
+Lv 23 cooldudeirl 482 HP
+Lv 23 Ghast 77 HP
+
+cooldudeirl attacks!
+128 damage!
+cooldudeirl wins!
+
+
+Recieved 12 gold!
+Received Lv.21 Goggles!
+
+
+*****ENCOUNTER!*****
+
+LEVEL 23 Skeletal Archer
+
+STR: 41 + 30%
+AGI: 52 + 40%
+VIT: 21 + 15%
+INT: 5 + 5%
+DEX: 45 + 30%
+
+TURN 1
+Lv 23 cooldudeirl 424 HP
+Lv 23 Skeletal Archer 57 HP
+
+cooldudeirl attacks!
+128 damage!
+cooldudeirl wins!
+
+
+Recieved 11 gold!
+Received Lv.24 Oak Staff!
+
+
+*****ENCOUNTER!*****
+
+LEVEL 23 Shrieker
+
+STR: 9 + 5%
+AGI: 76 + 60%
+VIT: 41 + 30%
+INT: 53 + 40%
+DEX: 6 + 5%
+
+TURN 1
+Lv 23 cooldudeirl 424 HP
+Lv 23 Shrieker 107 HP
+
+cooldudeirl attacks!
+126 damage!
+cooldudeirl wins!
+
+
+Recieved 8 gold!
+
+*****ENCOUNTER!*****
+
+LEVEL 23 Skeletal Mage
+
+STR: 14 + 5%
+AGI: 16 + 15%
+VIT: 16 + 10%
+INT: 51 + 40%
+DEX: 39 + 25%
+
+TURN 1
+Lv 23 cooldudeirl 424 HP
+Lv 23 Skeletal Mage 45 HP
+
+cooldudeirl attacks!
+cooldudeirl's Heavy Blow activated!
+129 damage!
+cooldudeirl wins!
+
+
+Recieved 13 gold!
+
+*****ENCOUNTER!*****
+
+LEVEL 23 Clay Golem
+
+STR: 56 + 40%
+AGI: 25 + 25%
+VIT: 109 + 75%
+INT: 7 + 5%
+DEX: 14 + 5%
+
+TURN 1
+Lv 23 cooldudeirl 424 HP
+Lv 23 Clay Golem 277 HP
+
+cooldudeirl attacks!
+126 damage!
+Clay Golem attacks!
+Missed!
+
+TURN 2
+Lv 23 cooldudeirl 424 HP
+Lv 23 Clay Golem 151 HP
+
+cooldudeirl attacks!
+126 damage!
+Clay Golem attacks!
+1 damage!
+
+TURN 3
+Lv 23 cooldudeirl 423 HP
+Lv 23 Clay Golem 25 HP
+
+cooldudeirl attacks!
+126 damage!
+cooldudeirl wins!
+
+
+Recieved 12 gold!
+
+*****ENCOUNTER!*****
+
+LEVEL 23 Clay Golem
+
+STR: 63 + 40%
+AGI: 36 + 25%
+VIT: 99 + 75%
+INT: 6 + 5%
+DEX: 10 + 5%
+
+TURN 1
+Lv 23 cooldudeirl 424 HP
+Lv 23 Clay Golem 252 HP
+
+cooldudeirl attacks!
+cooldudeirl's Heavy Blow activated!
+129 damage!
+Clay Golem attacks!
+4 damage!
+
+TURN 2
+Lv 23 cooldudeirl 420 HP
+Lv 23 Clay Golem 123 HP
+
+cooldudeirl attacks!
+126 damage!
+cooldudeirl wins!
+
+
+
+***LEVEL UP!***
+Level 23->24
+STR 86->89 +(3)
+AGI 27->27 +(0)
+VIT 90->91 +(1)
+INT 75->75 +(0)
+DEX 58->60 +(2)
+
+
+Recieved 12 gold!
+
+*****ENCOUNTER!*****
+
+LEVEL 24 Skeletal Warrior
+
+STR: 80 + 60%
+AGI: 20 + 15%
+VIT: 31 + 20%
+INT: 10 + 5%
+DEX: 33 + 20%
+
+TURN 1
+Lv 24 cooldudeirl 427 HP
+Lv 24 Skeletal Warrior 82 HP
+
+cooldudeirl attacks!
+cooldudeirl's Heavy Blow activated!
+133 damage!
+cooldudeirl wins!
+
+
+Recieved 13 gold!
+
+*****ENCOUNTER!*****
+
+LEVEL 24 Shrieker
+
+STR: 8 + 5%
+AGI: 86 + 60%
+VIT: 47 + 30%
+INT: 46 + 40%
+DEX: 10 + 5%
+
+TURN 1
+Lv 24 cooldudeirl 427 HP
+Lv 24 Shrieker 122 HP
+
+cooldudeirl attacks!
+cooldudeirl's Lay On Hands activated!
+cooldudeirl healed for 0!
+126 damage!
+cooldudeirl wins!
+
+
+Recieved 8 gold!
+
+*****ENCOUNTER!*****
+
+LEVEL 24 Slime
+
+STR: 60 + 40%
+AGI: 15 + 15%
+VIT: 56 + 40%
+INT: 7 + 5%
+DEX: 10 + 5%
+
+TURN 1
+Lv 24 cooldudeirl 427 HP
+Lv 24 Slime 145 HP
+
+cooldudeirl attacks!
+cooldudeirl's Heavy Blow activated!
+133 damage!
+Slime attacks!
+Missed!
+
+TURN 2
+Lv 24 cooldudeirl 427 HP
+Lv 24 Slime 12 HP
+
+cooldudeirl attacks!
+cooldudeirl's Lay On Hands activated!
+cooldudeirl healed for 0!
+126 damage!
+cooldudeirl wins!
+
+
+Recieved 13 gold!
+
+*****ENCOUNTER!*****
+
+LEVEL 24 Skeletal Warrior
+
+STR: 81 + 60%
+AGI: 24 + 15%
+VIT: 29 + 20%
+INT: 13 + 5%
+DEX: 30 + 20%
+
+TURN 1
+Lv 24 cooldudeirl 427 HP
+Lv 24 Skeletal Warrior 77 HP
+
+cooldudeirl attacks!
+cooldudeirl's Lay On Hands activated!
+cooldudeirl healed for 0!
+126 damage!
+cooldudeirl wins!
+
+
+Recieved 10 gold!
+
+*****ENCOUNTER!*****
+
+LEVEL 24 Skeletal Warrior
+
+STR: 81 + 60%
+AGI: 21 + 15%
+VIT: 34 + 20%
+INT: 6 + 5%
+DEX: 26 + 20%
+
+TURN 1
+Lv 24 cooldudeirl 427 HP
+Lv 24 Skeletal Warrior 90 HP
+
+cooldudeirl attacks!
+cooldudeirl's Heavy Blow activated!
+133 damage!
+cooldudeirl wins!
+
+
+Recieved 11 gold!
+Received Lv.24 Hallowed Sabre!
+
+
+*****ENCOUNTER!*****
+
+LEVEL 24 Skeletal Archer
+
+STR: 47 + 30%
+AGI: 71 + 40%
+VIT: 22 + 15%
+INT: 10 + 5%
+DEX: 42 + 30%
+
+TURN 1
+Lv 24 cooldudeirl 427 HP
+Lv 24 Skeletal Archer 60 HP
+
+cooldudeirl attacks!
+109 damage!
+cooldudeirl wins!
+
+
+Recieved 10 gold!
+Received Lv.24 Estoc!
+
+
+*****ENCOUNTER!*****
+
+LEVEL 24 Skeletal Archer
+
+STR: 44 + 30%
+AGI: 58 + 40%
+VIT: 23 + 15%
+INT: 11 + 5%
+DEX: 41 + 30%
+
+TURN 1
+Lv 24 cooldudeirl 427 HP
+Lv 24 Skeletal Archer 62 HP
+
+cooldudeirl attacks!
+cooldudeirl's Lay On Hands activated!
+cooldudeirl healed for 0!
+90 damage!
+cooldudeirl wins!
+
+
+Recieved 7 gold!
+
+*****ENCOUNTER!*****
+
+LEVEL 24 Ghast
+
+STR: 95 + 70%
+AGI: 49 + 40%
+VIT: 32 + 20%
+INT: 10 + 5%
+DEX: 10 + 5%
+
+TURN 1
+Lv 24 cooldudeirl 427 HP
+Lv 24 Ghast 85 HP
+
+cooldudeirl attacks!
+85 damage!
+cooldudeirl wins!
+
+
+Recieved 7 gold!
+
+*****ENCOUNTER!*****
+
+LEVEL 24 Ghast
+
+STR: 99 + 70%
+AGI: 53 + 40%
+VIT: 30 + 20%
+INT: 9 + 5%
+DEX: 10 + 5%
+
+TURN 1
+Lv 24 cooldudeirl 427 HP
+Lv 24 Ghast 80 HP
+
+cooldudeirl attacks!
+86 damage!
+cooldudeirl wins!
+
+
+Recieved 8 gold!
+Received Lv.22 Gauntlets!
+
+
+*****ENCOUNTER!*****
+
+LEVEL 24 Revenant
+
+STR: 7 + 5%
+AGI: 76 + 60%
+VIT: 21 + 20%
+INT: 83 + 60%
+DEX: 12 + 5%
+
+TURN 1
+Lv 24 cooldudeirl 427 HP
+Lv 24 Revenant 57 HP
+
+cooldudeirl attacks!
+Critical strike!
+182 damage!
+cooldudeirl wins!
+
+
+
+***LEVEL UP!***
+Level 24->25
+STR 89->92 +(3)
+AGI 27->27 +(0)
+VIT 91->93 +(2)
+INT 75->77 +(2)
+DEX 60->61 +(1)
+
+
+Recieved 12 gold!
+
+*****ENCOUNTER!*****
+
+LEVEL 25 Ghast
+
+STR: 112 + 70%
+AGI: 51 + 40%
+VIT: 33 + 20%
+INT: 10 + 5%
+DEX: 14 + 5%
+
+TURN 1
+Lv 25 cooldudeirl 432 HP
+Lv 25 Ghast 87 HP
+
+cooldudeirl attacks!
+88 damage!
+cooldudeirl wins!
+
+
+Recieved 9 gold!
+
+*****ENCOUNTER!*****
+
+LEVEL 25 Shrieker
+
+STR: 8 + 5%
+AGI: 73 + 60%
+VIT: 47 + 30%
+INT: 64 + 40%
+DEX: 13 + 5%
+
+TURN 1
+Lv 25 cooldudeirl 432 HP
+Lv 25 Shrieker 122 HP
+
+cooldudeirl attacks!
+81 damage!
+Shrieker attacks!
+Blocked!
+
+TURN 2
+Lv 25 cooldudeirl 432 HP
+Lv 25 Shrieker 41 HP
+
+cooldudeirl attacks!
+81 damage!
+cooldudeirl wins!
+
+
+Recieved 8 gold!
+
+*****ENCOUNTER!*****
+
+LEVEL 25 Skeletal Archer
+
+STR: 49 + 30%
+AGI: 57 + 40%
+VIT: 30 + 15%
+INT: 11 + 5%
+DEX: 38 + 30%
+
+TURN 1
+Lv 25 cooldudeirl 432 HP
+Lv 25 Skeletal Archer 80 HP
+
+cooldudeirl attacks!
+cooldudeirl's Heavy Blow activated!
+141 damage!
+cooldudeirl wins!
+
+
+Recieved 13 gold!
+Received Lv.25 Hallowed Sabre!
+
+
+*****ENCOUNTER!*****
+
+LEVEL 25 Returned
+
+STR: 118 + 80%
+AGI: 19 + 10%
+VIT: 47 + 30%
+INT: 11 + 5%
+DEX: 9 + 5%
+
+TURN 1
+Lv 25 cooldudeirl 432 HP
+Lv 25 Returned 122 HP
+
+cooldudeirl attacks!
+Critical strike!
+199 damage!
+cooldudeirl wins!
+
+
+Recieved 9 gold!
+
+*****ENCOUNTER!*****
+
+LEVEL 25 Skeletal Archer
+
+STR: 36 + 30%
+AGI: 58 + 40%
+VIT: 25 + 15%
+INT: 9 + 5%
+DEX: 41 + 30%
+
+TURN 1
+Lv 25 cooldudeirl 432 HP
+Lv 25 Skeletal Archer 67 HP
+
+cooldudeirl attacks!
+cooldudeirl's Heavy Blow activated!
+176 damage!
+cooldudeirl wins!
+
+
+Recieved 7 gold!
+
+*****ENCOUNTER!*****
+
+LEVEL 25 Ghast
+
+STR: 106 + 70%
+AGI: 57 + 40%
+VIT: 33 + 20%
+INT: 9 + 5%
+DEX: 7 + 5%
+
+TURN 1
+Lv 25 cooldudeirl 432 HP
+Lv 25 Ghast 87 HP
+
+cooldudeirl attacks!
+Critical strike!
+216 damage!
+cooldudeirl wins!
+
+
+Recieved 11 gold!
+
+*****ENCOUNTER!*****
+
+LEVEL 25 Beholder
+
+STR: 51 + 40%
+AGI: 51 + 30%
+VIT: 49 + 30%
+INT: 9 + 5%
+DEX: 57 + 35%
+
+TURN 1
+Lv 25 cooldudeirl 432 HP
+Lv 25 Beholder 127 HP
+
+cooldudeirl attacks!
+cooldudeirl's Heavy Blow activated!
+135 damage!
+cooldudeirl wins!
+
+
+Recieved 9 gold!
+Received Lv.27 Naginata!
+
+
+*****ENCOUNTER!*****
+
+LEVEL 25 Skeletal Warrior
+
+STR: 87 + 60%
+AGI: 26 + 15%
+VIT: 33 + 20%
+INT: 5 + 5%
+DEX: 27 + 20%
+
+TURN 1
+Lv 25 cooldudeirl 432 HP
+Lv 25 Skeletal Warrior 87 HP
+
+cooldudeirl attacks!
+91 damage!
+cooldudeirl wins!
+
+
+Recieved 9 gold!
+
+*****ENCOUNTER!*****
+
+LEVEL 25 Cryptskulker
+
+STR: 64 + 40%
+AGI: 112 + 80%
+VIT: 54 + 35%
+INT: 9 + 5%
+DEX: 7 + 5%
+
+TURN 1
+Lv 25 cooldudeirl 432 HP
+Lv 25 Cryptskulker 140 HP
+
+cooldudeirl attacks!
+cooldudeirl's Lay On Hands activated!
+cooldudeirl healed for 0!
+80 damage!
+Cryptskulker attacks!
+Blocked!
+
+TURN 2
+Lv 25 cooldudeirl 432 HP
+Lv 25 Cryptskulker 60 HP
+
+cooldudeirl attacks!
+80 damage!
+cooldudeirl wins!
+
+
+Recieved 9 gold!
+
+*****ENCOUNTER!*****
+
+LEVEL 25 Revenant
+
+STR: 7 + 5%
+AGI: 79 + 60%
+VIT: 36 + 20%
+INT: 95 + 60%
+DEX: 8 + 5%
+
+TURN 1
+Lv 25 cooldudeirl 432 HP
+Lv 25 Revenant 95 HP
+
+cooldudeirl attacks!
+Critical strike!
+178 damage!
+cooldudeirl wins!
+
+
+Recieved 9 gold!
+
+*****ENCOUNTER!*****
+
+LEVEL 25 Returned
+
+STR: 118 + 80%
+AGI: 13 + 10%
+VIT: 52 + 30%
+INT: 10 + 5%
+DEX: 10 + 5%
+
+TURN 1
+Lv 25 cooldudeirl 432 HP
+Lv 25 Returned 135 HP
+
+cooldudeirl attacks!
+cooldudeirl's Heavy Blow activated!
+Critical strike!
+270 damage!
+cooldudeirl wins!
+
+
+
+***LEVEL UP!***
+Level 25->26
+STR 92->95 +(3)
+AGI 27->27 +(0)
+VIT 93->96 +(3)
+INT 77->78 +(1)
+DEX 61->61 +(0)
+
+
+Recieved 9 gold!
+Received Lv.26 Sabbath!
+
+
+*****ENCOUNTER!*****
+
+LEVEL 26 Shrieker
+
+STR: 11 + 5%
+AGI: 97 + 60%
+VIT: 45 + 30%
+INT: 67 + 40%
+DEX: 8 + 5%
+
+TURN 1
+Lv 26 cooldudeirl 442 HP
+Lv 26 Shrieker 117 HP
+
+cooldudeirl attacks!
+96 damage!
+Shrieker attacks!
+Critical strike!
+134 damage!
+
+TURN 2
+Lv 26 cooldudeirl 308 HP
+Lv 26 Shrieker 21 HP
+
+cooldudeirl attacks!
+96 damage!
+cooldudeirl wins!
+
+
+Recieved 13 gold!
+
+*****ENCOUNTER!*****
+
+LEVEL 26 Beholder
+
+STR: 52 + 40%
+AGI: 57 + 30%
+VIT: 47 + 30%
+INT: 11 + 5%
+DEX: 52 + 35%
+
+TURN 1
+Lv 26 cooldudeirl 442 HP
+Lv 26 Beholder 122 HP
+
+cooldudeirl attacks!
+cooldudeirl's Lay On Hands activated!
+cooldudeirl healed for 0!
+95 damage!
+Beholder attacks!
+1 damage!
+
+TURN 2
+Lv 26 cooldudeirl 441 HP
+Lv 26 Beholder 27 HP
+
+cooldudeirl attacks!
+95 damage!
+cooldudeirl wins!
+
+
+Recieved 8 gold!
+
+*****ENCOUNTER!*****
+
+LEVEL 26 Cryptskulker
+
+STR: 67 + 40%
+AGI: 116 + 80%
+VIT: 55 + 35%
+INT: 13 + 5%
+DEX: 9 + 5%
+
+TURN 1
+Lv 26 cooldudeirl 442 HP
+Lv 26 Cryptskulker 142 HP
+
+cooldudeirl attacks!
+cooldudeirl's Lay On Hands activated!
+cooldudeirl healed for 0!
+91 damage!
+Cryptskulker attacks!
+Blocked!
+
+TURN 2
+Lv 26 cooldudeirl 442 HP
+Lv 26 Cryptskulker 51 HP
+
+cooldudeirl attacks!
+Missed!
+Cryptskulker attacks!
+Critical strike!
+8 damage!
+
+TURN 3
+Lv 26 cooldudeirl 434 HP
+Lv 26 Cryptskulker 51 HP
+
+cooldudeirl attacks!
+91 damage!
+cooldudeirl wins!
+
+
+Recieved 10 gold!
+Received Lv.27 Longbow!
+
+
+*****ENCOUNTER!*****
+
+LEVEL 26 Ooze
+
+STR: 51 + 30%
+AGI: 10 + 5%
+VIT: 99 + 65%
+INT: 11 + 5%
+DEX: 8 + 5%
+
+TURN 1
+Lv 26 cooldudeirl 442 HP
+Lv 26 Ooze 252 HP
+
+cooldudeirl attacks!
+83 damage!
+Ooze attacks!
+1 damage!
+
+TURN 2
+Lv 26 cooldudeirl 441 HP
+Lv 26 Ooze 169 HP
+
+cooldudeirl attacks!
+83 damage!
+Ooze attacks!
+1 damage!
+
+TURN 3
+Lv 26 cooldudeirl 440 HP
+Lv 26 Ooze 86 HP
+
+cooldudeirl attacks!
+83 damage!
+Ooze attacks!
+Missed!
+
+TURN 4
+Lv 26 cooldudeirl 440 HP
+Lv 26 Ooze 3 HP
+
+cooldudeirl attacks!
+cooldudeirl's Heavy Blow activated!
+149 damage!
+cooldudeirl wins!
+
+
+Recieved 13 gold!
+
+*****ENCOUNTER!*****
+
+LEVEL 26 Ghast
+
+STR: 109 + 70%
+AGI: 55 + 40%
+VIT: 31 + 20%
+INT: 8 + 5%
+DEX: 12 + 5%
+
+TURN 1
+Lv 26 cooldudeirl 442 HP
+Lv 26 Ghast 82 HP
+
+cooldudeirl attacks!
+117 damage!
+cooldudeirl wins!
+
+
+Recieved 7 gold!
+Received Lv.24 Sage's Diary!
+
+
+*****ENCOUNTER!*****
+
+LEVEL 26 Cryptskulker
+
+STR: 63 + 40%
+AGI: 125 + 80%
+VIT: 46 + 35%
+INT: 11 + 5%
+DEX: 13 + 5%
+
+TURN 1
+Lv 26 cooldudeirl 442 HP
+Lv 26 Cryptskulker 120 HP
+
+cooldudeirl attacks!
+Missed!
+Cryptskulker attacks!
+1 damage!
+
+TURN 2
+Lv 26 cooldudeirl 441 HP
+Lv 26 Cryptskulker 120 HP
+
+cooldudeirl attacks!
+Missed!
+Cryptskulker attacks!
+Blocked!
+
+TURN 3
+Lv 26 cooldudeirl 441 HP
+Lv 26 Cryptskulker 120 HP
+
+cooldudeirl attacks!
+118 damage!
+Cryptskulker attacks!
+Missed!
+
+TURN 4
+Lv 26 cooldudeirl 441 HP
+Lv 26 Cryptskulker 2 HP
+
+cooldudeirl attacks!
+cooldudeirl's Heavy Blow activated!
+142 damage!
+cooldudeirl wins!
+
+
+Recieved 13 gold!
+
+*****ENCOUNTER!*****
+
+LEVEL 26 Shrieker
+
+STR: 9 + 5%
+AGI: 97 + 60%
+VIT: 57 + 30%
+INT: 64 + 40%
+DEX: 9 + 5%
+
+TURN 1
+Lv 26 cooldudeirl 442 HP
+Lv 26 Shrieker 147 HP
+
+cooldudeirl attacks!
+Critical strike!
+236 damage!
+cooldudeirl wins!
+
+
+Recieved 7 gold!
+
+*****ENCOUNTER!*****
+
+LEVEL 26 Skeletal Mage
+
+STR: 10 + 5%
+AGI: 22 + 15%
+VIT: 17 + 10%
+INT: 60 + 40%
+DEX: 43 + 25%
+
+TURN 1
+Lv 26 cooldudeirl 442 HP
+Lv 26 Skeletal Mage 47 HP
+
+cooldudeirl attacks!
+118 damage!
+cooldudeirl wins!
+
+
+Recieved 7 gold!
+
+*****ENCOUNTER!*****
+
+LEVEL 26 Ooze
+
+STR: 30 + 30%
+AGI: 11 + 5%
+VIT: 95 + 65%
+INT: 9 + 5%
+DEX: 8 + 5%
+
+TURN 1
+Lv 26 cooldudeirl 442 HP
+Lv 26 Ooze 242 HP
+
+cooldudeirl attacks!
+cooldudeirl's Heavy Blow activated!
+142 damage!
+Ooze attacks!
+1 damage!
+
+TURN 2
+Lv 26 cooldudeirl 441 HP
+Lv 26 Ooze 100 HP
+
+cooldudeirl attacks!
+cooldudeirl's Heavy Blow activated!
+142 damage!
+cooldudeirl wins!
+
+
+Recieved 7 gold!
+
+*****ENCOUNTER!*****
+
+LEVEL 26 Cryptskulker
+
+STR: 60 + 40%
+AGI: 121 + 80%
+VIT: 55 + 35%
+INT: 13 + 5%
+DEX: 12 + 5%
+
+TURN 1
+Lv 26 cooldudeirl 442 HP
+Lv 26 Cryptskulker 142 HP
+
+cooldudeirl attacks!
+118 damage!
+Cryptskulker attacks!
+Critical strike!
+1 damage!
+
+TURN 2
+Lv 26 cooldudeirl 441 HP
+Lv 26 Cryptskulker 24 HP
+
+cooldudeirl attacks!
+118 damage!
+cooldudeirl wins!
+
+
+
+***LEVEL UP!***
+Level 26->27
+STR 95->96 +(1)
+AGI 27->28 +(1)
+VIT 96->99 +(3)
+INT 78->81 +(3)
+DEX 61->61 +(0)
+
+
+Recieved 13 gold!
+
+*****ENCOUNTER!*****
+
+LEVEL 27 Ooze
+
+STR: 50 + 30%
+AGI: 13 + 5%
+VIT: 101 + 65%
+INT: 16 + 5%
+DEX: 9 + 5%
+
+TURN 1
+Lv 27 cooldudeirl 452 HP
+Lv 27 Ooze 257 HP
+
+cooldudeirl attacks!
+122 damage!
+Ooze attacks!
+1 damage!
+
+TURN 2
+Lv 27 cooldudeirl 451 HP
+Lv 27 Ooze 135 HP
+
+cooldudeirl attacks!
+122 damage!
+Ooze attacks!
+1 damage!
+
+TURN 3
+Lv 27 cooldudeirl 450 HP
+Lv 27 Ooze 13 HP
+
+cooldudeirl attacks!
+cooldudeirl's Heavy Blow activated!
+144 damage!
+cooldudeirl wins!
+
+
+Recieved 10 gold!
+
+*****ENCOUNTER!*****
+
+LEVEL 27 Beholder
+
+STR: 58 + 40%
+AGI: 41 + 30%
+VIT: 51 + 30%
+INT: 6 + 5%
+DEX: 52 + 35%
+
+TURN 1
+Lv 27 cooldudeirl 452 HP
+Lv 27 Beholder 132 HP
+
+cooldudeirl attacks!
+122 damage!
+Beholder attacks!
+1 damage!
+
+TURN 2
+Lv 27 cooldudeirl 451 HP
+Lv 27 Beholder 10 HP
+
+cooldudeirl attacks!
+122 damage!
+cooldudeirl wins!
+
+
+Recieved 11 gold!
+
+*****ENCOUNTER!*****
+
+LEVEL 27 Clay Golem
+
+STR: 54 + 40%
+AGI: 42 + 25%
+VIT: 117 + 75%
+INT: 11 + 5%
+DEX: 9 + 5%
+
+TURN 1
+Lv 27 cooldudeirl 452 HP
+Lv 27 Clay Golem 297 HP
+
+cooldudeirl attacks!
+122 damage!
+Clay Golem attacks!
+Blocked!
+
+TURN 2
+Lv 27 cooldudeirl 452 HP
+Lv 27 Clay Golem 175 HP
+
+cooldudeirl attacks!
+122 damage!
+Clay Golem attacks!
+1 damage!
+
+TURN 3
+Lv 27 cooldudeirl 451 HP
+Lv 27 Clay Golem 53 HP
+
+cooldudeirl attacks!
+Critical strike!
+244 damage!
+cooldudeirl wins!
+
+
+Recieved 9 gold!
+
+*****ENCOUNTER!*****
+
+LEVEL 27 Cryptskulker
+
+STR: 73 + 40%
+AGI: 123 + 80%
+VIT: 46 + 35%
+INT: 14 + 5%
+DEX: 7 + 5%
+
+TURN 1
+Lv 27 cooldudeirl 452 HP
+Lv 27 Cryptskulker 120 HP
+
+cooldudeirl attacks!
+cooldudeirl's Heavy Blow activated!
+144 damage!
+cooldudeirl wins!
+
+
+Recieved 9 gold!
+
+*****ENCOUNTER!*****
+
+LEVEL 27 Ghast
+
+STR: 104 + 70%
+AGI: 61 + 40%
+VIT: 35 + 20%
+INT: 8 + 5%
+DEX: 7 + 5%
+
+TURN 1
+Lv 27 cooldudeirl 452 HP
+Lv 27 Ghast 92 HP
+
+cooldudeirl attacks!
+122 damage!
+cooldudeirl wins!
+
+
+Recieved 11 gold!
+
+*****ENCOUNTER!*****
+
+LEVEL 27 Beholder
+
+STR: 60 + 40%
+AGI: 42 + 30%
+VIT: 47 + 30%
+INT: 10 + 5%
+DEX: 61 + 35%
+
+TURN 1
+Lv 27 cooldudeirl 452 HP
+Lv 27 Beholder 122 HP
+
+cooldudeirl attacks!
+122 damage!
+cooldudeirl wins!
+
+
+Recieved 9 gold!
+
+*****ENCOUNTER!*****
+
+LEVEL 27 Cryptskulker
+
+STR: 63 + 40%
+AGI: 120 + 80%
+VIT: 46 + 35%
+INT: 7 + 5%
+DEX: 6 + 5%
+
+TURN 1
+Lv 27 cooldudeirl 452 HP
+Lv 27 Cryptskulker 120 HP
+
+cooldudeirl attacks!
+cooldudeirl's Lay On Hands activated!
+cooldudeirl healed for 0!
+122 damage!
+cooldudeirl wins!
+
+
+Recieved 10 gold!
+
+*****ENCOUNTER!*****
+
+LEVEL 27 Depthdweller
+
+STR: 92 + 55%
+AGI: 38 + 25%
+VIT: 78 + 55%
+INT: 10 + 5%
+DEX: 52 + 35%
+
+TURN 1
+Lv 27 cooldudeirl 452 HP
+Lv 27 Depthdweller 200 HP
+
+cooldudeirl attacks!
+122 damage!
+Depthdweller attacks!
+27 damage!
+
+TURN 2
+Lv 27 cooldudeirl 425 HP
+Lv 27 Depthdweller 78 HP
+
+cooldudeirl attacks!
+122 damage!
+cooldudeirl wins!
+
+
+Recieved 11 gold!
+Received Lv.29 Warhammer!
+
+
+*****ENCOUNTER!*****
+
+LEVEL 27 Revenant
+
+STR: 7 + 5%
+AGI: 93 + 60%
+VIT: 37 + 20%
+INT: 85 + 60%
+DEX: 9 + 5%
+
+TURN 1
+Lv 27 cooldudeirl 452 HP
+Lv 27 Revenant 97 HP
+
+cooldudeirl attacks!
+Missed!
+Revenant attacks!
+Blocked!
+
+TURN 2
+Lv 27 cooldudeirl 452 HP
+Lv 27 Revenant 97 HP
+
+cooldudeirl attacks!
+117 damage!
+cooldudeirl wins!
+
+
+Recieved 7 gold!
+
+*****ENCOUNTER!*****
+
+LEVEL 27 Skeletal Archer
+
+STR: 49 + 30%
+AGI: 64 + 40%
+VIT: 25 + 15%
+INT: 8 + 5%
+DEX: 42 + 30%
+
+TURN 1
+Lv 27 cooldudeirl 452 HP
+Lv 27 Skeletal Archer 67 HP
+
+cooldudeirl attacks!
+cooldudeirl's Heavy Blow activated!
+183 damage!
+cooldudeirl wins!
+
+
+
+***LEVEL UP!***
+Level 27->28
+STR 96->99 +(3)
+AGI 28->29 +(1)
+VIT 99->102 +(3)
+INT 81->83 +(2)
+DEX 61->61 +(0)
+
+
+Recieved 12 gold!
+
+*****ENCOUNTER!*****
+
+LEVEL 28 Skeletal Archer
+
+STR: 43 + 30%
+AGI: 63 + 40%
+VIT: 29 + 15%
+INT: 10 + 5%
+DEX: 43 + 30%
+
+TURN 1
+Lv 28 cooldudeirl 462 HP
+Lv 28 Skeletal Archer 77 HP
+
+cooldudeirl attacks!
+cooldudeirl's Lay On Hands activated!
+cooldudeirl healed for 0!
+122 damage!
+cooldudeirl wins!
+
+
+Recieved 8 gold!
+
+*****ENCOUNTER!*****
+
+LEVEL 28 Slime
+
+STR: 67 + 40%
+AGI: 32 + 15%
+VIT: 57 + 40%
+INT: 10 + 5%
+DEX: 13 + 5%
+
+TURN 1
+Lv 28 cooldudeirl 462 HP
+Lv 28 Slime 147 HP
+
+cooldudeirl attacks!
+cooldudeirl's Heavy Blow activated!
+179 damage!
+cooldudeirl wins!
+
+
+Recieved 10 gold!
+
+*****ENCOUNTER!*****
+
+LEVEL 28 Skeletal Warrior
+
+STR: 94 + 60%
+AGI: 18 + 15%
+VIT: 36 + 20%
+INT: 14 + 5%
+DEX: 41 + 20%
+
+TURN 1
+Lv 28 cooldudeirl 462 HP
+Lv 28 Skeletal Warrior 95 HP
+
+cooldudeirl attacks!
+cooldudeirl's Lay On Hands activated!
+cooldudeirl healed for 0!
+120 damage!
+cooldudeirl wins!
+
+
+Recieved 13 gold!
+
+*****ENCOUNTER!*****
+
+LEVEL 28 Depthdweller
+
+STR: 97 + 55%
+AGI: 51 + 25%
+VIT: 79 + 55%
+INT: 12 + 5%
+DEX: 71 + 35%
+
+TURN 1
+Lv 28 cooldudeirl 462 HP
+Lv 28 Depthdweller 202 HP
+
+cooldudeirl attacks!
+109 damage!
+Depthdweller attacks!
+Blocked!
+
+TURN 2
+Lv 28 cooldudeirl 462 HP
+Lv 28 Depthdweller 93 HP
+
+cooldudeirl attacks!
+109 damage!
+cooldudeirl wins!
+
+
+Recieved 12 gold!
+
+*****ENCOUNTER!*****
+
+LEVEL 28 Cryptskulker
+
+STR: 70 + 40%
+AGI: 125 + 80%
+VIT: 63 + 35%
+INT: 11 + 5%
+DEX: 9 + 5%
+
+TURN 1
+Lv 28 cooldudeirl 462 HP
+Lv 28 Cryptskulker 162 HP
+
+cooldudeirl attacks!
+Missed!
+Cryptskulker attacks!
+3 damage!
+
+TURN 2
+Lv 28 cooldudeirl 459 HP
+Lv 28 Cryptskulker 162 HP
+
+cooldudeirl attacks!
+113 damage!
+Cryptskulker attacks!
+3 damage!
+
+TURN 3
+Lv 28 cooldudeirl 456 HP
+Lv 28 Cryptskulker 49 HP
+
+cooldudeirl attacks!
+Missed!
+Cryptskulker attacks!
+Blocked!
+
+TURN 4
+Lv 28 cooldudeirl 456 HP
+Lv 28 Cryptskulker 49 HP
+
+cooldudeirl attacks!
+Critical strike!
+226 damage!
+cooldudeirl wins!
+
+
+Recieved 10 gold!
+
+*****ENCOUNTER!*****
+
+LEVEL 28 Slime
+
+STR: 71 + 40%
+AGI: 24 + 15%
+VIT: 67 + 40%
+INT: 9 + 5%
+DEX: 8 + 5%
+
+TURN 1
+Lv 28 cooldudeirl 462 HP
+Lv 28 Slime 172 HP
+
+cooldudeirl attacks!
+112 damage!
+Slime attacks!
+4 damage!
+
+TURN 2
+Lv 28 cooldudeirl 458 HP
+Lv 28 Slime 60 HP
+
+cooldudeirl attacks!
+112 damage!
+cooldudeirl wins!
+
+
+Recieved 7 gold!
+
+*****ENCOUNTER!*****
+
+LEVEL 28 Ghast
+
+STR: 111 + 70%
+AGI: 56 + 40%
+VIT: 30 + 20%
+INT: 14 + 5%
+DEX: 12 + 5%
+
+TURN 1
+Lv 28 cooldudeirl 462 HP
+Lv 28 Ghast 80 HP
+
+cooldudeirl attacks!
+Critical strike!
+242 damage!
+cooldudeirl wins!
+
+
+Recieved 8 gold!
+
+*****ENCOUNTER!*****
+
+LEVEL 28 Skeletal Warrior
+
+STR: 91 + 60%
+AGI: 21 + 15%
+VIT: 28 + 20%
+INT: 10 + 5%
+DEX: 30 + 20%
+
+TURN 1
+Lv 28 cooldudeirl 462 HP
+Lv 28 Skeletal Warrior 75 HP
+
+cooldudeirl attacks!
+cooldudeirl's Lay On Hands activated!
+cooldudeirl healed for 0!
+122 damage!
+cooldudeirl wins!
+
+
+Recieved 11 gold!
+Received Lv.26 Leather Tunic!
+
+
+*****ENCOUNTER!*****
+
+LEVEL 28 Ooze
+
+STR: 40 + 30%
+AGI: 12 + 5%
+VIT: 105 + 65%
+INT: 14 + 5%
+DEX: 12 + 5%
+
+TURN 1
+Lv 28 cooldudeirl 300 HP
+Lv 28 Ooze 267 HP
+
+cooldudeirl attacks!
+103 damage!
+Ooze attacks!
+Blocked!
+
+TURN 2
+Lv 28 cooldudeirl 300 HP
+Lv 28 Ooze 164 HP
+
+cooldudeirl attacks!
+cooldudeirl's Heavy Blow activated!
+167 damage!
+cooldudeirl wins!
+
+
+
+***LEVEL UP!***
+Level 28->29
+STR 99->102 +(3)
+AGI 29->29 +(0)
+VIT 102->104 +(2)
+INT 83->85 +(2)
+DEX 61->63 +(2)
+
+
+Recieved 8 gold!
+Received Lv.28 Longbow!
+
+
+*****ENCOUNTER!*****
+
+LEVEL 29 Skeletal Mage
+
+STR: 11 + 5%
+AGI: 32 + 15%
+VIT: 18 + 10%
+INT: 70 + 40%
+DEX: 43 + 25%
+
+TURN 1
+Lv 29 cooldudeirl 305 HP
+Lv 29 Skeletal Mage 50 HP
+
+cooldudeirl attacks!
+131 damage!
+cooldudeirl wins!
+
+
+Recieved 9 gold!
+
+*****ENCOUNTER!*****
+
+LEVEL 29 Slime
+
+STR: 65 + 40%
+AGI: 21 + 15%
+VIT: 62 + 40%
+INT: 15 + 5%
+DEX: 13 + 5%
+
+TURN 1
+Lv 29 cooldudeirl 305 HP
+Lv 29 Slime 160 HP
+
+cooldudeirl attacks!
+cooldudeirl's Heavy Blow activated!
+Critical strike!
+358 damage!
+cooldudeirl wins!
+
+
+Recieved 11 gold!
+Received Lv.29 Forcefield!
+
+
+*****ENCOUNTER!*****
+
+LEVEL 29 Beholder
+
+STR: 75 + 40%
+AGI: 51 + 30%
+VIT: 50 + 30%
+INT: 10 + 5%
+DEX: 62 + 35%
+
+TURN 1
+Lv 29 cooldudeirl 305 HP
+Lv 29 Beholder 130 HP
+
+cooldudeirl attacks!
+115 damage!
+Beholder attacks!
+22 damage!
+
+TURN 2
+Lv 29 cooldudeirl 283 HP
+Lv 29 Beholder 15 HP
+
+cooldudeirl attacks!
+115 damage!
+cooldudeirl wins!
+
+
+Recieved 7 gold!
+
+*****ENCOUNTER!*****
+
+LEVEL 29 Cryptskulker
+
+STR: 67 + 40%
+AGI: 128 + 80%
+VIT: 62 + 35%
+INT: 8 + 5%
+DEX: 14 + 5%
+
+TURN 1
+Lv 29 cooldudeirl 305 HP
+Lv 29 Cryptskulker 160 HP
+
+cooldudeirl attacks!
+cooldudeirl's Heavy Blow activated!
+179 damage!
+cooldudeirl wins!
+
+
+Recieved 12 gold!
+
+*****ENCOUNTER!*****
+
+LEVEL 29 Shrieker
+
+STR: 9 + 5%
+AGI: 94 + 60%
+VIT: 48 + 30%
+INT: 87 + 40%
+DEX: 10 + 5%
+
+TURN 1
+Lv 29 cooldudeirl 305 HP
+Lv 29 Shrieker 125 HP
+
+cooldudeirl attacks!
+cooldudeirl's Heavy Blow activated!
+186 damage!
+cooldudeirl wins!
+
+
+Recieved 12 gold!
+Received Lv.32 Sabbath!
+
+
+*****ENCOUNTER!*****
+
+LEVEL 29 Cryptskulker
+
+STR: 68 + 40%
+AGI: 134 + 80%
+VIT: 55 + 35%
+INT: 9 + 5%
+DEX: 12 + 5%
+
+TURN 1
+Lv 29 cooldudeirl 305 HP
+Lv 29 Cryptskulker 142 HP
+
+cooldudeirl attacks!
+100 damage!
+Cryptskulker attacks!
+Blocked!
+
+TURN 2
+Lv 29 cooldudeirl 305 HP
+Lv 29 Cryptskulker 42 HP
+
+cooldudeirl attacks!
+Missed!
+Cryptskulker attacks!
+15 damage!
+
+TURN 3
+Lv 29 cooldudeirl 290 HP
+Lv 29 Cryptskulker 42 HP
+
+cooldudeirl attacks!
+Missed!
+Cryptskulker attacks!
+15 damage!
+
+TURN 4
+Lv 29 cooldudeirl 275 HP
+Lv 29 Cryptskulker 42 HP
+
+cooldudeirl attacks!
+Critical strike!
+200 damage!
+cooldudeirl wins!
+
+
+Recieved 13 gold!
+Received Lv.30 Estoc!
+
+
+*****ENCOUNTER!*****
+
+LEVEL 29 Rune Golem
+
+STR: 82 + 50%
+AGI: 14 + 5%
+VIT: 127 + 75%
+INT: 11 + 5%
+DEX: 43 + 25%
+
+TURN 1
+Lv 29 cooldudeirl 305 HP
+Lv 29 Rune Golem 322 HP
+
+cooldudeirl attacks!
+52 damage!
+Rune Golem attacks!
+29 damage!
+
+TURN 2
+Lv 29 cooldudeirl 276 HP
+Lv 29 Rune Golem 270 HP
+
+cooldudeirl attacks!
+cooldudeirl's Heavy Blow activated!
+Critical strike!
+220 damage!
+Rune Golem attacks!
+Blocked!
+
+TURN 3
+Lv 29 cooldudeirl 276 HP
+Lv 29 Rune Golem 50 HP
+
+cooldudeirl attacks!
+52 damage!
+cooldudeirl wins!
+
+
+Recieved 9 gold!
+
+*****ENCOUNTER!*****
+
+LEVEL 29 Slime
+
+STR: 71 + 40%
+AGI: 28 + 15%
+VIT: 74 + 40%
+INT: 12 + 5%
+DEX: 17 + 5%
+
+TURN 1
+Lv 29 cooldudeirl 305 HP
+Lv 29 Slime 190 HP
+
+cooldudeirl attacks!
+cooldudeirl's Heavy Blow activated!
+136 damage!
+Slime attacks!
+18 damage!
+
+TURN 2
+Lv 29 cooldudeirl 287 HP
+Lv 29 Slime 54 HP
+
+cooldudeirl attacks!
+78 damage!
+cooldudeirl wins!
+
+
+Recieved 7 gold!
+
+*****ENCOUNTER!*****
+
+LEVEL 29 Clay Golem
+
+STR: 66 + 40%
+AGI: 35 + 25%
+VIT: 124 + 75%
+INT: 9 + 5%
+DEX: 10 + 5%
+
+TURN 1
+Lv 29 cooldudeirl 305 HP
+Lv 29 Clay Golem 315 HP
+
+cooldudeirl attacks!
+cooldudeirl's Lay On Hands activated!
+cooldudeirl healed for 0!
+53 damage!
+Clay Golem attacks!
+13 damage!
+
+TURN 2
+Lv 29 cooldudeirl 292 HP
+Lv 29 Clay Golem 262 HP
+
+cooldudeirl attacks!
+53 damage!
+Clay Golem attacks!
+Critical strike!
+26 damage!
+
+TURN 3
+Lv 29 cooldudeirl 266 HP
+Lv 29 Clay Golem 209 HP
+
+cooldudeirl attacks!
+cooldudeirl's Lay On Hands activated!
+cooldudeirl healed for 39!
+53 damage!
+Clay Golem attacks!
+Blocked!
+
+TURN 4
+Lv 29 cooldudeirl 305 HP
+Lv 29 Clay Golem 156 HP
+
+cooldudeirl attacks!
+cooldudeirl's Lay On Hands activated!
+cooldudeirl healed for 0!
+53 damage!
+Clay Golem attacks!
+13 damage!
+
+TURN 5
+Lv 29 cooldudeirl 292 HP
+Lv 29 Clay Golem 103 HP
+
+cooldudeirl attacks!
+cooldudeirl's Heavy Blow activated!
+111 damage!
+cooldudeirl wins!
+
+
+
+***LEVEL UP!***
+Level 29->30
+STR 102->104 +(2)
+AGI 29->30 +(1)
+VIT 104->106 +(2)
+INT 85->87 +(2)
+DEX 63->63 +(0)
+
+
+Recieved 12 gold!
+
+cooldudeirl goes to town
+Entering Item Shop
+Left Item Shop
+
+Entered Smithy
+Estoc upgraded to +1
+Estoc upgraded to +2
+Estoc upgraded to +3
+Estoc upgraded to +4
+Estoc upgraded to +5
+Estoc upgraded to +6
+Estoc upgraded to +7
+Estoc upgraded to +8
+Estoc upgraded to +9
+Estoc upgraded to +10
+Leather Tunic upgraded to +1
+Leather Tunic upgraded to +2
+Leather Tunic upgraded to +3
+Leather Tunic upgraded to +4
+Leather Tunic upgraded to +5
+Leather Tunic upgraded to +6
+Leather Tunic upgraded to +7
+Leather Tunic upgraded to +8
+Leather Tunic upgraded to +9
+Leather Tunic upgraded to +10
+Left Smithy
+Returning to dungeon...
+
+
+
+*****ENCOUNTER!*****
+
+LEVEL 30 Astigmatism
+
+STR: 14 + 5%
+AGI: 64 + 40%
+VIT: 120 + 70%
+INT: 57 + 30%
+DEX: 168 + 104%
+
+TURN 1
+Lv 30 cooldudeirl 327 HP
+Lv 30 Astigmatism 305 HP
+
+cooldudeirl attacks!
+cooldudeirl's Lay On Hands activated!
+cooldudeirl healed for 0!
+Critical strike!
+132 damage!
+Astigmatism attacks!
+Blocked!
+
+TURN 2
+Lv 30 cooldudeirl 327 HP
+Lv 30 Astigmatism 173 HP
+
+cooldudeirl attacks!
+66 damage!
+Astigmatism attacks!
+57 damage!
+
+TURN 3
+Lv 30 cooldudeirl 270 HP
+Lv 30 Astigmatism 107 HP
+
+cooldudeirl attacks!
+66 damage!
+Astigmatism attacks!
+57 damage!
+
+TURN 4
+Lv 30 cooldudeirl 213 HP
+Lv 30 Astigmatism 41 HP
+
+cooldudeirl attacks!
+cooldudeirl's Heavy Blow activated!
+129 damage!
+cooldudeirl wins!
+
+
+
+***LEVEL UP!***
+Level 30->31
+STR 104->107 +(3)
+AGI 30->30 +(0)
+VIT 106->109 +(3)
+INT 87->89 +(2)
+DEX 63->65 +(2)
+
+
+Recieved 7 gold!
+
+*****ENCOUNTER!*****
+
+LEVEL 31 Rune Golem
+
+STR: 94 + 50%
+AGI: 10 + 5%
+VIT: 136 + 75%
+INT: 10 + 5%
+DEX: 46 + 25%
+
+TURN 1
+Lv 31 cooldudeirl 334 HP
+Lv 31 Rune Golem 345 HP
+
+cooldudeirl attacks!
+cooldudeirl's Lay On Hands activated!
+cooldudeirl healed for 0!
+61 damage!
+Rune Golem attacks!
+Critical strike!
+78 damage!
+
+TURN 2
+Lv 31 cooldudeirl 256 HP
+Lv 31 Rune Golem 284 HP
+
+cooldudeirl attacks!
+61 damage!
+Rune Golem attacks!
+39 damage!
+
+TURN 3
+Lv 31 cooldudeirl 217 HP
+Lv 31 Rune Golem 223 HP
+
+cooldudeirl attacks!
+Critical strike!
+122 damage!
+Rune Golem attacks!
+39 damage!
+
+TURN 4
+Lv 31 cooldudeirl 178 HP
+Lv 31 Rune Golem 101 HP
+
+cooldudeirl attacks!
+61 damage!
+Rune Golem attacks!
+Blocked!
+
+TURN 5
+Lv 31 cooldudeirl 178 HP
+Lv 31 Rune Golem 40 HP
+
+cooldudeirl attacks!
+Critical strike!
+122 damage!
+cooldudeirl wins!
+
+
+Recieved 13 gold!
+
+*****ENCOUNTER!*****
+
+LEVEL 31 Ghast
+
+STR: 123 + 70%
+AGI: 83 + 40%
+VIT: 41 + 20%
+INT: 12 + 5%
+DEX: 12 + 5%
+
+TURN 1
+Lv 31 cooldudeirl 334 HP
+Lv 31 Ghast 107 HP
+
+cooldudeirl attacks!
+109 damage!
+cooldudeirl wins!
+
+
+Recieved 8 gold!
+
+*****ENCOUNTER!*****
+
+LEVEL 31 Clay Golem
+
+STR: 65 + 40%
+AGI: 47 + 25%
+VIT: 133 + 75%
+INT: 11 + 5%
+DEX: 15 + 5%
+
+TURN 1
+Lv 31 cooldudeirl 334 HP
+Lv 31 Clay Golem 337 HP
+
+cooldudeirl attacks!
+63 damage!
+Clay Golem attacks!
+Blocked!
+
+TURN 2
+Lv 31 cooldudeirl 334 HP
+Lv 31 Clay Golem 274 HP
+
+cooldudeirl attacks!
+cooldudeirl's Heavy Blow activated!
+128 damage!
+Clay Golem attacks!
+10 damage!
+
+TURN 3
+Lv 31 cooldudeirl 324 HP
+Lv 31 Clay Golem 146 HP
+
+cooldudeirl attacks!
+63 damage!
+Clay Golem attacks!
+Missed!
+
+TURN 4
+Lv 31 cooldudeirl 324 HP
+Lv 31 Clay Golem 83 HP
+
+cooldudeirl attacks!
+cooldudeirl's Heavy Blow activated!
+128 damage!
+cooldudeirl wins!
+
+
+Recieved 13 gold!
+
+*****ENCOUNTER!*****
+
+LEVEL 31 Aberration
+
+STR: 90 + 50%
+AGI: 73 + 40%
+VIT: 108 + 65%
+INT: 10 + 5%
+DEX: 48 + 25%
+
+TURN 1
+Lv 31 cooldudeirl 334 HP
+Lv 31 Aberration 275 HP
+
+cooldudeirl attacks!
+cooldudeirl's Heavy Blow activated!
+140 damage!
+Aberration attacks!
+Blocked!
+
+TURN 2
+Lv 31 cooldudeirl 334 HP
+Lv 31 Aberration 135 HP
+
+cooldudeirl attacks!
+75 damage!
+Aberration attacks!
+Blocked!
+
+TURN 3
+Lv 31 cooldudeirl 334 HP
+Lv 31 Aberration 60 HP
+
+cooldudeirl attacks!
+57 damage!
+Aberration attacks!
+Blocked!
+
+TURN 4
+Lv 31 cooldudeirl 334 HP
+Lv 31 Aberration 3 HP
+
+cooldudeirl attacks!
+57 damage!
+cooldudeirl wins!
+
+
+Recieved 11 gold!
+
+*****ENCOUNTER!*****
+
+LEVEL 31 Shrieker
+
+STR: 11 + 5%
+AGI: 104 + 60%
+VIT: 59 + 30%
+INT: 73 + 40%
+DEX: 11 + 5%
+
+TURN 1
+Lv 31 cooldudeirl 334 HP
+Lv 31 Shrieker 152 HP
+
+cooldudeirl attacks!
+100 damage!
+Shrieker attacks!
+73 damage!
+
+TURN 2
+Lv 31 cooldudeirl 261 HP
+Lv 31 Shrieker 52 HP
+
+cooldudeirl attacks!
+Critical strike!
+200 damage!
+cooldudeirl wins!
+
+
+Recieved 13 gold!
+
+*****ENCOUNTER!*****
+
+LEVEL 31 Aberration
+
+STR: 85 + 50%
+AGI: 70 + 40%
+VIT: 114 + 65%
+INT: 10 + 5%
+DEX: 47 + 25%
+
+TURN 1
+Lv 31 cooldudeirl 334 HP
+Lv 31 Aberration 290 HP
+
+cooldudeirl attacks!
+72 damage!
+Aberration attacks!
+30 damage!
+
+TURN 2
+Lv 31 cooldudeirl 304 HP
+Lv 31 Aberration 218 HP
+
+cooldudeirl attacks!
+Critical strike!
+144 damage!
+Aberration attacks!
+30 damage!
+
+TURN 3
+Lv 31 cooldudeirl 274 HP
+Lv 31 Aberration 74 HP
+
+cooldudeirl attacks!
+53 damage!
+Aberration attacks!
+30 damage!
+
+TURN 4
+Lv 31 cooldudeirl 244 HP
+Lv 31 Aberration 21 HP
+
+cooldudeirl attacks!
+cooldudeirl's Heavy Blow activated!
+118 damage!
+cooldudeirl wins!
+
+
+Recieved 7 gold!
+
+*****ENCOUNTER!*****
+
+LEVEL 31 Rune Golem
+
+STR: 92 + 50%
+AGI: 12 + 5%
+VIT: 132 + 75%
+INT: 12 + 5%
+DEX: 39 + 25%
+
+TURN 1
+Lv 31 cooldudeirl 334 HP
+Lv 31 Rune Golem 335 HP
+
+cooldudeirl attacks!
+cooldudeirl's Lay On Hands activated!
+cooldudeirl healed for 0!
+63 damage!
+Rune Golem attacks!
+Blocked!
+
+TURN 2
+Lv 31 cooldudeirl 334 HP
+Lv 31 Rune Golem 272 HP
+
+cooldudeirl attacks!
+63 damage!
+Rune Golem attacks!
+37 damage!
+
+TURN 3
+Lv 31 cooldudeirl 297 HP
+Lv 31 Rune Golem 209 HP
+
+cooldudeirl attacks!
+cooldudeirl's Lay On Hands activated!
+cooldudeirl healed for 37!
+63 damage!
+Rune Golem attacks!
+37 damage!
+
+TURN 4
+Lv 31 cooldudeirl 297 HP
+Lv 31 Rune Golem 146 HP
+
+cooldudeirl attacks!
+63 damage!
+Rune Golem attacks!
+37 damage!
+
+TURN 5
+Lv 31 cooldudeirl 260 HP
+Lv 31 Rune Golem 83 HP
+
+cooldudeirl attacks!
+63 damage!
+Rune Golem attacks!
+Missed!
+
+TURN 6
+Lv 31 cooldudeirl 260 HP
+Lv 31 Rune Golem 20 HP
+
+cooldudeirl attacks!
+cooldudeirl's Heavy Blow activated!
+Critical strike!
+256 damage!
+cooldudeirl wins!
+
+
+Recieved 7 gold!
+Received Lv.30 Oak Staff!
+
+
+*****ENCOUNTER!*****
+
+LEVEL 31 Apoplexy
+
+STR: 98 + 60%
+AGI: 135 + 80%
+VIT: 22 + 10%
+INT: 12 + 5%
+DEX: 13 + 5%
+
+TURN 1
+Lv 31 cooldudeirl 334 HP
+Lv 31 Apoplexy 60 HP
+
+cooldudeirl attacks!
+cooldudeirl's Heavy Blow activated!
+160 damage!
+cooldudeirl wins!
+
+
+Recieved 11 gold!
+
+*****ENCOUNTER!*****
+
+LEVEL 31 Skeletal Archer
+
+STR: 59 + 30%
+AGI: 70 + 40%
+VIT: 41 + 15%
+INT: 14 + 5%
+DEX: 59 + 30%
+
+TURN 1
+Lv 31 cooldudeirl 334 HP
+Lv 31 Skeletal Archer 107 HP
+
+cooldudeirl attacks!
+Critical strike!
+290 damage!
+cooldudeirl wins!
+
+
+Recieved 13 gold!
+Received Lv.29 Brigandine!
+
+
+*****ENCOUNTER!*****
+
+LEVEL 31 Skeletal Archer
+
+STR: 60 + 30%
+AGI: 73 + 40%
+VIT: 26 + 15%
+INT: 12 + 5%
+DEX: 59 + 30%
+
+TURN 1
+Lv 31 cooldudeirl 378 HP
+Lv 31 Skeletal Archer 70 HP
+
+cooldudeirl attacks!
+Critical strike!
+290 damage!
+cooldudeirl wins!
+
+
+
+***LEVEL UP!***
+Level 31->32
+STR 107->110 +(3)
+AGI 30->31 +(1)
+VIT 109->112 +(3)
+INT 89->91 +(2)
+DEX 65->66 +(1)
+
+
+Recieved 11 gold!
+Received Lv.32 Hallowed Sabre!
+
+
+*****ENCOUNTER!*****
+
+LEVEL 32 Rune Golem
+
+STR: 100 + 50%
+AGI: 12 + 5%
+VIT: 140 + 75%
+INT: 14 + 5%
+DEX: 43 + 25%
+
+TURN 1
+Lv 32 cooldudeirl 386 HP
+Lv 32 Rune Golem 355 HP
+
+cooldudeirl attacks!
+cooldudeirl's Heavy Blow activated!
+118 damage!
+Rune Golem attacks!
+35 damage!
+
+TURN 2
+Lv 32 cooldudeirl 351 HP
+Lv 32 Rune Golem 237 HP
+
+cooldudeirl attacks!
+55 damage!
+Rune Golem attacks!
+35 damage!
+
+TURN 3
+Lv 32 cooldudeirl 316 HP
+Lv 32 Rune Golem 182 HP
+
+cooldudeirl attacks!
+cooldudeirl's Lay On Hands activated!
+cooldudeirl healed for 70!
+55 damage!
+Rune Golem attacks!
+35 damage!
+
+TURN 4
+Lv 32 cooldudeirl 351 HP
+Lv 32 Rune Golem 127 HP
+
+cooldudeirl attacks!
+cooldudeirl's Heavy Blow activated!
+118 damage!
+Rune Golem attacks!
+Blocked!
+
+TURN 5
+Lv 32 cooldudeirl 351 HP
+Lv 32 Rune Golem 9 HP
+
+cooldudeirl attacks!
+cooldudeirl's Lay On Hands activated!
+cooldudeirl healed for 35!
+55 damage!
+cooldudeirl wins!
+
+
+Recieved 13 gold!
+
+*****ENCOUNTER!*****
+
+LEVEL 32 Banshee
+
+STR: 13 + 5%
+AGI: 100 + 55%
+VIT: 74 + 40%
+INT: 92 + 50%
+DEX: 71 + 40%
+
+TURN 1
+Lv 32 cooldudeirl 386 HP
+Lv 32 Banshee 190 HP
+
+cooldudeirl attacks!
+105 damage!
+Banshee attacks!
+Blocked!
+
+TURN 2
+Lv 32 cooldudeirl 386 HP
+Lv 32 Banshee 85 HP
+
+cooldudeirl attacks!
+105 damage!
+cooldudeirl wins!
+
+
+Recieved 10 gold!
+
+*****ENCOUNTER!*****
+
+LEVEL 32 Skeletal Mage
+
+STR: 12 + 5%
+AGI: 31 + 15%
+VIT: 14 + 10%
+INT: 69 + 40%
+DEX: 61 + 25%
+
+TURN 1
+Lv 32 cooldudeirl 386 HP
+Lv 32 Skeletal Mage 40 HP
+
+cooldudeirl attacks!
+cooldudeirl's Heavy Blow activated!
+Critical strike!
+434 damage!
+cooldudeirl wins!
+
+
+Recieved 13 gold!
+
+*****ENCOUNTER!*****
+
+LEVEL 32 Skeletal Mage
+
+STR: 11 + 5%
+AGI: 36 + 15%
+VIT: 25 + 10%
+INT: 83 + 40%
+DEX: 39 + 25%
+
+TURN 1
+Lv 32 cooldudeirl 386 HP
+Lv 32 Skeletal Mage 67 HP
+
+cooldudeirl attacks!
+135 damage!
+cooldudeirl wins!
+
+
+Recieved 8 gold!
+
+*****ENCOUNTER!*****
+
+LEVEL 32 Apoplexy
+
+STR: 113 + 60%
+AGI: 136 + 80%
+VIT: 23 + 10%
+INT: 17 + 5%
+DEX: 9 + 5%
+
+TURN 1
+Lv 32 cooldudeirl 386 HP
+Lv 32 Apoplexy 62 HP
+
+cooldudeirl attacks!
+cooldudeirl's Heavy Blow activated!
+212 damage!
+cooldudeirl wins!
+
+
+Recieved 12 gold!
+Received Lv.35 Battleaxe!
+
+
+*****ENCOUNTER!*****
+
+LEVEL 32 Clay Golem
+
+STR: 72 + 40%
+AGI: 49 + 25%
+VIT: 138 + 75%
+INT: 17 + 5%
+DEX: 8 + 5%
+
+TURN 1
+Lv 32 cooldudeirl 386 HP
+Lv 32 Clay Golem 350 HP
+
+cooldudeirl attacks!
+79 damage!
+Clay Golem attacks!
+Missed!
+
+TURN 2
+Lv 32 cooldudeirl 386 HP
+Lv 32 Clay Golem 271 HP
+
+cooldudeirl attacks!
+79 damage!
+Clay Golem attacks!
+Blocked!
+
+TURN 3
+Lv 32 cooldudeirl 386 HP
+Lv 32 Clay Golem 192 HP
+
+cooldudeirl attacks!
+79 damage!
+Clay Golem attacks!
+Missed!
+
+TURN 4
+Lv 32 cooldudeirl 386 HP
+Lv 32 Clay Golem 113 HP
+
+cooldudeirl attacks!
+cooldudeirl's Lay On Hands activated!
+cooldudeirl healed for 0!
+Critical strike!
+158 damage!
+cooldudeirl wins!
+
+
+Recieved 10 gold!
+
+*****ENCOUNTER!*****
+
+LEVEL 32 Skeletal Archer
+
+STR: 61 + 30%
+AGI: 80 + 40%
+VIT: 34 + 15%
+INT: 10 + 5%
+DEX: 57 + 30%
+
+TURN 1
+Lv 32 cooldudeirl 386 HP
+Lv 32 Skeletal Archer 90 HP
+
+cooldudeirl attacks!
+131 damage!
+cooldudeirl wins!
+
+
+Recieved 12 gold!
+
+*****ENCOUNTER!*****
+
+LEVEL 32 Skeletal Warrior
+
+STR: 113 + 60%
+AGI: 26 + 15%
+VIT: 38 + 20%
+INT: 8 + 5%
+DEX: 31 + 20%
+
+TURN 1
+Lv 32 cooldudeirl 386 HP
+Lv 32 Skeletal Warrior 100 HP
+
+cooldudeirl attacks!
+129 damage!
+cooldudeirl wins!
+
+
+Recieved 10 gold!
+
+*****ENCOUNTER!*****
+
+LEVEL 32 Aberration
+
+STR: 95 + 50%
+AGI: 78 + 40%
+VIT: 115 + 65%
+INT: 15 + 5%
+DEX: 45 + 25%
+
+TURN 1
+Lv 32 cooldudeirl 386 HP
+Lv 32 Aberration 292 HP
+
+cooldudeirl attacks!
+cooldudeirl's Heavy Blow activated!
+165 damage!
+Aberration attacks!
+Critical strike!
+60 damage!
+
+TURN 2
+Lv 32 cooldudeirl 326 HP
+Lv 32 Aberration 127 HP
+
+cooldudeirl attacks!
+91 damage!
+Aberration attacks!
+Blocked!
+
+TURN 3
+Lv 32 cooldudeirl 326 HP
+Lv 32 Aberration 36 HP
+
+cooldudeirl attacks!
+72 damage!
+cooldudeirl wins!
+
+
+Recieved 10 gold!
+
+*****ENCOUNTER!*****
+
+LEVEL 32 Ghast
+
+STR: 121 + 70%
+AGI: 78 + 40%
+VIT: 46 + 20%
+INT: 8 + 5%
+DEX: 11 + 5%
+
+TURN 1
+Lv 32 cooldudeirl 386 HP
+Lv 32 Ghast 120 HP
+
+cooldudeirl attacks!
+125 damage!
+cooldudeirl wins!
+
+
+Recieved 11 gold!
+
+*****ENCOUNTER!*****
+
+LEVEL 32 Skeletal Warrior
+
+STR: 118 + 60%
+AGI: 21 + 15%
+VIT: 42 + 20%
+INT: 7 + 5%
+DEX: 33 + 20%
+
+TURN 1
+Lv 32 cooldudeirl 386 HP
+Lv 32 Skeletal Warrior 110 HP
+
+cooldudeirl attacks!
+cooldudeirl's Heavy Blow activated!
+Critical strike!
+402 damage!
+cooldudeirl wins!
+
+
+
+***LEVEL UP!***
+Level 32->33
+STR 110->112 +(2)
+AGI 31->33 +(2)
+VIT 112->114 +(2)
+INT 91->93 +(2)
+DEX 66->68 +(2)
+
+
+Recieved 7 gold!
+
+*****ENCOUNTER!*****
+
+LEVEL 33 Skeletal Mage
+
+STR: 17 + 5%
+AGI: 28 + 15%
+VIT: 23 + 10%
+INT: 71 + 40%
+DEX: 47 + 25%
+
+TURN 1
+Lv 33 cooldudeirl 393 HP
+Lv 33 Skeletal Mage 62 HP
+
+cooldudeirl attacks!
+cooldudeirl's Lay On Hands activated!
+cooldudeirl healed for 0!
+139 damage!
+cooldudeirl wins!
+
+
+Recieved 9 gold!
+
+*****ENCOUNTER!*****
+
+LEVEL 33 Slime
+
+STR: 68 + 40%
+AGI: 30 + 15%
+VIT: 80 + 40%
+INT: 10 + 5%
+DEX: 8 + 5%
+
+TURN 1
+Lv 33 cooldudeirl 393 HP
+Lv 33 Slime 205 HP
+
+cooldudeirl attacks!
+cooldudeirl's Heavy Blow activated!
+185 damage!
+Slime attacks!
+Blocked!
+
+TURN 2
+Lv 33 cooldudeirl 393 HP
+Lv 33 Slime 20 HP
+
+cooldudeirl attacks!
+cooldudeirl's Heavy Blow activated!
+185 damage!
+cooldudeirl wins!
+
+
+Recieved 11 gold!
+
+*****ENCOUNTER!*****
+
+LEVEL 33 Hexmage
+
+STR: 5 + 5%
+AGI: 43 + 25%
+VIT: 57 + 30%
+INT: 77 + 40%
+DEX: 14 + 5%
+
+TURN 1
+Lv 33 cooldudeirl 393 HP
+Lv 33 Hexmage 147 HP
+
+cooldudeirl attacks!
+cooldudeirl's Lay On Hands activated!
+cooldudeirl healed for 0!
+46 damage!
+Hexmage attacks!
+77 damage!
+
+TURN 2
+Lv 33 cooldudeirl 316 HP
+Lv 33 Hexmage 101 HP
+
+cooldudeirl attacks!
+cooldudeirl's Lay On Hands activated!
+cooldudeirl healed for 77!
+46 damage!
+Hexmage attacks!
+77 damage!
+
+TURN 3
+Lv 33 cooldudeirl 316 HP
+Lv 33 Hexmage 55 HP
+
+cooldudeirl attacks!
+46 damage!
+Hexmage attacks!
+77 damage!
+
+TURN 4
+Lv 33 cooldudeirl 239 HP
+Lv 33 Hexmage 9 HP
+
+cooldudeirl attacks!
+46 damage!
+cooldudeirl wins!
+
+
+Recieved 8 gold!
+
+*****ENCOUNTER!*****
+
+LEVEL 33 Hexmage
+
+STR: 14 + 5%
+AGI: 41 + 25%
+VIT: 60 + 30%
+INT: 75 + 40%
+DEX: 9 + 5%
+
+TURN 1
+Lv 33 cooldudeirl 393 HP
+Lv 33 Hexmage 155 HP
+
+cooldudeirl attacks!
+44 damage!
+Hexmage attacks!
+75 damage!
+
+TURN 2
+Lv 33 cooldudeirl 318 HP
+Lv 33 Hexmage 111 HP
+
+cooldudeirl attacks!
+cooldudeirl's Heavy Blow activated!
+195 damage!
+cooldudeirl wins!
+
+
+Recieved 13 gold!
+
+*****ENCOUNTER!*****
+
+LEVEL 33 Revenant
+
+STR: 13 + 5%
+AGI: 103 + 60%
+VIT: 42 + 20%
+INT: 101 + 60%
+DEX: 12 + 5%
+
+TURN 1
+Lv 33 cooldudeirl 393 HP
+Lv 33 Revenant 110 HP
+
+cooldudeirl attacks!
+129 damage!
+cooldudeirl wins!
+
+
+Recieved 10 gold!
+
+*****ENCOUNTER!*****
+
+LEVEL 33 Returned
+
+STR: 150 + 80%
+AGI: 18 + 10%
+VIT: 52 + 30%
+INT: 10 + 5%
+DEX: 14 + 5%
+
+TURN 1
+Lv 33 cooldudeirl 393 HP
+Lv 33 Returned 135 HP
+
+cooldudeirl attacks!
+124 damage!
+Returned attacks!
+84 damage!
+
+TURN 2
+Lv 33 cooldudeirl 309 HP
+Lv 33 Returned 11 HP
+
+cooldudeirl attacks!
+Critical strike!
+248 damage!
+cooldudeirl wins!
+
+
+Recieved 10 gold!
+Received Lv.33 Warhammer!
+
+
+*****ENCOUNTER!*****
+
+LEVEL 33 Depthdweller
+
+STR: 106 + 55%
+AGI: 33 + 25%
+VIT: 98 + 55%
+INT: 9 + 5%
+DEX: 64 + 35%
+
+TURN 1
+Lv 33 cooldudeirl 393 HP
+Lv 33 Depthdweller 250 HP
+
+cooldudeirl attacks!
+118 damage!
+Depthdweller attacks!
+40 damage!
+
+TURN 2
+Lv 33 cooldudeirl 353 HP
+Lv 33 Depthdweller 132 HP
+
+cooldudeirl attacks!
+cooldudeirl's Lay On Hands activated!
+cooldudeirl healed for 40!
+118 damage!
+Depthdweller attacks!
+40 damage!
+
+TURN 3
+Lv 33 cooldudeirl 353 HP
+Lv 33 Depthdweller 14 HP
+
+cooldudeirl attacks!
+118 damage!
+cooldudeirl wins!
+
+
+Recieved 8 gold!
+
+*****ENCOUNTER!*****
+
+LEVEL 33 Apoplexy
+
+STR: 101 + 60%
+AGI: 151 + 80%
+VIT: 24 + 10%
+INT: 10 + 5%
+DEX: 9 + 5%
+
+TURN 1
+Lv 33 cooldudeirl 393 HP
+Lv 33 Apoplexy 65 HP
+
+cooldudeirl attacks!
+Critical strike!
+274 damage!
+cooldudeirl wins!
+
+
+Recieved 12 gold!
+
+*****ENCOUNTER!*****
+
+LEVEL 33 Hexmage
+
+STR: 12 + 5%
+AGI: 49 + 25%
+VIT: 58 + 30%
+INT: 92 + 40%
+DEX: 12 + 5%
+
+TURN 1
+Lv 33 cooldudeirl 393 HP
+Lv 33 Hexmage 150 HP
+
+cooldudeirl attacks!
+56 damage!
+Hexmage attacks!
+92 damage!
+
+TURN 2
+Lv 33 cooldudeirl 301 HP
+Lv 33 Hexmage 94 HP
+
+cooldudeirl attacks!
+56 damage!
+Hexmage attacks!
+92 damage!
+
+TURN 3
+Lv 33 cooldudeirl 209 HP
+Lv 33 Hexmage 38 HP
+
+cooldudeirl attacks!
+56 damage!
+cooldudeirl wins!
+
+
+
+***LEVEL UP!***
+Level 33->34
+STR 112->114 +(2)
+AGI 33->33 +(0)
+VIT 114->116 +(2)
+INT 93->95 +(2)
+DEX 68->68 +(0)
+
+
+Recieved 9 gold!
+
+*****ENCOUNTER!*****
+
+LEVEL 34 Clay Golem
+
+STR: 97 + 40%
+AGI: 43 + 25%
+VIT: 145 + 75%
+INT: 13 + 5%
+DEX: 11 + 5%
+
+TURN 1
+Lv 34 cooldudeirl 398 HP
+Lv 34 Clay Golem 367 HP
+
+cooldudeirl attacks!
+cooldudeirl's Heavy Blow activated!
+181 damage!
+Clay Golem attacks!
+Missed!
+
+TURN 2
+Lv 34 cooldudeirl 398 HP
+Lv 34 Clay Golem 186 HP
+
+cooldudeirl attacks!
+109 damage!
+Clay Golem attacks!
+Blocked!
+
+TURN 3
+Lv 34 cooldudeirl 398 HP
+Lv 34 Clay Golem 77 HP
+
+cooldudeirl attacks!
+109 damage!
+cooldudeirl wins!
+
+
+Recieved 11 gold!
+Received Lv.36 Estoc!
+
+
+*****ENCOUNTER!*****
+
+LEVEL 34 Hexmage
+
+STR: 6 + 5%
+AGI: 56 + 25%
+VIT: 51 + 30%
+INT: 88 + 40%
+DEX: 10 + 5%
+
+TURN 1
+Lv 34 cooldudeirl 398 HP
+Lv 34 Hexmage 132 HP
+
+cooldudeirl attacks!
+cooldudeirl's Heavy Blow activated!
+167 damage!
+cooldudeirl wins!
+
+
+Recieved 7 gold!
+
+*****ENCOUNTER!*****
+
+LEVEL 34 Revenant
+
+STR: 15 + 5%
+AGI: 104 + 60%
+VIT: 42 + 20%
+INT: 113 + 60%
+DEX: 14 + 5%
+
+TURN 1
+Lv 34 cooldudeirl 398 HP
+Lv 34 Revenant 110 HP
+
+cooldudeirl attacks!
+Critical strike!
+214 damage!
+cooldudeirl wins!
+
+
+Recieved 11 gold!
+
+*****ENCOUNTER!*****
+
+LEVEL 34 Returned
+
+STR: 150 + 80%
+AGI: 16 + 10%
+VIT: 53 + 30%
+INT: 7 + 5%
+DEX: 14 + 5%
+
+TURN 1
+Lv 34 cooldudeirl 398 HP
+Lv 34 Returned 137 HP
+
+cooldudeirl attacks!
+102 damage!
+Returned attacks!
+Blocked!
+
+TURN 2
+Lv 34 cooldudeirl 398 HP
+Lv 34 Returned 35 HP
+
+cooldudeirl attacks!
+102 damage!
+cooldudeirl wins!
+
+
+Recieved 9 gold!
+
+*****ENCOUNTER!*****
+
+LEVEL 34 Returned
+
+STR: 149 + 80%
+AGI: 25 + 10%
+VIT: 51 + 30%
+INT: 16 + 5%
+DEX: 14 + 5%
+
+TURN 1
+Lv 34 cooldudeirl 398 HP
+Lv 34 Returned 132 HP
+
+cooldudeirl attacks!
+103 damage!
+Returned attacks!
+82 damage!
+
+TURN 2
+Lv 34 cooldudeirl 316 HP
+Lv 34 Returned 29 HP
+
+cooldudeirl attacks!
+cooldudeirl's Heavy Blow activated!
+167 damage!
+cooldudeirl wins!
+
+
+Recieved 11 gold!
+
+*****ENCOUNTER!*****
+
+LEVEL 34 Revenant
+
+STR: 10 + 5%
+AGI: 107 + 60%
+VIT: 30 + 20%
+INT: 124 + 60%
+DEX: 13 + 5%
+
+TURN 1
+Lv 34 cooldudeirl 398 HP
+Lv 34 Revenant 80 HP
+
+cooldudeirl attacks!
+113 damage!
+cooldudeirl wins!
+
+
+Recieved 8 gold!
+
+*****ENCOUNTER!*****
+
+LEVEL 34 Skeletal Mage
+
+STR: 8 + 5%
+AGI: 27 + 15%
+VIT: 24 + 10%
+INT: 83 + 40%
+DEX: 49 + 25%
+
+TURN 1
+Lv 34 cooldudeirl 398 HP
+Lv 34 Skeletal Mage 65 HP
+
+cooldudeirl attacks!
+cooldudeirl's Heavy Blow activated!
+Critical strike!
+360 damage!
+cooldudeirl wins!
+
+
+Recieved 13 gold!
+Received Lv.36 Tower Shield!
+
+
+*****ENCOUNTER!*****
+
+LEVEL 34 Slime
+
+STR: 71 + 40%
+AGI: 30 + 15%
+VIT: 78 + 40%
+INT: 16 + 5%
+DEX: 9 + 5%
+
+TURN 1
+Lv 34 cooldudeirl 398 HP
+Lv 34 Slime 200 HP
+
+cooldudeirl attacks!
+cooldudeirl's Heavy Blow activated!
+153 damage!
+Slime attacks!
+Blocked!
+
+TURN 2
+Lv 34 cooldudeirl 398 HP
+Lv 34 Slime 47 HP
+
+cooldudeirl attacks!
+89 damage!
+cooldudeirl wins!
+
+
+
+***LEVEL UP!***
+Level 34->35
+STR 114->117 +(3)
+AGI 33->33 +(0)
+VIT 116->118 +(2)
+INT 95->96 +(1)
+DEX 68->70 +(2)
+
+
+Recieved 13 gold!
+Received Lv.35 Estoc!
+
+
+*****ENCOUNTER!*****
+
+LEVEL 35 Beholder
+
+STR: 87 + 40%
+AGI: 59 + 30%
+VIT: 56 + 30%
+INT: 11 + 5%
+DEX: 67 + 35%
+
+TURN 1
+Lv 35 cooldudeirl 403 HP
+Lv 35 Beholder 145 HP
+
+cooldudeirl attacks!
+cooldudeirl's Lay On Hands activated!
+cooldudeirl healed for 0!
+103 damage!
+Beholder attacks!
+Critical strike!
+38 damage!
+
+TURN 2
+Lv 35 cooldudeirl 365 HP
+Lv 35 Beholder 42 HP
+
+cooldudeirl attacks!
+Critical strike!
+206 damage!
+cooldudeirl wins!
+
+
+Recieved 11 gold!
+
+*****ENCOUNTER!*****
+
+LEVEL 35 Banshee
+
+STR: 9 + 5%
+AGI: 111 + 55%
+VIT: 80 + 40%
+INT: 92 + 50%
+DEX: 64 + 40%
+
+TURN 1
+Lv 35 cooldudeirl 403 HP
+Lv 35 Banshee 205 HP
+
+cooldudeirl attacks!
+cooldudeirl's Heavy Blow activated!
+157 damage!
+Banshee attacks!
+92 damage!
+
+TURN 2
+Lv 35 cooldudeirl 311 HP
+Lv 35 Banshee 48 HP
+
+cooldudeirl attacks!
+cooldudeirl's Lay On Hands activated!
+cooldudeirl healed for 92!
+91 damage!
+cooldudeirl wins!
+
+
+Recieved 9 gold!
+
+*****ENCOUNTER!*****
+
+LEVEL 35 Apoplexy
+
+STR: 118 + 60%
+AGI: 159 + 80%
+VIT: 16 + 10%
+INT: 11 + 5%
+DEX: 13 + 5%
+
+TURN 1
+Lv 35 cooldudeirl 403 HP
+Lv 35 Apoplexy 45 HP
+
+cooldudeirl attacks!
+cooldudeirl's Heavy Blow activated!
+189 damage!
+cooldudeirl wins!
+
+
+Recieved 7 gold!
+
+*****ENCOUNTER!*****
+
+LEVEL 35 Skeletal Warrior
+
+STR: 111 + 60%
+AGI: 29 + 15%
+VIT: 42 + 20%
+INT: 14 + 5%
+DEX: 40 + 20%
+
+TURN 1
+Lv 35 cooldudeirl 403 HP
+Lv 35 Skeletal Warrior 110 HP
+
+cooldudeirl attacks!
+110 damage!
+cooldudeirl wins!
+
+
+Recieved 8 gold!
+
+*****ENCOUNTER!*****
+
+LEVEL 35 Ooze
+
+STR: 57 + 30%
+AGI: 8 + 5%
+VIT: 130 + 65%
+INT: 12 + 5%
+DEX: 13 + 5%
+
+TURN 1
+Lv 35 cooldudeirl 403 HP
+Lv 35 Ooze 330 HP
+
+cooldudeirl attacks!
+cooldudeirl's Heavy Blow activated!
+132 damage!
+Ooze attacks!
+Missed!
+
+TURN 2
+Lv 35 cooldudeirl 403 HP
+Lv 35 Ooze 198 HP
+
+cooldudeirl attacks!
+66 damage!
+Ooze attacks!
+1 damage!
+
+TURN 3
+Lv 35 cooldudeirl 402 HP
+Lv 35 Ooze 132 HP
+
+cooldudeirl attacks!
+Critical strike!
+132 damage!
+cooldudeirl wins!
+
+
+Recieved 9 gold!
+
+*****ENCOUNTER!*****
+
+LEVEL 35 Returned
+
+STR: 162 + 80%
+AGI: 18 + 10%
+VIT: 50 + 30%
+INT: 8 + 5%
+DEX: 10 + 5%
+
+TURN 1
+Lv 35 cooldudeirl 403 HP
+Lv 35 Returned 130 HP
+
+cooldudeirl attacks!
+cooldudeirl's Heavy Blow activated!
+172 damage!
+cooldudeirl wins!
+
+
+Recieved 12 gold!
+
+*****ENCOUNTER!*****
+
+LEVEL 35 Slime
+
+STR: 73 + 40%
+AGI: 34 + 15%
+VIT: 81 + 40%
+INT: 12 + 5%
+DEX: 16 + 5%
+
+TURN 1
+Lv 35 cooldudeirl 403 HP
+Lv 35 Slime 207 HP
+
+cooldudeirl attacks!
+91 damage!
+Slime attacks!
+Missed!
+
+TURN 2
+Lv 35 cooldudeirl 403 HP
+Lv 35 Slime 116 HP
+
+cooldudeirl attacks!
+cooldudeirl's Heavy Blow activated!
+157 damage!
+cooldudeirl wins!
+
+
+Recieved 11 gold!
+
+*****ENCOUNTER!*****
+
+LEVEL 35 Slime
+
+STR: 86 + 40%
+AGI: 39 + 15%
+VIT: 79 + 40%
+INT: 13 + 5%
+DEX: 14 + 5%
+
+TURN 1
+Lv 35 cooldudeirl 403 HP
+Lv 35 Slime 202 HP
+
+cooldudeirl attacks!
+92 damage!
+Slime attacks!
+18 damage!
+
+TURN 2
+Lv 35 cooldudeirl 385 HP
+Lv 35 Slime 110 HP
+
+cooldudeirl attacks!
+cooldudeirl's Heavy Blow activated!
+158 damage!
+cooldudeirl wins!
+
+
+Recieved 13 gold!
+Received Lv.37 Bandanna!
+
+
+*****ENCOUNTER!*****
+
+LEVEL 35 Slime
+
+STR: 76 + 40%
+AGI: 32 + 15%
+VIT: 74 + 40%
+INT: 16 + 5%
+DEX: 12 + 5%
+
+TURN 1
+Lv 35 cooldudeirl 403 HP
+Lv 35 Slime 190 HP
+
+cooldudeirl attacks!
+94 damage!
+Slime attacks!
+Blocked!
+
+TURN 2
+Lv 35 cooldudeirl 403 HP
+Lv 35 Slime 96 HP
+
+cooldudeirl attacks!
+94 damage!
+Slime attacks!
+8 damage!
+
+TURN 3
+Lv 35 cooldudeirl 395 HP
+Lv 35 Slime 2 HP
+
+cooldudeirl attacks!
+Critical strike!
+188 damage!
+cooldudeirl wins!
+
+
+Recieved 8 gold!
+
+*****ENCOUNTER!*****
+
+LEVEL 35 Revenant
+
+STR: 6 + 5%
+AGI: 118 + 60%
+VIT: 45 + 20%
+INT: 121 + 60%
+DEX: 13 + 5%
+
+TURN 1
+Lv 35 cooldudeirl 403 HP
+Lv 35 Revenant 117 HP
+
+cooldudeirl attacks!
+Missed!
+Revenant attacks!
+121 damage!
+
+TURN 2
+Lv 35 cooldudeirl 282 HP
+Lv 35 Revenant 117 HP
+
+cooldudeirl attacks!
+109 damage!
+Revenant attacks!
+121 damage!
+
+TURN 3
+Lv 35 cooldudeirl 161 HP
+Lv 35 Revenant 8 HP
+
+cooldudeirl attacks!
+Critical strike!
+218 damage!
+cooldudeirl wins!
+
+
+Recieved 12 gold!
+
+*****ENCOUNTER!*****
+
+LEVEL 35 Aberration
+
+STR: 99 + 50%
+AGI: 79 + 40%
+VIT: 120 + 65%
+INT: 13 + 5%
+DEX: 55 + 25%
+
+TURN 1
+Lv 35 cooldudeirl 403 HP
+Lv 35 Aberration 305 HP
+
+cooldudeirl attacks!
+71 damage!
+Aberration attacks!
+Blocked!
+
+TURN 2
+Lv 35 cooldudeirl 403 HP
+Lv 35 Aberration 234 HP
+
+cooldudeirl attacks!
+71 damage!
+Aberration attacks!
+Blocked!
+
+TURN 3
+Lv 35 cooldudeirl 403 HP
+Lv 35 Aberration 163 HP
+
+cooldudeirl attacks!
+Critical strike!
+142 damage!
+Aberration attacks!
+Critical strike!
+62 damage!
+
+TURN 4
+Lv 35 cooldudeirl 341 HP
+Lv 35 Aberration 21 HP
+
+cooldudeirl attacks!
+cooldudeirl's Heavy Blow activated!
+117 damage!
+cooldudeirl wins!
+
+
+
+***LEVEL UP!***
+Level 35->36
+STR 117->119 +(2)
+AGI 33->33 +(0)
+VIT 118->121 +(3)
+INT 96->98 +(2)
+DEX 70->71 +(1)
+
+
+Recieved 11 gold!
+Received Lv.39 Circlet!
+
+
+*****ENCOUNTER!*****
+
+LEVEL 36 Revenant
+
+STR: 12 + 5%
+AGI: 135 + 60%
+VIT: 43 + 20%
+INT: 117 + 60%
+DEX: 20 + 5%
+
+TURN 1
+Lv 36 cooldudeirl 413 HP
+Lv 36 Revenant 112 HP
+
+cooldudeirl attacks!
+112 damage!
+cooldudeirl wins!
+
+
+Recieved 8 gold!
+
+*****ENCOUNTER!*****
+
+LEVEL 36 Skeletal Mage
+
+STR: 15 + 5%
+AGI: 34 + 15%
+VIT: 19 + 10%
+INT: 90 + 40%
+DEX: 52 + 25%
+
+TURN 1
+Lv 36 cooldudeirl 413 HP
+Lv 36 Skeletal Mage 52 HP
+
+cooldudeirl attacks!
+124 damage!
+cooldudeirl wins!
+
+
+Recieved 10 gold!
+Received Lv.38 Rosary!
+
+
+*****ENCOUNTER!*****
+
+LEVEL 36 Skeletal Warrior
+
+STR: 123 + 60%
+AGI: 30 + 15%
+VIT: 37 + 20%
+INT: 15 + 5%
+DEX: 30 + 20%
+
+TURN 1
+Lv 36 cooldudeirl 413 HP
+Lv 36 Skeletal Warrior 97 HP
+
+cooldudeirl attacks!
+115 damage!
+cooldudeirl wins!
+
+
+Recieved 10 gold!
+
+*****ENCOUNTER!*****
+
+LEVEL 36 Ooze
+
+STR: 67 + 30%
+AGI: 13 + 5%
+VIT: 134 + 65%
+INT: 16 + 5%
+DEX: 8 + 5%
+
+TURN 1
+Lv 36 cooldudeirl 413 HP
+Lv 36 Ooze 340 HP
+
+cooldudeirl attacks!
+66 damage!
+Ooze attacks!
+Missed!
+
+TURN 2
+Lv 36 cooldudeirl 413 HP
+Lv 36 Ooze 274 HP
+
+cooldudeirl attacks!
+66 damage!
+Ooze attacks!
+Blocked!
+
+TURN 3
+Lv 36 cooldudeirl 413 HP
+Lv 36 Ooze 208 HP
+
+cooldudeirl attacks!
+66 damage!
+Ooze attacks!
+Blocked!
+
+TURN 4
+Lv 36 cooldudeirl 413 HP
+Lv 36 Ooze 142 HP
+
+cooldudeirl attacks!
+cooldudeirl's Heavy Blow activated!
+133 damage!
+Ooze attacks!
+Blocked!
+
+TURN 5
+Lv 36 cooldudeirl 413 HP
+Lv 36 Ooze 9 HP
+
+cooldudeirl attacks!
+cooldudeirl's Heavy Blow activated!
+133 damage!
+cooldudeirl wins!
+
+
+Recieved 9 gold!
+
+*****ENCOUNTER!*****
+
+LEVEL 36 Depthdweller
+
+STR: 102 + 55%
+AGI: 65 + 25%
+VIT: 101 + 55%
+INT: 8 + 5%
+DEX: 77 + 35%
+
+TURN 1
+Lv 36 cooldudeirl 413 HP
+Lv 36 Depthdweller 257 HP
+
+cooldudeirl attacks!
+Missed!
+Depthdweller attacks!
+Blocked!
+
+TURN 2
+Lv 36 cooldudeirl 413 HP
+Lv 36 Depthdweller 257 HP
+
+cooldudeirl attacks!
+83 damage!
+Depthdweller attacks!
+Critical strike!
+64 damage!
+
+TURN 3
+Lv 36 cooldudeirl 349 HP
+Lv 36 Depthdweller 174 HP
+
+cooldudeirl attacks!
+83 damage!
+Depthdweller attacks!
+Blocked!
+
+TURN 4
+Lv 36 cooldudeirl 349 HP
+Lv 36 Depthdweller 91 HP
+
+cooldudeirl attacks!
+83 damage!
+Depthdweller attacks!
+Blocked!
+
+TURN 5
+Lv 36 cooldudeirl 349 HP
+Lv 36 Depthdweller 8 HP
+
+cooldudeirl attacks!
+83 damage!
+cooldudeirl wins!
+
+
+Recieved 12 gold!
+Received Lv.39 Naginata!
+
+
+*****ENCOUNTER!*****
+
+LEVEL 36 Depthdweller
+
+STR: 111 + 55%
+AGI: 54 + 25%
+VIT: 114 + 55%
+INT: 11 + 5%
+DEX: 63 + 35%
+
+TURN 1
+Lv 36 cooldudeirl 413 HP
+Lv 36 Depthdweller 290 HP
+
+cooldudeirl attacks!
+cooldudeirl's Heavy Blow activated!
+149 damage!
+Depthdweller attacks!
+Blocked!
+
+TURN 2
+Lv 36 cooldudeirl 413 HP
+Lv 36 Depthdweller 141 HP
+
+cooldudeirl attacks!
+Critical strike!
+160 damage!
+cooldudeirl wins!
+
+
+Recieved 10 gold!
+
+*****ENCOUNTER!*****
+
+LEVEL 36 Skeletal Archer
+
+STR: 64 + 30%
+AGI: 76 + 40%
+VIT: 39 + 15%
+INT: 16 + 5%
+DEX: 67 + 30%
+
+TURN 1
+Lv 36 cooldudeirl 413 HP
+Lv 36 Skeletal Archer 102 HP
+
+cooldudeirl attacks!
+118 damage!
+cooldudeirl wins!
+
+
+Recieved 8 gold!
+Received Lv.36 Sage's Diary!
+
+
+*****ENCOUNTER!*****
+
+LEVEL 36 Returned
+
+STR: 150 + 80%
+AGI: 16 + 10%
+VIT: 67 + 30%
+INT: 14 + 5%
+DEX: 9 + 5%
+
+TURN 1
+Lv 36 cooldudeirl 413 HP
+Lv 36 Returned 172 HP
+
+cooldudeirl attacks!
+cooldudeirl's Heavy Blow activated!
+178 damage!
+cooldudeirl wins!
+
+
+Recieved 7 gold!
+
+*****ENCOUNTER!*****
+
+LEVEL 36 Rune Golem
+
+STR: 106 + 50%
+AGI: 15 + 5%
+VIT: 152 + 75%
+INT: 13 + 5%
+DEX: 47 + 25%
+
+TURN 1
+Lv 36 cooldudeirl 413 HP
+Lv 36 Rune Golem 385 HP
+
+cooldudeirl attacks!
+176 damage!
+Rune Golem attacks!
+Blocked!
+
+TURN 2
+Lv 36 cooldudeirl 413 HP
+Lv 36 Rune Golem 209 HP
+
+cooldudeirl attacks!
+176 damage!
+Rune Golem attacks!
+36 damage!
+
+TURN 3
+Lv 36 cooldudeirl 377 HP
+Lv 36 Rune Golem 33 HP
+
+cooldudeirl attacks!
+cooldudeirl's Heavy Blow activated!
+178 damage!
+cooldudeirl wins!
+
+
+Recieved 10 gold!
+
+*****ENCOUNTER!*****
+
+LEVEL 36 Skeletal Warrior
+
+STR: 129 + 60%
+AGI: 41 + 15%
+VIT: 41 + 20%
+INT: 13 + 5%
+DEX: 38 + 20%
+
+TURN 1
+Lv 36 cooldudeirl 413 HP
+Lv 36 Skeletal Warrior 107 HP
+
+cooldudeirl attacks!
+176 damage!
+cooldudeirl wins!
+
+
+Recieved 8 gold!
+Received Lv.36 Sabbath!
+
+
+*****ENCOUNTER!*****
+
+LEVEL 36 Skeletal Mage
+
+STR: 9 + 5%
+AGI: 36 + 15%
+VIT: 21 + 10%
+INT: 87 + 40%
+DEX: 49 + 25%
+
+TURN 1
+Lv 36 cooldudeirl 413 HP
+Lv 36 Skeletal Mage 57 HP
+
+cooldudeirl attacks!
+cooldudeirl's Heavy Blow activated!
+345 damage!
+cooldudeirl wins!
+
+
+
+***LEVEL UP!***
+Level 36->37
+STR 119->122 +(3)
+AGI 33->34 +(1)
+VIT 121->123 +(2)
+INT 98->100 +(2)
+DEX 71->73 +(2)
+
+
+Recieved 13 gold!
+
+*****ENCOUNTER!*****
+
+LEVEL 37 Beholder
+
+STR: 86 + 40%
+AGI: 61 + 30%
+VIT: 65 + 30%
+INT: 7 + 5%
+DEX: 74 + 35%
+
+TURN 1
+Lv 37 cooldudeirl 418 HP
+Lv 37 Beholder 167 HP
+
+cooldudeirl is paralyzed by Beholder's Glare this turn!
+Beholder attacks!
+Blocked!
+
+TURN 2
+Lv 37 cooldudeirl 418 HP
+Lv 37 Beholder 167 HP
+
+cooldudeirl attacks!
+116 damage!
+Beholder attacks!
+15 damage!
+
+TURN 3
+Lv 37 cooldudeirl 403 HP
+Lv 37 Beholder 51 HP
+
+cooldudeirl attacks!
+116 damage!
+cooldudeirl wins!
+
+
+Recieved 10 gold!
+
+*****ENCOUNTER!*****
+
+LEVEL 37 Clay Golem
+
+STR: 88 + 40%
+AGI: 52 + 25%
+VIT: 148 + 75%
+INT: 13 + 5%
+DEX: 16 + 5%
+
+TURN 1
+Lv 37 cooldudeirl 418 HP
+Lv 37 Clay Golem 375 HP
+
+cooldudeirl attacks!
+cooldudeirl's Lay On Hands activated!
+cooldudeirl healed for 0!
+74 damage!
+Clay Golem attacks!
+Blocked!
+
+TURN 2
+Lv 37 cooldudeirl 418 HP
+Lv 37 Clay Golem 301 HP
+
+cooldudeirl attacks!
+74 damage!
+Clay Golem attacks!
+Critical strike!
+34 damage!
+
+TURN 3
+Lv 37 cooldudeirl 384 HP
+Lv 37 Clay Golem 227 HP
+
+cooldudeirl attacks!
+Missed!
+Clay Golem attacks!
+Blocked!
+
+TURN 4
+Lv 37 cooldudeirl 384 HP
+Lv 37 Clay Golem 227 HP
+
+cooldudeirl attacks!
+Critical strike!
+148 damage!
+Clay Golem attacks!
+Blocked!
+
+TURN 5
+Lv 37 cooldudeirl 384 HP
+Lv 37 Clay Golem 79 HP
+
+cooldudeirl attacks!
+cooldudeirl's Heavy Blow activated!
+Critical strike!
+296 damage!
+cooldudeirl wins!
+
+
+Recieved 12 gold!
+
+*****ENCOUNTER!*****
+
+LEVEL 37 Shrieker
+
+STR: 12 + 5%
+AGI: 123 + 60%
+VIT: 67 + 30%
+INT: 76 + 40%
+DEX: 8 + 5%
+
+TURN 1
+Lv 37 cooldudeirl 418 HP
+Lv 37 Shrieker 172 HP
+
+cooldudeirl attacks!
+115 damage!
+Shrieker attacks!
+Missed!
+
+TURN 2
+Lv 37 cooldudeirl 418 HP
+Lv 37 Shrieker 57 HP
+
+cooldudeirl attacks!
+Missed!
+Shrieker attacks!
+Critical strike!
+121 damage!
+
+TURN 3
+Lv 37 cooldudeirl 297 HP
+Lv 37 Shrieker 57 HP
+
+cooldudeirl attacks!
+115 damage!
+cooldudeirl wins!
+
+
+Recieved 9 gold!
+
+*****ENCOUNTER!*****
+
+LEVEL 37 Ghast
+
+STR: 147 + 70%
+AGI: 75 + 40%
+VIT: 35 + 20%
+INT: 12 + 5%
+DEX: 15 + 5%
+
+TURN 1
+Lv 37 cooldudeirl 418 HP
+Lv 37 Ghast 92 HP
+
+cooldudeirl attacks!
+Missed!
+Ghast attacks!
+Missed!
+
+TURN 2
+Lv 37 cooldudeirl 418 HP
+Lv 37 Ghast 92 HP
+
+cooldudeirl attacks!
+217 damage!
+cooldudeirl wins!
+
+
+Recieved 13 gold!
+
+*****ENCOUNTER!*****
+
+LEVEL 37 Skeletal Archer
+
+STR: 73 + 30%
+AGI: 87 + 40%
+VIT: 28 + 15%
+INT: 8 + 5%
+DEX: 69 + 30%
+
+TURN 1
+Lv 37 cooldudeirl 418 HP
+Lv 37 Skeletal Archer 75 HP
+
+cooldudeirl attacks!
+222 damage!
+cooldudeirl wins!
+
+
+Recieved 9 gold!
+
+*****ENCOUNTER!*****
+
+LEVEL 37 Banshee
+
+STR: 11 + 5%
+AGI: 116 + 55%
+VIT: 81 + 40%
+INT: 97 + 50%
+DEX: 82 + 40%
+
+TURN 1
+Lv 37 cooldudeirl 418 HP
+Lv 37 Banshee 207 HP
+
+cooldudeirl attacks!
+Missed!
+Banshee attacks!
+77 damage!
+
+TURN 2
+Lv 37 cooldudeirl 341 HP
+Lv 37 Banshee 207 HP
+
+cooldudeirl attacks!
+Missed!
+Banshee attacks!
+77 damage!
+
+TURN 3
+Lv 37 cooldudeirl 264 HP
+Lv 37 Banshee 207 HP
+
+cooldudeirl attacks!
+Missed!
+Banshee attacks!
+77 damage!
+
+TURN 4
+Lv 37 cooldudeirl 187 HP
+Lv 37 Banshee 207 HP
+
+cooldudeirl attacks!
+Missed!
+Banshee attacks!
+Critical strike!
+155 damage!
+
+TURN 5
+Lv 37 cooldudeirl 32 HP
+Lv 37 Banshee 207 HP
+
+cooldudeirl used the Bandages! Restored 386 HP!
+Banshee attacks!
+77 damage!
+
+TURN 6
+Lv 37 cooldudeirl 341 HP
+Lv 37 Banshee 207 HP
+
+cooldudeirl attacks!
+Missed!
+Banshee attacks!
+77 damage!
+
+TURN 7
+Lv 37 cooldudeirl 264 HP
+Lv 37 Banshee 207 HP
+
+cooldudeirl attacks!
+Missed!
+Banshee attacks!
+Critical strike!
+155 damage!
+
+TURN 8
+Lv 37 cooldudeirl 109 HP
+Lv 37 Banshee 207 HP
+
+cooldudeirl used the Elixir! Restored 271 HP!
+cooldudeirl attacks!
+cooldudeirl's Lay On Hands activated!
+cooldudeirl healed for 38!
+179 damage!
+Banshee attacks!
+Critical strike!
+155 damage!
+
+TURN 9
+Lv 37 cooldudeirl 263 HP
+Lv 37 Banshee 28 HP
+
+cooldudeirl attacks!
+179 damage!
+cooldudeirl wins!
+
+
+Recieved 10 gold!
+
+*****ENCOUNTER!*****
+
+LEVEL 37 Aberration
+
+STR: 109 + 50%
+AGI: 76 + 40%
+VIT: 129 + 65%
+INT: 13 + 5%
+DEX: 50 + 25%
+
+TURN 1
+Lv 37 cooldudeirl 418 HP
+Lv 37 Aberration 327 HP
+
+cooldudeirl attacks!
+cooldudeirl's Heavy Blow activated!
+262 damage!
+Aberration attacks!
+Blocked!
+
+TURN 2
+Lv 37 cooldudeirl 418 HP
+Lv 37 Aberration 65 HP
+
+cooldudeirl attacks!
+104 damage!
+cooldudeirl wins!
+
+
+Recieved 12 gold!
+Received Lv.35 Longbow!
+
+
+*****ENCOUNTER!*****
+
+LEVEL 37 Clay Golem
+
+STR: 73 + 40%
+AGI: 57 + 25%
+VIT: 152 + 75%
+INT: 7 + 5%
+DEX: 10 + 5%
+
+TURN 1
+Lv 37 cooldudeirl 418 HP
+Lv 37 Clay Golem 385 HP
+
+cooldudeirl attacks!
+cooldudeirl's Lay On Hands activated!
+cooldudeirl healed for 0!
+90 damage!
+Clay Golem attacks!
+Blocked!
+
+TURN 2
+Lv 37 cooldudeirl 418 HP
+Lv 37 Clay Golem 295 HP
+
+cooldudeirl attacks!
+cooldudeirl's Heavy Blow activated!
+173 damage!
+Clay Golem attacks!
+Blocked!
+
+TURN 3
+Lv 37 cooldudeirl 418 HP
+Lv 37 Clay Golem 122 HP
+
+cooldudeirl attacks!
+cooldudeirl's Heavy Blow activated!
+Critical strike!
+346 damage!
+cooldudeirl wins!
+
+
+Recieved 7 gold!
+
+*****ENCOUNTER!*****
+
+LEVEL 37 Ooze
+
+STR: 59 + 30%
+AGI: 15 + 5%
+VIT: 129 + 65%
+INT: 11 + 5%
+DEX: 11 + 5%
+
+TURN 1
+Lv 37 cooldudeirl 418 HP
+Lv 37 Ooze 327 HP
+
+cooldudeirl attacks!
+102 damage!
+Ooze attacks!
+Blocked!
+
+TURN 2
+Lv 37 cooldudeirl 418 HP
+Lv 37 Ooze 225 HP
+
+cooldudeirl attacks!
+cooldudeirl's Lay On Hands activated!
+cooldudeirl healed for 0!
+102 damage!
+Ooze attacks!
+Blocked!
+
+TURN 3
+Lv 37 cooldudeirl 418 HP
+Lv 37 Ooze 123 HP
+
+cooldudeirl attacks!
+cooldudeirl's Lay On Hands activated!
+cooldudeirl healed for 0!
+102 damage!
+Ooze attacks!
+Blocked!
+
+TURN 4
+Lv 37 cooldudeirl 418 HP
+Lv 37 Ooze 21 HP
+
+cooldudeirl attacks!
+102 damage!
+cooldudeirl wins!
+
+
+Recieved 13 gold!
+
+*****ENCOUNTER!*****
+
+LEVEL 37 Ooze
+
+STR: 62 + 30%
+AGI: 21 + 5%
+VIT: 139 + 65%
+INT: 12 + 5%
+DEX: 17 + 5%
+
+TURN 1
+Lv 37 cooldudeirl 418 HP
+Lv 37 Ooze 352 HP
+
+cooldudeirl attacks!
+97 damage!
+Ooze attacks!
+Blocked!
+
+TURN 2
+Lv 37 cooldudeirl 418 HP
+Lv 37 Ooze 255 HP
+
+cooldudeirl attacks!
+cooldudeirl's Heavy Blow activated!
+180 damage!
+Ooze attacks!
+Blocked!
+
+TURN 3
+Lv 37 cooldudeirl 418 HP
+Lv 37 Ooze 75 HP
+
+cooldudeirl attacks!
+97 damage!
+cooldudeirl wins!
+
+
+Recieved 10 gold!
+Received Lv.36 Arming Sword!
+
+
+*****ENCOUNTER!*****
+
+LEVEL 37 Depthdweller
+
+STR: 129 + 55%
+AGI: 53 + 25%
+VIT: 128 + 55%
+INT: 17 + 5%
+DEX: 79 + 35%
+
+TURN 1
+Lv 37 cooldudeirl 418 HP
+Lv 37 Depthdweller 325 HP
+
+cooldudeirl attacks!
+Critical strike!
+162 damage!
+Depthdweller attacks!
+Blocked!
+
+TURN 2
+Lv 37 cooldudeirl 418 HP
+Lv 37 Depthdweller 163 HP
+
+cooldudeirl attacks!
+81 damage!
+Depthdweller attacks!
+58 damage!
+
+TURN 3
+Lv 37 cooldudeirl 360 HP
+Lv 37 Depthdweller 82 HP
+
+cooldudeirl attacks!
+cooldudeirl's Heavy Blow activated!
+154 damage!
+cooldudeirl wins!
+
+
+
+***LEVEL UP!***
+Level 37->38
+STR 122->124 +(2)
+AGI 34->34 +(0)
+VIT 123->125 +(2)
+INT 100->102 +(2)
+DEX 73->73 +(0)
+
+
+Recieved 10 gold!
+Received Lv.40 Composite Bow!
+
+
+*****ENCOUNTER!*****
+
+LEVEL 38 Aberration
+
+STR: 95 + 50%
+AGI: 82 + 40%
+VIT: 141 + 65%
+INT: 13 + 5%
+DEX: 55 + 25%
+
+TURN 1
+Lv 38 cooldudeirl 423 HP
+Lv 38 Aberration 357 HP
+
+cooldudeirl attacks!
+76 damage!
+Aberration attacks!
+23 damage!
+
+TURN 2
+Lv 38 cooldudeirl 400 HP
+Lv 38 Aberration 281 HP
+
+cooldudeirl attacks!
+cooldudeirl's Heavy Blow activated!
+149 damage!
+Aberration attacks!
+23 damage!
+
+TURN 3
+Lv 38 cooldudeirl 377 HP
+Lv 38 Aberration 132 HP
+
+cooldudeirl attacks!
+76 damage!
+Aberration attacks!
+23 damage!
+
+TURN 4
+Lv 38 cooldudeirl 354 HP
+Lv 38 Aberration 56 HP
+
+cooldudeirl attacks!
+53 damage!
+Aberration attacks!
+Critical strike!
+46 damage!
+
+TURN 5
+Lv 38 cooldudeirl 308 HP
+Lv 38 Aberration 3 HP
+
+cooldudeirl attacks!
+53 damage!
+cooldudeirl wins!
+
+
+Recieved 13 gold!
+
+*****ENCOUNTER!*****
+
+LEVEL 38 Ooze
+
+STR: 71 + 30%
+AGI: 12 + 5%
+VIT: 136 + 65%
+INT: 15 + 5%
+DEX: 14 + 5%
+
+TURN 1
+Lv 38 cooldudeirl 423 HP
+Lv 38 Ooze 345 HP
+
+cooldudeirl attacks!
+78 damage!
+Ooze attacks!
+1 damage!
+
+TURN 2
+Lv 38 cooldudeirl 422 HP
+Lv 38 Ooze 267 HP
+
+cooldudeirl attacks!
+cooldudeirl's Heavy Blow activated!
+151 damage!
+Ooze attacks!
+Blocked!
+
+TURN 3
+Lv 38 cooldudeirl 422 HP
+Lv 38 Ooze 116 HP
+
+cooldudeirl attacks!
+cooldudeirl's Heavy Blow activated!
+151 damage!
+cooldudeirl wins!
+
+
+Recieved 13 gold!
+
+*****ENCOUNTER!*****
+
+LEVEL 38 Shrieker
+
+STR: 10 + 5%
+AGI: 123 + 60%
+VIT: 71 + 30%
+INT: 81 + 40%
+DEX: 11 + 5%
+
+TURN 1
+Lv 38 cooldudeirl 423 HP
+Lv 38 Shrieker 182 HP
+
+cooldudeirl attacks!
+Missed!
+Shrieker attacks!
+64 damage!
+
+TURN 2
+Lv 38 cooldudeirl 359 HP
+Lv 38 Shrieker 182 HP
+
+cooldudeirl attacks!
+Missed!
+Shrieker attacks!
+64 damage!
+
+TURN 3
+Lv 38 cooldudeirl 295 HP
+Lv 38 Shrieker 182 HP
+
+cooldudeirl attacks!
+Missed!
+Shrieker attacks!
+Missed!
+
+TURN 4
+Lv 38 cooldudeirl 295 HP
+Lv 38 Shrieker 182 HP
+
+cooldudeirl attacks!
+111 damage!
+Shrieker attacks!
+Critical strike!
+129 damage!
+
+TURN 5
+Lv 38 cooldudeirl 166 HP
+Lv 38 Shrieker 71 HP
+
+cooldudeirl attacks!
+Missed!
+Shrieker attacks!
+Missed!
+
+TURN 6
+Lv 38 cooldudeirl 166 HP
+Lv 38 Shrieker 71 HP
+
+cooldudeirl attacks!
+Missed!
+Shrieker attacks!
+64 damage!
+
+TURN 7
+Lv 38 cooldudeirl 102 HP
+Lv 38 Shrieker 71 HP
+
+cooldudeirl used the Bandages! Restored 321 HP!
+Shrieker attacks!
+64 damage!
+
+TURN 8
+Lv 38 cooldudeirl 359 HP
+Lv 38 Shrieker 71 HP
+
+cooldudeirl attacks!
+Missed!
+Shrieker attacks!
+64 damage!
+
+TURN 9
+Lv 38 cooldudeirl 295 HP
+Lv 38 Shrieker 71 HP
+
+cooldudeirl attacks!
+Missed!
+Shrieker attacks!
+64 damage!
+
+TURN 10
+Lv 38 cooldudeirl 231 HP
+Lv 38 Shrieker 71 HP
+
+cooldudeirl attacks!
+Critical strike!
+222 damage!
+cooldudeirl wins!
+
+
+Recieved 12 gold!
+Received Lv.38 Leather Tunic!
+
+
+*****ENCOUNTER!*****
+
+LEVEL 38 Slime
+
+STR: 82 + 40%
+AGI: 36 + 15%
+VIT: 75 + 40%
+INT: 10 + 5%
+DEX: 12 + 5%
+
+TURN 1
+Lv 38 cooldudeirl 365 HP
+Lv 38 Slime 192 HP
+
+cooldudeirl attacks!
+cooldudeirl's Heavy Blow activated!
+182 damage!
+Slime attacks!
+Blocked!
+
+TURN 2
+Lv 38 cooldudeirl 365 HP
+Lv 38 Slime 10 HP
+
+cooldudeirl attacks!
+109 damage!
+cooldudeirl wins!
+
+
+Recieved 9 gold!
+
+*****ENCOUNTER!*****
+
+LEVEL 38 Hexmage
+
+STR: 16 + 5%
+AGI: 52 + 25%
+VIT: 57 + 30%
+INT: 87 + 40%
+DEX: 19 + 5%
+
+TURN 1
+Lv 38 cooldudeirl 365 HP
+Lv 38 Hexmage 147 HP
+
+cooldudeirl attacks!
+44 damage!
+Hexmage attacks!
+69 damage!
+
+TURN 2
+Lv 38 cooldudeirl 296 HP
+Lv 38 Hexmage 103 HP
+
+cooldudeirl attacks!
+44 damage!
+Hexmage attacks!
+69 damage!
+
+TURN 3
+Lv 38 cooldudeirl 227 HP
+Lv 38 Hexmage 59 HP
+
+cooldudeirl attacks!
+cooldudeirl's Heavy Blow activated!
+191 damage!
+cooldudeirl wins!
+
+
+Recieved 13 gold!
+Received Lv.37 Bandanna!
+
+
+*****ENCOUNTER!*****
+
+LEVEL 38 Beholder
+
+STR: 81 + 40%
+AGI: 74 + 30%
+VIT: 67 + 30%
+INT: 12 + 5%
+DEX: 75 + 35%
+
+TURN 1
+Lv 38 cooldudeirl 365 HP
+Lv 38 Beholder 172 HP
+
+cooldudeirl attacks!
+113 damage!
+Beholder attacks!
+18 damage!
+
+TURN 2
+Lv 38 cooldudeirl 347 HP
+Lv 38 Beholder 59 HP
+
+cooldudeirl attacks!
+113 damage!
+cooldudeirl wins!
+
+
+Recieved 13 gold!
+
+*****ENCOUNTER!*****
+
+LEVEL 38 Hexmage
+
+STR: 15 + 5%
+AGI: 60 + 25%
+VIT: 51 + 30%
+INT: 98 + 40%
+DEX: 16 + 5%
+
+TURN 1
+Lv 38 cooldudeirl 365 HP
+Lv 38 Hexmage 132 HP
+
+cooldudeirl attacks!
+cooldudeirl's Heavy Blow activated!
+194 damage!
+cooldudeirl wins!
+
+
+Recieved 10 gold!
+Received Lv.37 Hallowed Sabre!
+
+
+*****ENCOUNTER!*****
+
+LEVEL 38 Apoplexy
+
+STR: 142 + 60%
+AGI: 164 + 80%
+VIT: 19 + 10%
+INT: 13 + 5%
+DEX: 12 + 5%
+
+TURN 1
+Lv 38 cooldudeirl 365 HP
+Lv 38 Apoplexy 52 HP
+
+cooldudeirl attacks!
+Missed!
+Apoplexy attacks!
+Critical strike!
+158 damage!
+
+TURN 2
+Lv 38 cooldudeirl 207 HP
+Lv 38 Apoplexy 52 HP
+
+cooldudeirl attacks!
+Missed!
+Apoplexy attacks!
+79 damage!
+
+TURN 3
+Lv 38 cooldudeirl 128 HP
+Lv 38 Apoplexy 52 HP
+
+cooldudeirl attacks!
+cooldudeirl's Lay On Hands activated!
+cooldudeirl healed for 102!
+157 damage!
+cooldudeirl wins!
+
+
+Recieved 12 gold!
+
+*****ENCOUNTER!*****
+
+LEVEL 38 Beholder
+
+STR: 91 + 40%
+AGI: 65 + 30%
+VIT: 67 + 30%
+INT: 18 + 5%
+DEX: 83 + 35%
+
+TURN 1
+Lv 38 cooldudeirl 365 HP
+Lv 38 Beholder 172 HP
+
+cooldudeirl attacks!
+cooldudeirl's Heavy Blow activated!
+177 damage!
+cooldudeirl wins!
+
+
+Recieved 7 gold!
+Received Lv.39 Rune Buckler!
+
+
+*****ENCOUNTER!*****
+
+LEVEL 38 Apoplexy
+
+STR: 125 + 60%
+AGI: 167 + 80%
+VIT: 25 + 10%
+INT: 16 + 5%
+DEX: 13 + 5%
+
+TURN 1
+Lv 38 cooldudeirl 365 HP
+Lv 38 Apoplexy 67 HP
+
+cooldudeirl attacks!
+Missed!
+Apoplexy attacks!
+Missed!
+
+TURN 2
+Lv 38 cooldudeirl 365 HP
+Lv 38 Apoplexy 67 HP
+
+cooldudeirl attacks!
+Missed!
+Apoplexy attacks!
+Missed!
+
+TURN 3
+Lv 38 cooldudeirl 365 HP
+Lv 38 Apoplexy 67 HP
+
+cooldudeirl attacks!
+Missed!
+Apoplexy attacks!
+Critical strike!
+124 damage!
+
+TURN 4
+Lv 38 cooldudeirl 241 HP
+Lv 38 Apoplexy 67 HP
+
+cooldudeirl attacks!
+Missed!
+Apoplexy attacks!
+Missed!
+
+TURN 5
+Lv 38 cooldudeirl 241 HP
+Lv 38 Apoplexy 67 HP
+
+cooldudeirl attacks!
+Missed!
+Apoplexy attacks!
+Blocked!
+
+TURN 6
+Lv 38 cooldudeirl 241 HP
+Lv 38 Apoplexy 67 HP
+
+cooldudeirl attacks!
+Missed!
+Apoplexy attacks!
+Blocked!
+
+TURN 7
+Lv 38 cooldudeirl 241 HP
+Lv 38 Apoplexy 67 HP
+
+cooldudeirl attacks!
+Missed!
+Apoplexy attacks!
+Missed!
+
+TURN 8
+Lv 38 cooldudeirl 241 HP
+Lv 38 Apoplexy 67 HP
+
+cooldudeirl attacks!
+Missed!
+Apoplexy attacks!
+Critical strike!
+124 damage!
+
+TURN 9
+Lv 38 cooldudeirl 117 HP
+Lv 38 Apoplexy 67 HP
+
+cooldudeirl attacks!
+Missed!
+Apoplexy attacks!
+Critical strike!
+124 damage!
+cooldudeirl has fallen in battle...
+
+cooldudeirl'S STAT SHEET
+--------------
+
+LEVEL 38 Paladin\Berserker
+EXP: 107
+GOLD: 3195
+
+BEST  TRAIT: Scholarly
+WORST TRAIT: Helpless
+DISPOSITION: Hapless, But Hopeful
+
+SKILLS
+Lay On Hands
+      (ACT) Heal +MAG HP after attacking
+Heavy Blow
+      (ACT) Deal x1.5 ATK Phys DMG
+
+STR: 124 + 85%
+AGI: 46 + 15%
+VIT: 125 + 80%
+INT: 102 + 60%
+DEX: 83 + 45%
+LUK: -20
+
+HP : 365
+DEF: 63
+ATK: 141
+MAG: 102
+HIT: 121
+AVO: 84
+CRI: 16
+
+EQUIPPED
+HEAD  - Lv.37 Bandanna
+RHAND - Lv.37 Hallowed Sabre
+LHAND - Lv.39 Rune Buckler
+BODY  - Lv.38 Leather Tunic
+ACC   - Lv.38 Rosary
+
+INVENTORY
+--
+
